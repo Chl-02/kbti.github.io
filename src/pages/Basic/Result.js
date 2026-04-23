@@ -39,11 +39,18 @@ class Result extends Component {
       _sharable_url = window.location.href;
     }
 
-    const _current_url = _sharable_url.split(/[?/]/).filter(function (t) {
+    // HashRouter puts the route in window.location.hash (e.g. "#/flowerBTI/result/INFP/").
+    // Parse from there so the test/result indices don't shift due to host segments.
+    const _routePath = window.location.hash.startsWith('#')
+      ? window.location.hash.slice(1)
+      : window.location.pathname;
+    const _current_url = _routePath.split(/[?/]/).filter(function (t) {
       return t !== '';
     });
-    const _current_test = _current_url[3];
-    const _current_result = _current_url[5];
+    const _hasKapPrefix = _current_url[0] === 'kapable.github.io';
+    const _baseIdx = _hasKapPrefix ? 1 : 0;
+    const _current_test = _current_url[_baseIdx];
+    const _current_result = _current_url[_baseIdx + 2];
 
     this.state = {
       mode: 'result',
@@ -2277,9 +2284,7 @@ class Result extends Component {
             <Fragment>
               <img
                 loading='lazy'
-                src={
-                  '/images/resultImages/sinjoer2022/sinjoer2022-wrong.png'
-                }
+                src={'/images/resultImages/sinjoer2022/sinjoer2022-wrong.png'}
                 className='result-img'
                 alt={final_type}
               />
