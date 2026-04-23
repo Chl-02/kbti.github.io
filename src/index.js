@@ -6,6 +6,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
+import PasswordGate from './PasswordGate';
 import reportWebVitals from './reportWebVitals';
 import dayjs from 'dayjs';
 import relativeTime from 'dayjs/plugin/relativeTime';
@@ -20,14 +21,16 @@ dayjs.locale('ko');
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   // <React.StrictMode>
-  <BrowserRouter>
-    <HelmetProvider>
-      <CookiesProvider>
-        <App />
-        <Footer />
-      </CookiesProvider>
-    </HelmetProvider>
-  </BrowserRouter>
+  <PasswordGate>
+    <BrowserRouter>
+      <HelmetProvider>
+        <CookiesProvider>
+          <App />
+          <Footer />
+        </CookiesProvider>
+      </HelmetProvider>
+    </BrowserRouter>
+  </PasswordGate>
   // </React.StrictMode>
 );
 
