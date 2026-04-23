@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "./static/css/main.d5afdd2a.css",
+    "main.js": "./static/js/main.a8e56051.js",
+    "static/js/206.18acec23.chunk.js": "./static/js/206.18acec23.chunk.js",
+    "static/media/android_light_sq_SI.svg": "./static/media/android_light_sq_SI.d89cb12910f887eb02b928589f19250f.svg",
+    "static/media/android_neutral_sq_SI.svg": "./static/media/android_neutral_sq_SI.2050b30538d0f54bb739e4c237e8ddb5.svg",
+    "index.html": "./index.html"
+  },
+  "entrypoints": [
+    "static/css/main.d5afdd2a.css",
+    "static/js/main.a8e56051.js"
+  ]
+}
