@@ -88,7 +88,7 @@ const Acrostic = () => {
         />
         <meta
           property='og:image'
-          content='/images/main-thumbnail/acrostic-thumb.png'
+          content='./images/main-thumbnail/acrostic-thumb.png'
         />
         <meta property='og:image:alt' content='N행시의 달인 - 케이테스트' />
 
@@ -105,7 +105,7 @@ const Acrostic = () => {
         />
         <meta
           property='twitter:image'
-          content='/images/main-thumbnail/acrostic-thumb.png'
+          content='./images/main-thumbnail/acrostic-thumb.png'
         />
         <meta
           property='twitter:image:alt'
@@ -116,7 +116,7 @@ const Acrostic = () => {
         <img
           loading='lazy'
           alt='acrostic-background-img'
-          src='/images/Acrostic/Acrostic-background.png'
+          src='./images/Acrostic/Acrostic-background.png'
           className='acrostic-background-img'
         />
         <form className='acrostic-form' onSubmit={handleSubmit}>
@@ -134,7 +134,7 @@ const Acrostic = () => {
             style={!(isWriting || isLoading) ? { display: 'none' } : null}
             className='acrostic-form-button'
             type='image'
-            src='/images/Acrostic/Acrostic-check-button.png'
+            src='./images/Acrostic/Acrostic-check-button.png'
             alt='제출버튼'
           />
         </form>
@@ -156,7 +156,7 @@ const Acrostic = () => {
               <img
                 loading='lazy'
                 alt='acrostic-share-img'
-                src='/images/Acrostic/Acrostic-share-button.png'
+                src='./images/Acrostic/Acrostic-share-button.png'
                 className='acrostic-share-img'
               />
             </div>
@@ -168,7 +168,7 @@ const Acrostic = () => {
             <img
               loading='lazy'
               alt='acrostic-reDo-img'
-              src='/images/Acrostic/Acrostic-reDo-button.png'
+              src='./images/Acrostic/Acrostic-reDo-button.png'
               className='acrostic-reDo-img'
             />
           </div>

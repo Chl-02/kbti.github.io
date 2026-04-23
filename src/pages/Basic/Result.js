@@ -436,7 +436,7 @@ class Result extends Component {
     ];
     if (this.state.current_test === 'personalColor') {
       let banner_img_src =
-        '/images/main-thumbnail/persoanlColorFactNew-thumb.png';
+        './images/main-thumbnail/persoanlColorFactNew-thumb.png';
       let new_test_link =
         'https://ktestone.com/kapable.github.io/personalColorFact/';
       return (
@@ -458,7 +458,7 @@ class Result extends Component {
       );
     } else if (this.state.current_test === 'personalColorJP') {
       let banner_img_src =
-        '/images/main-thumbnail/personalColorFactEngNew-thumb.png';
+        './images/main-thumbnail/personalColorFactEngNew-thumb.png';
       let new_test_link =
         'https://ktestone.com/kapable.github.io/personalColorFactEng/';
       return (
@@ -480,7 +480,7 @@ class Result extends Component {
       );
     } else if (this.state.current_test === 'personalColorInd') {
       let banner_img_src =
-        '/images/main-thumbnail/personalColorFactIndNew-thumb.png';
+        './images/main-thumbnail/personalColorFactIndNew-thumb.png';
       let new_test_link =
         'https://ktestone.com/kapable.github.io/personalColorFactInd/';
       return (
@@ -502,7 +502,7 @@ class Result extends Component {
       );
     } else if (personalColorListGB.includes(this.state.current_test)) {
       let banner_img_src =
-        '/images/main-thumbnail/personalColorFactEngNew-thumb.png';
+        './images/main-thumbnail/personalColorFactEngNew-thumb.png';
       let new_test_link =
         'https://ktestone.com/kapable.github.io/personalColorFactEng/';
       return (
@@ -559,7 +559,7 @@ class Result extends Component {
     } else if (this.state.current_test === 'personalIncense') {
       const duft_outlink = 'https://bit.ly/39OsQOu';
       const banner_img_src =
-        '/images/resultImages/personalIncense/duftdoft_korea_banner_2.jpeg';
+        './images/resultImages/personalIncense/duftdoft_korea_banner_2.jpeg';
       return (
         <Fragment>
           <a
@@ -583,7 +583,7 @@ class Result extends Component {
     } else if (this.state.current_test === 'hanbokBTI') {
       const hanbokBTI_outlink = 'https://bit.ly/3nADdv4';
       const banner_img_src =
-        '/images/resultImages/hanbokBTI/hanbokBTI-bottom-banner.png';
+        './images/resultImages/hanbokBTI/hanbokBTI-bottom-banner.png';
       return (
         <Fragment>
           <a
@@ -606,7 +606,7 @@ class Result extends Component {
     } else if (this.state.current_test === 'hanbokBTIEng') {
       const hanbokBTI_outlink = 'https://bit.ly/3nADdv4';
       const banner_img_src =
-        '/images/resultImages/hanbokBTIEng/hanbokBTIEng-bottom-banner.png';
+        './images/resultImages/hanbokBTIEng/hanbokBTIEng-bottom-banner.png';
       return (
         <Fragment>
           <a
@@ -629,7 +629,7 @@ class Result extends Component {
     } else if (this.state.current_test === 'hanbokBTIJP') {
       const hanbokBTI_outlink = 'https://bit.ly/3nADdv4';
       const banner_img_src =
-        '/images/resultImages/hanbokBTIJP/hanbokBTIJP-bottom-banner.png';
+        './images/resultImages/hanbokBTIJP/hanbokBTIJP-bottom-banner.png';
       return (
         <Fragment>
           <a
@@ -1232,7 +1232,7 @@ class Result extends Component {
             >
               <img
                 loading='lazy'
-                src='/images/jelling/comment-for-jelling.png'
+                src='./images/jelling/comment-for-jelling.png'
                 className='result-img'
                 alt={final_type}
               />
@@ -1244,7 +1244,7 @@ class Result extends Component {
             >
               <img
                 loading='lazy'
-                src='/images/jelling/fruitBoxRun-banner.png'
+                src='./images/jelling/fruitBoxRun-banner.png'
                 className='result-img'
                 alt={final_type}
               />
@@ -1256,7 +1256,7 @@ class Result extends Component {
             >
               <img
                 loading='lazy'
-                src='/images/jelling/fruitsLine-banner.png'
+                src='./images/jelling/fruitsLine-banner.png'
                 className='result-img'
                 alt={final_type}
               />
@@ -1268,7 +1268,7 @@ class Result extends Component {
             >
               <img
                 loading='lazy'
-                src='/images/jelling/goToHome-banner.png'
+                src='./images/jelling/goToHome-banner.png'
                 className='result-img'
                 alt={final_type}
               />
@@ -1717,7 +1717,7 @@ class Result extends Component {
             <img
               loading='lazy'
               style={{ maxWidth: '16.5rem' }}
-              src='/images/meta/hmall/hmall-go-to-result-btn.png'
+              src='./images/meta/hmall/hmall-go-to-result-btn.png'
               alt='Hmall로 결과 보러가기'
               onClick={_eventSenderGA(
                 'Paging',
@@ -1781,7 +1781,7 @@ class Result extends Component {
                     }
                   >
                     <img
-                      src='/images/meta/labelStickerSKT/SKT-go-to-result-button.jpeg'
+                      src='./images/meta/labelStickerSKT/SKT-go-to-result-button.jpeg'
                       alt='SKT-go-to-result'
                       style={{ cursor: 'pointer', width: '15rem' }}
                     />
@@ -2284,7 +2284,7 @@ class Result extends Component {
             <Fragment>
               <img
                 loading='lazy'
-                src={'/images/resultImages/sinjoer2022/sinjoer2022-wrong.png'}
+                src={'./images/resultImages/sinjoer2022/sinjoer2022-wrong.png'}
                 className='result-img'
                 alt={final_type}
               />

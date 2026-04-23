@@ -60,7 +60,7 @@ const MbtiImgGen = ({ conceptType, lang }) => {
         <a href={`https://ktestone.com/kapable.github.io/${conceptType}/`}>
           <img
             loading='lazy'
-            src='/images/default/languageIcon/kor-icon.png'
+            src='./images/default/languageIcon/kor-icon.png'
             style={{
               width: '2rem',
               display: 'inline',
@@ -73,7 +73,7 @@ const MbtiImgGen = ({ conceptType, lang }) => {
         <a href={`https://ktestone.com/kapable.github.io/${conceptType}Eng/`}>
           <img
             loading='lazy'
-            src='/images/default/languageIcon/usa-icon.png'
+            src='./images/default/languageIcon/usa-icon.png'
             style={{
               width: '2rem',
               display: 'inline',
@@ -86,7 +86,7 @@ const MbtiImgGen = ({ conceptType, lang }) => {
         <a href={`https://ktestone.com/kapable.github.io/${conceptType}JP/`}>
           <img
             loading='lazy'
-            src='/images/default/languageIcon/japan-icon.png'
+            src='./images/default/languageIcon/japan-icon.png'
             style={{
               width: '2rem',
               display: 'inline',

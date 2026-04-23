@@ -162,7 +162,7 @@ const RandomGame = ({ testTitle }) => {
             <div onClick={onStopButtonClick}>
               <img
                 style={{ cursor: 'pointer', width: '15rem' }}
-                src='/images/meta/randomGames/stop-button.jpg'
+                src='./images/meta/randomGames/stop-button.jpg'
                 alt='randomGames-stop-button'
                 className='result-img'
               />
@@ -171,7 +171,7 @@ const RandomGame = ({ testTitle }) => {
             <div onClick={onStopButtonClick}>
               <img
                 style={{ cursor: 'pointer', width: '15rem' }}
-                src='/images/meta/randomGames/redo-button.jpg'
+                src='./images/meta/randomGames/redo-button.jpg'
                 alt='randomGames-redo-button'
                 className='result-img'
               />
@@ -181,7 +181,7 @@ const RandomGame = ({ testTitle }) => {
             <div onClick={onResultButtonClick}>
               <img
                 style={{ cursor: 'pointer', margin: '2rem 0', width: '15rem' }}
-                src='/images/meta/randomGames/go-to-answer-button.jpg'
+                src='./images/meta/randomGames/go-to-answer-button.jpg'
                 alt='randomGames-go-to-answer-button'
                 className='result-img'
               />

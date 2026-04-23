@@ -111,7 +111,7 @@ const OtherTestBannerRenderer = ({ lang, mainUrl }) => {
               <img
                 loading='lazy'
                 src={
-                  '/images/main-thumbnail/compatibility-thumb.png'
+                  './images/main-thumbnail/compatibility-thumb.png'
                 }
                 className='ppl-banner-img'
                 alt={`compatibility-thumb`}

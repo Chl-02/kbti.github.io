@@ -8,7 +8,7 @@ export default function OhterLangIconsMain() {
       <Link to={'/Kor/'} key={'Kor'} className='to-other-lang-test-banner-text'>
         <img
           loading='lazy'
-          src='/images/default/languageIcon/kor-icon.png'
+          src='./images/default/languageIcon/kor-icon.png'
           className='language-icon'
           alt='[ 한국어로 하러 가기 ]'
         />
@@ -16,7 +16,7 @@ export default function OhterLangIconsMain() {
       <Link to={'/Eng/'} key={'Eng'} className='to-other-lang-test-banner-text'>
         <img
           loading='lazy'
-          src='/images/default/languageIcon/usa-icon.png'
+          src='./images/default/languageIcon/usa-icon.png'
           className='language-icon'
           alt='[ Go to the English version ]'
         />
@@ -24,7 +24,7 @@ export default function OhterLangIconsMain() {
       <Link to={'/CN/'} key={'CN'} className='to-other-lang-test-banner-text'>
         <img
           loading='lazy'
-          src='/images/default/languageIcon/china-icon.png'
+          src='./images/default/languageIcon/china-icon.png'
           className='language-icon'
           alt='[ 汉语版本试 ]'
         />
@@ -32,7 +32,7 @@ export default function OhterLangIconsMain() {
       <Link to={'/JP/'} key={'JP'} className='to-other-lang-test-banner-text'>
         <img
           loading='lazy'
-          src='/images/default/languageIcon/japan-icon.png'
+          src='./images/default/languageIcon/japan-icon.png'
           className='language-icon'
           alt='[ 日本語バージョンをやりに行く。 ]'
         />
@@ -40,7 +40,7 @@ export default function OhterLangIconsMain() {
       <Link to={'/Ger/'} key={'Ger'} className='to-other-lang-test-banner-text'>
         <img
           loading='lazy'
-          src='/images/default/languageIcon/ger-icon.png'
+          src='./images/default/languageIcon/ger-icon.png'
           className='language-icon'
           alt='[ Gehen Sie zur deutschen Version. ]'
         />
@@ -48,7 +48,7 @@ export default function OhterLangIconsMain() {
       <Link to={'/ES/'} key={'ES'} className='to-other-lang-test-banner-text'>
         <img
           loading='lazy'
-          src='/images/default/languageIcon/spain-icon.png'
+          src='./images/default/languageIcon/spain-icon.png'
           className='language-icon'
           alt='[ paso a la versión española ]'
         />
@@ -56,7 +56,7 @@ export default function OhterLangIconsMain() {
       <Link to={'/IT/'} key={'IT'} className='to-other-lang-test-banner-text'>
         <img
           loading='lazy'
-          src='/images/default/languageIcon/italy-icon.png'
+          src='./images/default/languageIcon/italy-icon.png'
           className='language-icon'
           alt='[ Passiamo alla versione italiana ]'
         />
@@ -64,7 +64,7 @@ export default function OhterLangIconsMain() {
       <Link to={'/Rus/'} key={'Rus'} className='to-other-lang-test-banner-text'>
         <img
           loading='lazy'
-          src='/images/default/languageIcon/russia-icon.png'
+          src='./images/default/languageIcon/russia-icon.png'
           className='language-icon'
           alt='[ 日本語バージョンをやりに行く。 ]'
         />
@@ -76,7 +76,7 @@ export default function OhterLangIconsMain() {
       >
         <img
           loading='lazy'
-          src='/images/default/languageIcon/etc-icon.png'
+          src='./images/default/languageIcon/etc-icon.png'
           className='language-icon'
           alt='[ Перейти на российскую версию ]'
         />

@@ -139,7 +139,7 @@ const TodayLuck = (props) => {
           <img
             loading='lazy'
             className='todayLuck-intro-bg'
-            src='/images/meta/saju/todayLuck-intro-bg.jpg'
+            src='./images/meta/saju/todayLuck-intro-bg.jpg'
             alt='todayLuck-intro-input'
           />
           <div className='todayLuck-intro-date-picker-div'>
@@ -154,7 +154,7 @@ const TodayLuck = (props) => {
             <img
               loading='lazy'
               className='todayLuck-intro-btn'
-              src='/images/meta/saju/todayLuck-intro-submit-btn.jpg'
+              src='./images/meta/saju/todayLuck-intro-submit-btn.jpg'
               alt='todayLuck-intro-btn'
             />
           </div>

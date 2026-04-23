@@ -33,7 +33,7 @@ const AlcoholGames = () => {
         />
         <meta
           property='og:image'
-          content='/images/default/alcoholGames-main-header.png'
+          content='./images/default/alcoholGames-main-header.png'
         />
         <meta
           property='og:image:alt'
@@ -56,7 +56,7 @@ const AlcoholGames = () => {
         />
         <meta
           property='twitter:image'
-          content='/images/default/alcoholGames-main-header.png'
+          content='./images/default/alcoholGames-main-header.png'
         />
         <meta
           property='twitter:image:alt'

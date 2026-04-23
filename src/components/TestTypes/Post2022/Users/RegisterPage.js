@@ -9,8 +9,8 @@ const RegisterPage = (props) => {
     const [password, setPassword] = useState("");
     const [confirmPassword, setConfirmPassword] = useState("");
     const api_url = 'https://api.ktestone.com';
-    const bgImgSrc = "/images/PostImg2022/Sign/sign_background.png";
-    const buttonImgSrc = "/images/PostImg2022/Sign/signUp_button.png";
+    const bgImgSrc = "./images/PostImg2022/Sign/sign_background.png";
+    const buttonImgSrc = "./images/PostImg2022/Sign/signUp_button.png";
 
     const onNicknameHandler = useCallback((e) => {
         setNickname(e.target.value);

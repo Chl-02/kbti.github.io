@@ -15,7 +15,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -28,7 +28,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/india-icon.png'
+              src='./images/default/languageIcon/india-icon.png'
               className='language-icon'
               alt='[ हिंदी में भी देखें ]'
             />
@@ -47,7 +47,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -60,7 +60,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/india-icon.png'
+              src='./images/default/languageIcon/india-icon.png'
               className='language-icon'
               alt='[ हिंदी में भी देखें ]'
             />
@@ -79,7 +79,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -92,7 +92,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -115,7 +115,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -128,7 +128,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -147,7 +147,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -160,7 +160,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -179,7 +179,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -192,7 +192,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -215,7 +215,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -228,7 +228,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -241,7 +241,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -254,7 +254,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/spain-icon.png'
+              src='./images/default/languageIcon/spain-icon.png'
               className='language-icon'
               alt='[ paso a la versión española ]'
             />
@@ -267,7 +267,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/arab-icon.png'
+              src='./images/default/languageIcon/arab-icon.png'
               className='language-icon'
               alt='[ اذهب إلى النسخة العربية ]'
             />
@@ -280,7 +280,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/india-icon.png'
+              src='./images/default/languageIcon/india-icon.png'
               className='language-icon'
               alt='[ हिंदी में भी देखें ]'
             />
@@ -293,7 +293,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/russia-icon.png'
+              src='./images/default/languageIcon/russia-icon.png'
               className='language-icon'
               alt='[ Перейти на российскую версию ]'
             />
@@ -306,7 +306,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/malaysia-icon.png'
+              src='./images/default/languageIcon/malaysia-icon.png'
               className='language-icon'
               alt='[ Pergi ke versi Bahasa Inggeris ]'
             />
@@ -319,7 +319,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/ger-icon.png'
+              src='./images/default/languageIcon/ger-icon.png'
               className='language-icon'
               alt='[ Gehen Sie zur deutschen Version. ]'
             />
@@ -332,7 +332,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/france-icon.png'
+              src='./images/default/languageIcon/france-icon.png'
               className='language-icon'
               alt='[ Aller à la version française. ]'
             />
@@ -351,7 +351,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -364,7 +364,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -377,7 +377,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -390,7 +390,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/spain-icon.png'
+              src='./images/default/languageIcon/spain-icon.png'
               className='language-icon'
               alt='[ paso a la versión española ]'
             />
@@ -403,7 +403,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/arab-icon.png'
+              src='./images/default/languageIcon/arab-icon.png'
               className='language-icon'
               alt='[ اذهب إلى النسخة العربية ]'
             />
@@ -416,7 +416,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/india-icon.png'
+              src='./images/default/languageIcon/india-icon.png'
               className='language-icon'
               alt='[ हिंदी में भी देखें ]'
             />
@@ -429,7 +429,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/russia-icon.png'
+              src='./images/default/languageIcon/russia-icon.png'
               className='language-icon'
               alt='[ Перейти на российскую версию ]'
             />
@@ -442,7 +442,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/malaysia-icon.png'
+              src='./images/default/languageIcon/malaysia-icon.png'
               className='language-icon'
               alt='[ Pergi ke versi Bahasa Inggeris ]'
             />
@@ -455,7 +455,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/ger-icon.png'
+              src='./images/default/languageIcon/ger-icon.png'
               className='language-icon'
               alt='[ Gehen Sie zur deutschen Version. ]'
             />
@@ -468,7 +468,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/france-icon.png'
+              src='./images/default/languageIcon/france-icon.png'
               className='language-icon'
               alt='[ Aller à la version française. ]'
             />
@@ -487,7 +487,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -500,7 +500,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -513,7 +513,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -526,7 +526,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/spain-icon.png'
+              src='./images/default/languageIcon/spain-icon.png'
               className='language-icon'
               alt='[ paso a la versión española ]'
             />
@@ -539,7 +539,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/arab-icon.png'
+              src='./images/default/languageIcon/arab-icon.png'
               className='language-icon'
               alt='[ اذهب إلى النسخة العربية ]'
             />
@@ -552,7 +552,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/india-icon.png'
+              src='./images/default/languageIcon/india-icon.png'
               className='language-icon'
               alt='[ हिंदी में भी देखें ]'
             />
@@ -565,7 +565,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/russia-icon.png'
+              src='./images/default/languageIcon/russia-icon.png'
               className='language-icon'
               alt='[ Перейти на российскую версию ]'
             />
@@ -578,7 +578,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/malaysia-icon.png'
+              src='./images/default/languageIcon/malaysia-icon.png'
               className='language-icon'
               alt='[ Pergi ke versi Bahasa Inggeris ]'
             />
@@ -591,7 +591,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/ger-icon.png'
+              src='./images/default/languageIcon/ger-icon.png'
               className='language-icon'
               alt='[ Gehen Sie zur deutschen Version. ]'
             />
@@ -604,7 +604,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/france-icon.png'
+              src='./images/default/languageIcon/france-icon.png'
               className='language-icon'
               alt='[ Aller à la version française. ]'
             />
@@ -623,7 +623,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -636,7 +636,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -649,7 +649,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -662,7 +662,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/spain-icon.png'
+              src='./images/default/languageIcon/spain-icon.png'
               className='language-icon'
               alt='[ paso a la versión española ]'
             />
@@ -675,7 +675,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/arab-icon.png'
+              src='./images/default/languageIcon/arab-icon.png'
               className='language-icon'
               alt='[ اذهب إلى النسخة العربية ]'
             />
@@ -688,7 +688,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/india-icon.png'
+              src='./images/default/languageIcon/india-icon.png'
               className='language-icon'
               alt='[ हिंदी में भी देखें ]'
             />
@@ -701,7 +701,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/russia-icon.png'
+              src='./images/default/languageIcon/russia-icon.png'
               className='language-icon'
               alt='[ Перейти на российскую версию ]'
             />
@@ -714,7 +714,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/malaysia-icon.png'
+              src='./images/default/languageIcon/malaysia-icon.png'
               className='language-icon'
               alt='[ Pergi ke versi Bahasa Inggeris ]'
             />
@@ -727,7 +727,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/ger-icon.png'
+              src='./images/default/languageIcon/ger-icon.png'
               className='language-icon'
               alt='[ Gehen Sie zur deutschen Version. ]'
             />
@@ -740,7 +740,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/france-icon.png'
+              src='./images/default/languageIcon/france-icon.png'
               className='language-icon'
               alt='[ Aller à la version française. ]'
             />
@@ -759,7 +759,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -772,7 +772,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -785,7 +785,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -798,7 +798,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -811,7 +811,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/arab-icon.png'
+              src='./images/default/languageIcon/arab-icon.png'
               className='language-icon'
               alt='[ اذهب إلى النسخة العربية ]'
             />
@@ -824,7 +824,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/india-icon.png'
+              src='./images/default/languageIcon/india-icon.png'
               className='language-icon'
               alt='[ हिंदी में भी देखें ]'
             />
@@ -837,7 +837,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/russia-icon.png'
+              src='./images/default/languageIcon/russia-icon.png'
               className='language-icon'
               alt='[ Перейти на российскую версию ]'
             />
@@ -850,7 +850,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/malaysia-icon.png'
+              src='./images/default/languageIcon/malaysia-icon.png'
               className='language-icon'
               alt='[ Pergi ke versi Bahasa Inggeris ]'
             />
@@ -863,7 +863,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/ger-icon.png'
+              src='./images/default/languageIcon/ger-icon.png'
               className='language-icon'
               alt='[ Gehen Sie zur deutschen Version. ]'
             />
@@ -876,7 +876,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/france-icon.png'
+              src='./images/default/languageIcon/france-icon.png'
               className='language-icon'
               alt='[ Aller à la version française. ]'
             />
@@ -895,7 +895,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -908,7 +908,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -921,7 +921,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -934,7 +934,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -947,7 +947,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/spain-icon.png'
+              src='./images/default/languageIcon/spain-icon.png'
               className='language-icon'
               alt='[ paso a la versión española ]'
             />
@@ -960,7 +960,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/india-icon.png'
+              src='./images/default/languageIcon/india-icon.png'
               className='language-icon'
               alt='[ हिंदी में भी देखें ]'
             />
@@ -973,7 +973,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/russia-icon.png'
+              src='./images/default/languageIcon/russia-icon.png'
               className='language-icon'
               alt='[ Перейти на российскую версию ]'
             />
@@ -986,7 +986,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/malaysia-icon.png'
+              src='./images/default/languageIcon/malaysia-icon.png'
               className='language-icon'
               alt='[ Pergi ke versi Bahasa Inggeris ]'
             />
@@ -999,7 +999,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/ger-icon.png'
+              src='./images/default/languageIcon/ger-icon.png'
               className='language-icon'
               alt='[ Gehen Sie zur deutschen Version. ]'
             />
@@ -1012,7 +1012,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/france-icon.png'
+              src='./images/default/languageIcon/france-icon.png'
               className='language-icon'
               alt='[ Aller à la version française. ]'
             />
@@ -1031,7 +1031,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -1044,7 +1044,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -1057,7 +1057,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -1070,7 +1070,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -1083,7 +1083,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/spain-icon.png'
+              src='./images/default/languageIcon/spain-icon.png'
               className='language-icon'
               alt='[ paso a la versión española ]'
             />
@@ -1096,7 +1096,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/arab-icon.png'
+              src='./images/default/languageIcon/arab-icon.png'
               className='language-icon'
               alt='[ اذهب إلى النسخة العربية ]'
             />
@@ -1109,7 +1109,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/india-icon.png'
+              src='./images/default/languageIcon/india-icon.png'
               className='language-icon'
               alt='[ हिंदी में भी देखें ]'
             />
@@ -1122,7 +1122,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/russia-icon.png'
+              src='./images/default/languageIcon/russia-icon.png'
               className='language-icon'
               alt='[ Перейти на российскую версию ]'
             />
@@ -1135,7 +1135,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/malaysia-icon.png'
+              src='./images/default/languageIcon/malaysia-icon.png'
               className='language-icon'
               alt='[ Pergi ke versi Bahasa Inggeris ]'
             />
@@ -1148,7 +1148,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/ger-icon.png'
+              src='./images/default/languageIcon/ger-icon.png'
               className='language-icon'
               alt='[ Gehen Sie zur deutschen Version. ]'
             />
@@ -1161,7 +1161,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/france-icon.png'
+              src='./images/default/languageIcon/france-icon.png'
               className='language-icon'
               alt='[ Aller à la version française. ]'
             />
@@ -1180,7 +1180,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -1193,7 +1193,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -1206,7 +1206,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -1219,7 +1219,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -1232,7 +1232,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/spain-icon.png'
+              src='./images/default/languageIcon/spain-icon.png'
               className='language-icon'
               alt='[ paso a la versión española ]'
             />
@@ -1245,7 +1245,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/arab-icon.png'
+              src='./images/default/languageIcon/arab-icon.png'
               className='language-icon'
               alt='[ اذهب إلى النسخة العربية ]'
             />
@@ -1258,7 +1258,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/india-icon.png'
+              src='./images/default/languageIcon/india-icon.png'
               className='language-icon'
               alt='[ हिंदी में भी देखें ]'
             />
@@ -1271,7 +1271,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/malaysia-icon.png'
+              src='./images/default/languageIcon/malaysia-icon.png'
               className='language-icon'
               alt='[ Pergi ke versi Bahasa Inggeris ]'
             />
@@ -1284,7 +1284,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/ger-icon.png'
+              src='./images/default/languageIcon/ger-icon.png'
               className='language-icon'
               alt='[ Gehen Sie zur deutschen Version. ]'
             />
@@ -1297,7 +1297,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/france-icon.png'
+              src='./images/default/languageIcon/france-icon.png'
               className='language-icon'
               alt='[ Aller à la version française. ]'
             />
@@ -1316,7 +1316,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -1329,7 +1329,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -1342,7 +1342,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -1355,7 +1355,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -1368,7 +1368,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/spain-icon.png'
+              src='./images/default/languageIcon/spain-icon.png'
               className='language-icon'
               alt='[ paso a la versión española ]'
             />
@@ -1381,7 +1381,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/arab-icon.png'
+              src='./images/default/languageIcon/arab-icon.png'
               className='language-icon'
               alt='[ اذهب إلى النسخة العربية ]'
             />
@@ -1394,7 +1394,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/india-icon.png'
+              src='./images/default/languageIcon/india-icon.png'
               className='language-icon'
               alt='[ हिंदी में भी देखें ]'
             />
@@ -1407,7 +1407,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/russia-icon.png'
+              src='./images/default/languageIcon/russia-icon.png'
               className='language-icon'
               alt='[ Перейти на российскую версию ]'
             />
@@ -1420,7 +1420,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/ger-icon.png'
+              src='./images/default/languageIcon/ger-icon.png'
               className='language-icon'
               alt='[ Gehen Sie zur deutschen Version. ]'
             />
@@ -1433,7 +1433,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/france-icon.png'
+              src='./images/default/languageIcon/france-icon.png'
               className='language-icon'
               alt='[ Aller à la version française. ]'
             />
@@ -1452,7 +1452,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -1465,7 +1465,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -1478,7 +1478,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -1491,7 +1491,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -1504,7 +1504,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/spain-icon.png'
+              src='./images/default/languageIcon/spain-icon.png'
               className='language-icon'
               alt='[ paso a la versión española ]'
             />
@@ -1517,7 +1517,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/arab-icon.png'
+              src='./images/default/languageIcon/arab-icon.png'
               className='language-icon'
               alt='[ اذهب إلى النسخة العربية ]'
             />
@@ -1530,7 +1530,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/india-icon.png'
+              src='./images/default/languageIcon/india-icon.png'
               className='language-icon'
               alt='[ हिंदी में भी देखें ]'
             />
@@ -1543,7 +1543,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/russia-icon.png'
+              src='./images/default/languageIcon/russia-icon.png'
               className='language-icon'
               alt='[ Перейти на российскую версию ]'
             />
@@ -1556,7 +1556,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/malaysia-icon.png'
+              src='./images/default/languageIcon/malaysia-icon.png'
               className='language-icon'
               alt='[ Pergi ke versi Bahasa Inggeris ]'
             />
@@ -1569,7 +1569,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/france-icon.png'
+              src='./images/default/languageIcon/france-icon.png'
               className='language-icon'
               alt='[ Aller à la version française. ]'
             />
@@ -1588,7 +1588,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -1601,7 +1601,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -1614,7 +1614,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -1627,7 +1627,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -1640,7 +1640,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/spain-icon.png'
+              src='./images/default/languageIcon/spain-icon.png'
               className='language-icon'
               alt='[ paso a la versión española ]'
             />
@@ -1653,7 +1653,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/arab-icon.png'
+              src='./images/default/languageIcon/arab-icon.png'
               className='language-icon'
               alt='[ اذهب إلى النسخة العربية ]'
             />
@@ -1666,7 +1666,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/india-icon.png'
+              src='./images/default/languageIcon/india-icon.png'
               className='language-icon'
               alt='[ हिंदी में भी देखें ]'
             />
@@ -1679,7 +1679,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/russia-icon.png'
+              src='./images/default/languageIcon/russia-icon.png'
               className='language-icon'
               alt='[ Перейти на российскую версию ]'
             />
@@ -1692,7 +1692,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/malaysia-icon.png'
+              src='./images/default/languageIcon/malaysia-icon.png'
               className='language-icon'
               alt='[ Pergi ke versi Bahasa Inggeris ]'
             />
@@ -1705,7 +1705,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/ger-icon.png'
+              src='./images/default/languageIcon/ger-icon.png'
               className='language-icon'
               alt='[ Gehen Sie zur deutschen Version. ]'
             />
@@ -1728,7 +1728,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -1741,7 +1741,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -1760,7 +1760,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -1773,7 +1773,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -1792,7 +1792,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -1805,7 +1805,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -1828,7 +1828,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -1841,7 +1841,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -1860,7 +1860,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -1873,7 +1873,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -1892,7 +1892,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -1905,7 +1905,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -1928,7 +1928,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -1941,7 +1941,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -1960,7 +1960,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -1973,7 +1973,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -1992,7 +1992,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -2005,7 +2005,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -2028,7 +2028,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to English version ]'
             />
@@ -2041,7 +2041,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -2060,7 +2060,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -2073,7 +2073,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to English version ]'
             />
@@ -2092,7 +2092,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -2105,7 +2105,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -2128,7 +2128,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -2141,7 +2141,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/russia-icon.png'
+              src='./images/default/languageIcon/russia-icon.png'
               className='language-icon'
               alt='[ Перейти на российскую версию ]'
             />
@@ -2154,7 +2154,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -2167,7 +2167,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to English version ]'
             />
@@ -2186,7 +2186,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -2199,7 +2199,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/russia-icon.png'
+              src='./images/default/languageIcon/russia-icon.png'
               className='language-icon'
               alt='[ Перейти на российскую версию ]'
             />
@@ -2212,7 +2212,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -2225,7 +2225,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to English version ]'
             />
@@ -2244,7 +2244,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -2257,7 +2257,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -2270,7 +2270,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -2283,7 +2283,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to English version ]'
             />
@@ -2302,7 +2302,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -2315,7 +2315,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -2328,7 +2328,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/russia-icon.png'
+              src='./images/default/languageIcon/russia-icon.png'
               className='language-icon'
               alt='[ Перейти на российскую версию ]'
             />
@@ -2341,7 +2341,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to English version ]'
             />
@@ -2360,7 +2360,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -2373,7 +2373,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -2386,7 +2386,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/russia-icon.png'
+              src='./images/default/languageIcon/russia-icon.png'
               className='language-icon'
               alt='[ Перейти на российскую версию ]'
             />
@@ -2399,7 +2399,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -2422,7 +2422,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to English version ]'
             />
@@ -2441,7 +2441,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -2464,7 +2464,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to English version ]'
             />
@@ -2483,7 +2483,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -2506,7 +2506,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -2525,7 +2525,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -2548,7 +2548,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -2561,7 +2561,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -2574,7 +2574,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -2593,7 +2593,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -2606,7 +2606,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -2619,7 +2619,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -2638,7 +2638,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -2651,7 +2651,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -2664,7 +2664,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -2683,7 +2683,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -2696,7 +2696,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -2709,7 +2709,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -2732,7 +2732,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -2751,7 +2751,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -2774,7 +2774,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -2787,7 +2787,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -2800,7 +2800,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -2813,7 +2813,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/spain-icon.png'
+              src='./images/default/languageIcon/spain-icon.png'
               className='language-icon'
               alt='[ paso a la versión española ]'
             />
@@ -2832,7 +2832,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -2845,7 +2845,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -2858,7 +2858,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -2871,7 +2871,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/spain-icon.png'
+              src='./images/default/languageIcon/spain-icon.png'
               className='language-icon'
               alt='[ paso a la versión española ]'
             />
@@ -2890,7 +2890,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -2903,7 +2903,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -2916,7 +2916,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -2929,7 +2929,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/spain-icon.png'
+              src='./images/default/languageIcon/spain-icon.png'
               className='language-icon'
               alt='[ paso a la versión española ]'
             />
@@ -2948,7 +2948,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -2961,7 +2961,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -2974,7 +2974,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -2987,7 +2987,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/spain-icon.png'
+              src='./images/default/languageIcon/spain-icon.png'
               className='language-icon'
               alt='[ paso a la versión española ]'
             />
@@ -3006,7 +3006,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -3019,7 +3019,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -3032,7 +3032,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -3045,7 +3045,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -3068,7 +3068,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -3087,7 +3087,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -3110,7 +3110,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -3129,7 +3129,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -3152,7 +3152,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -3171,7 +3171,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -3198,7 +3198,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -3211,7 +3211,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -3224,7 +3224,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/ger-icon.png'
+              src='./images/default/languageIcon/ger-icon.png'
               className='language-icon'
               alt='[ Gehen Sie zur deutschen Version. ]'
             />
@@ -3237,7 +3237,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/spain-icon.png'
+              src='./images/default/languageIcon/spain-icon.png'
               className='language-icon'
               alt='[ paso a la versión española ]'
             />
@@ -3250,7 +3250,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -3263,7 +3263,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/italy-icon.png'
+              src='./images/default/languageIcon/italy-icon.png'
               className='language-icon'
               alt='[ Passiamo alla versione italiana ]'
             />
@@ -3288,7 +3288,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -3301,7 +3301,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -3314,7 +3314,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/ger-icon.png'
+              src='./images/default/languageIcon/ger-icon.png'
               className='language-icon'
               alt='[ Gehen Sie zur deutschen Version. ]'
             />
@@ -3327,7 +3327,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/spain-icon.png'
+              src='./images/default/languageIcon/spain-icon.png'
               className='language-icon'
               alt='[ paso a la versión española ]'
             />
@@ -3340,7 +3340,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -3353,7 +3353,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/italy-icon.png'
+              src='./images/default/languageIcon/italy-icon.png'
               className='language-icon'
               alt='[ Passiamo alla versione italiana ]'
             />
@@ -3378,7 +3378,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -3391,7 +3391,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -3404,7 +3404,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/ger-icon.png'
+              src='./images/default/languageIcon/ger-icon.png'
               className='language-icon'
               alt='[ Gehen Sie zur deutschen Version. ]'
             />
@@ -3417,7 +3417,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/spain-icon.png'
+              src='./images/default/languageIcon/spain-icon.png'
               className='language-icon'
               alt='[ paso a la versión española ]'
             />
@@ -3430,7 +3430,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -3443,7 +3443,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/italy-icon.png'
+              src='./images/default/languageIcon/italy-icon.png'
               className='language-icon'
               alt='[ Passiamo alla versione italiana ]'
             />
@@ -3468,7 +3468,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -3481,7 +3481,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -3494,7 +3494,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -3507,7 +3507,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/spain-icon.png'
+              src='./images/default/languageIcon/spain-icon.png'
               className='language-icon'
               alt='[ paso a la versión española ]'
             />
@@ -3520,7 +3520,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -3533,7 +3533,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/italy-icon.png'
+              src='./images/default/languageIcon/italy-icon.png'
               className='language-icon'
               alt='[ Passiamo alla versione italiana ]'
             />
@@ -3558,7 +3558,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -3571,7 +3571,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -3584,7 +3584,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -3597,7 +3597,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/ger-icon.png'
+              src='./images/default/languageIcon/ger-icon.png'
               className='language-icon'
               alt='[ Gehen Sie zur deutschen Version. ]'
             />
@@ -3610,7 +3610,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -3623,7 +3623,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/italy-icon.png'
+              src='./images/default/languageIcon/italy-icon.png'
               className='language-icon'
               alt='[ Passiamo alla versione italiana ]'
             />
@@ -3648,7 +3648,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -3661,7 +3661,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -3674,7 +3674,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -3687,7 +3687,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/ger-icon.png'
+              src='./images/default/languageIcon/ger-icon.png'
               className='language-icon'
               alt='[ Gehen Sie zur deutschen Version. ]'
             />
@@ -3700,7 +3700,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/spain-icon.png'
+              src='./images/default/languageIcon/spain-icon.png'
               className='language-icon'
               alt='[ paso a la versión española ]'
             />
@@ -3713,7 +3713,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/italy-icon.png'
+              src='./images/default/languageIcon/italy-icon.png'
               className='language-icon'
               alt='[ Passiamo alla versione italiana ]'
             />
@@ -3738,7 +3738,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -3751,7 +3751,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -3764,7 +3764,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -3777,7 +3777,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/ger-icon.png'
+              src='./images/default/languageIcon/ger-icon.png'
               className='language-icon'
               alt='[ Gehen Sie zur deutschen Version. ]'
             />
@@ -3790,7 +3790,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/spain-icon.png'
+              src='./images/default/languageIcon/spain-icon.png'
               className='language-icon'
               alt='[ paso a la versión española ]'
             />
@@ -3803,7 +3803,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -3826,7 +3826,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -3839,7 +3839,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -3858,7 +3858,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -3871,7 +3871,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -3890,7 +3890,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -3903,7 +3903,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -3926,7 +3926,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -3939,7 +3939,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -3952,7 +3952,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -3965,7 +3965,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/spain-icon.png'
+              src='./images/default/languageIcon/spain-icon.png'
               className='language-icon'
               alt='[ paso a la versión española ]'
             />
@@ -3984,7 +3984,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -3997,7 +3997,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -4010,7 +4010,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -4023,7 +4023,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/spain-icon.png'
+              src='./images/default/languageIcon/spain-icon.png'
               className='language-icon'
               alt='[ paso a la versión española ]'
             />
@@ -4042,7 +4042,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -4055,7 +4055,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -4068,7 +4068,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -4081,7 +4081,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/spain-icon.png'
+              src='./images/default/languageIcon/spain-icon.png'
               className='language-icon'
               alt='[ paso a la versión española ]'
             />
@@ -4100,7 +4100,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -4113,7 +4113,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -4126,7 +4126,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -4139,7 +4139,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/spain-icon.png'
+              src='./images/default/languageIcon/spain-icon.png'
               className='language-icon'
               alt='[ paso a la versión española ]'
             />
@@ -4158,7 +4158,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -4171,7 +4171,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -4184,7 +4184,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -4197,7 +4197,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -4220,7 +4220,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -4233,7 +4233,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -4246,7 +4246,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -4259,7 +4259,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/spain-icon.png'
+              src='./images/default/languageIcon/spain-icon.png'
               className='language-icon'
               alt='[ paso a la versión española ]'
             />
@@ -4272,7 +4272,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/ger-icon.png'
+              src='./images/default/languageIcon/ger-icon.png'
               className='language-icon'
               alt='[ Gehen Sie zur deutschen Version. ]'
             />
@@ -4285,7 +4285,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/italy-icon.png'
+              src='./images/default/languageIcon/italy-icon.png'
               className='language-icon'
               alt='[ Passiamo alla versione italiana ]'
             />
@@ -4304,7 +4304,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -4317,7 +4317,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -4330,7 +4330,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -4343,7 +4343,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/spain-icon.png'
+              src='./images/default/languageIcon/spain-icon.png'
               className='language-icon'
               alt='[ paso a la versión española ]'
             />
@@ -4356,7 +4356,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/ger-icon.png'
+              src='./images/default/languageIcon/ger-icon.png'
               className='language-icon'
               alt='[ Gehen Sie zur deutschen Version. ]'
             />
@@ -4369,7 +4369,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/italy-icon.png'
+              src='./images/default/languageIcon/italy-icon.png'
               className='language-icon'
               alt='[ Passiamo alla versione italiana ]'
             />
@@ -4388,7 +4388,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -4401,7 +4401,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -4414,7 +4414,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -4427,7 +4427,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/spain-icon.png'
+              src='./images/default/languageIcon/spain-icon.png'
               className='language-icon'
               alt='[ paso a la versión española ]'
             />
@@ -4440,7 +4440,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/ger-icon.png'
+              src='./images/default/languageIcon/ger-icon.png'
               className='language-icon'
               alt='[ Gehen Sie zur deutschen Version. ]'
             />
@@ -4453,7 +4453,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/italy-icon.png'
+              src='./images/default/languageIcon/italy-icon.png'
               className='language-icon'
               alt='[ Passiamo alla versione italiana ]'
             />
@@ -4472,7 +4472,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -4485,7 +4485,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -4498,7 +4498,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -4511,7 +4511,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/spain-icon.png'
+              src='./images/default/languageIcon/spain-icon.png'
               className='language-icon'
               alt='[ paso a la versión española ]'
             />
@@ -4524,7 +4524,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/ger-icon.png'
+              src='./images/default/languageIcon/ger-icon.png'
               className='language-icon'
               alt='[ Gehen Sie zur deutschen Version. ]'
             />
@@ -4537,7 +4537,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/italy-icon.png'
+              src='./images/default/languageIcon/italy-icon.png'
               className='language-icon'
               alt='[ Passiamo alla versione italiana ]'
             />
@@ -4556,7 +4556,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -4569,7 +4569,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -4582,7 +4582,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -4595,7 +4595,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -4608,7 +4608,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/ger-icon.png'
+              src='./images/default/languageIcon/ger-icon.png'
               className='language-icon'
               alt='[ Gehen Sie zur deutschen Version. ]'
             />
@@ -4621,7 +4621,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/italy-icon.png'
+              src='./images/default/languageIcon/italy-icon.png'
               className='language-icon'
               alt='[ Passiamo alla versione italiana ]'
             />
@@ -4640,7 +4640,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -4653,7 +4653,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -4666,7 +4666,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -4679,7 +4679,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -4692,7 +4692,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/spain-icon.png'
+              src='./images/default/languageIcon/spain-icon.png'
               className='language-icon'
               alt='[ paso a la versión española ]'
             />
@@ -4705,7 +4705,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/italy-icon.png'
+              src='./images/default/languageIcon/italy-icon.png'
               className='language-icon'
               alt='[ Passiamo alla versione italiana ]'
             />
@@ -4724,7 +4724,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -4737,7 +4737,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -4750,7 +4750,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -4763,7 +4763,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -4776,7 +4776,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/spain-icon.png'
+              src='./images/default/languageIcon/spain-icon.png'
               className='language-icon'
               alt='[ paso a la versión española ]'
             />
@@ -4789,7 +4789,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/ger-icon.png'
+              src='./images/default/languageIcon/ger-icon.png'
               className='language-icon'
               alt='[ Gehen Sie zur deutschen Version. ]'
             />
@@ -4812,7 +4812,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -4825,7 +4825,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -4844,7 +4844,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -4857,7 +4857,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -4876,7 +4876,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -4889,7 +4889,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -4912,7 +4912,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -4925,7 +4925,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -4938,7 +4938,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -4951,7 +4951,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/italy-icon.png'
+              src='./images/default/languageIcon/italy-icon.png'
               className='language-icon'
               alt='[ Passiamo alla versione italiana ]'
             />
@@ -4970,7 +4970,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -4983,7 +4983,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -4996,7 +4996,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -5009,7 +5009,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/italy-icon.png'
+              src='./images/default/languageIcon/italy-icon.png'
               className='language-icon'
               alt='[ Passiamo alla versione italiana ]'
             />
@@ -5028,7 +5028,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -5041,7 +5041,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -5054,7 +5054,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -5067,7 +5067,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/italy-icon.png'
+              src='./images/default/languageIcon/italy-icon.png'
               className='language-icon'
               alt='[ Passiamo alla versione italiana ]'
             />
@@ -5086,7 +5086,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -5099,7 +5099,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -5112,7 +5112,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -5125,7 +5125,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/italy-icon.png'
+              src='./images/default/languageIcon/italy-icon.png'
               className='language-icon'
               alt='[ Passiamo alla versione italiana ]'
             />
@@ -5144,7 +5144,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -5157,7 +5157,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -5170,7 +5170,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -5183,7 +5183,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -5206,7 +5206,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -5219,7 +5219,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -5232,7 +5232,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/italy-icon.png'
+              src='./images/default/languageIcon/italy-icon.png'
               className='language-icon'
               alt='[ Passiamo alla versione italiana ]'
             />
@@ -5245,7 +5245,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -5264,7 +5264,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -5277,7 +5277,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -5290,7 +5290,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/italy-icon.png'
+              src='./images/default/languageIcon/italy-icon.png'
               className='language-icon'
               alt='[ Passiamo alla versione italiana ]'
             />
@@ -5303,7 +5303,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -5322,7 +5322,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -5335,7 +5335,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -5348,7 +5348,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/italy-icon.png'
+              src='./images/default/languageIcon/italy-icon.png'
               className='language-icon'
               alt='[ Passiamo alla versione italiana ]'
             />
@@ -5361,7 +5361,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -5380,7 +5380,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -5393,7 +5393,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -5406,7 +5406,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -5419,7 +5419,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -5438,7 +5438,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -5451,7 +5451,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -5464,7 +5464,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -5477,7 +5477,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/italy-icon.png'
+              src='./images/default/languageIcon/italy-icon.png'
               className='language-icon'
               alt='[ Passiamo alla versione italiana ]'
             />
@@ -5500,7 +5500,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -5513,7 +5513,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -5532,7 +5532,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -5545,7 +5545,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -5564,7 +5564,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -5577,7 +5577,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -5600,7 +5600,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -5613,7 +5613,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -5626,7 +5626,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -5645,7 +5645,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -5658,7 +5658,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -5671,7 +5671,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -5690,7 +5690,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -5703,7 +5703,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -5716,7 +5716,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -5735,7 +5735,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -5748,7 +5748,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -5761,7 +5761,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -5790,7 +5790,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -5803,7 +5803,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -5816,7 +5816,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -5841,7 +5841,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -5854,7 +5854,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -5867,7 +5867,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -5892,7 +5892,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -5905,7 +5905,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -5918,7 +5918,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -5943,7 +5943,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -5956,7 +5956,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -5969,7 +5969,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -5992,7 +5992,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -6005,7 +6005,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -6018,7 +6018,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -6037,7 +6037,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -6050,7 +6050,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -6063,7 +6063,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -6082,7 +6082,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -6095,7 +6095,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -6108,7 +6108,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -6127,7 +6127,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -6140,7 +6140,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -6153,7 +6153,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -6176,7 +6176,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -6189,7 +6189,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -6208,7 +6208,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -6221,7 +6221,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -6240,7 +6240,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -6253,7 +6253,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -6276,7 +6276,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -6289,7 +6289,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -6308,7 +6308,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -6321,7 +6321,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -6340,7 +6340,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -6353,7 +6353,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -6376,7 +6376,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -6395,7 +6395,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -6418,7 +6418,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -6431,7 +6431,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -6450,7 +6450,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -6463,7 +6463,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -6482,7 +6482,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -6495,7 +6495,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -6518,7 +6518,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -6531,7 +6531,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -6550,7 +6550,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -6563,7 +6563,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -6582,7 +6582,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -6595,7 +6595,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -6618,7 +6618,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -6637,7 +6637,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -6660,7 +6660,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -6673,7 +6673,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -6692,7 +6692,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -6705,7 +6705,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -6724,7 +6724,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -6737,7 +6737,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -6760,7 +6760,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -6773,7 +6773,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -6792,7 +6792,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -6805,7 +6805,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -6824,7 +6824,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -6837,7 +6837,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -6860,7 +6860,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -6873,7 +6873,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -6892,7 +6892,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -6905,7 +6905,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -6924,7 +6924,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -6937,7 +6937,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -6960,7 +6960,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -6973,7 +6973,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -6986,7 +6986,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -7005,7 +7005,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -7018,7 +7018,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -7031,7 +7031,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -7050,7 +7050,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -7063,7 +7063,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -7076,7 +7076,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -7095,7 +7095,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -7108,7 +7108,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -7121,7 +7121,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -7144,7 +7144,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -7157,7 +7157,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -7176,7 +7176,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -7189,7 +7189,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -7208,7 +7208,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -7221,7 +7221,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -7244,7 +7244,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -7257,7 +7257,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -7276,7 +7276,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -7289,7 +7289,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -7308,7 +7308,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -7321,7 +7321,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -7344,7 +7344,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -7357,7 +7357,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -7376,7 +7376,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -7389,7 +7389,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -7408,7 +7408,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -7421,7 +7421,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -7444,7 +7444,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -7457,7 +7457,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -7476,7 +7476,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -7489,7 +7489,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -7508,7 +7508,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -7521,7 +7521,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -7544,7 +7544,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -7563,7 +7563,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -7586,7 +7586,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -7605,7 +7605,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -7628,7 +7628,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -7641,7 +7641,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -7660,7 +7660,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -7673,7 +7673,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -7692,7 +7692,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -7705,7 +7705,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -7728,7 +7728,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -7747,7 +7747,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -7770,7 +7770,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -7783,7 +7783,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -7802,7 +7802,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -7815,7 +7815,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -7834,7 +7834,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -7847,7 +7847,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -7870,7 +7870,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -7889,7 +7889,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -7912,7 +7912,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -7925,7 +7925,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -7944,7 +7944,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -7957,7 +7957,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -7976,7 +7976,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -7989,7 +7989,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -8012,7 +8012,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -8031,7 +8031,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -8054,7 +8054,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -8073,7 +8073,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -8096,7 +8096,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -8109,7 +8109,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -8128,7 +8128,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -8141,7 +8141,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -8160,7 +8160,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -8173,7 +8173,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -8196,7 +8196,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -8215,7 +8215,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -8238,7 +8238,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -8257,7 +8257,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -8280,7 +8280,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -8299,7 +8299,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -8322,7 +8322,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -8335,7 +8335,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -8354,7 +8354,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -8367,7 +8367,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -8386,7 +8386,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -8399,7 +8399,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -8422,7 +8422,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -8435,7 +8435,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -8454,7 +8454,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -8467,7 +8467,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -8486,7 +8486,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -8499,7 +8499,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -8522,7 +8522,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -8541,7 +8541,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -8564,7 +8564,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -8577,7 +8577,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -8596,7 +8596,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -8609,7 +8609,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -8628,7 +8628,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -8641,7 +8641,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -8664,7 +8664,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -8677,7 +8677,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -8696,7 +8696,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -8709,7 +8709,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -8728,7 +8728,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -8741,7 +8741,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -8764,7 +8764,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -8777,7 +8777,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -8796,7 +8796,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -8809,7 +8809,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -8828,7 +8828,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -8841,7 +8841,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -8864,7 +8864,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -8877,7 +8877,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -8896,7 +8896,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -8909,7 +8909,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -8928,7 +8928,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -8941,7 +8941,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -8964,7 +8964,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -8983,7 +8983,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -9006,7 +9006,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -9019,7 +9019,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -9038,7 +9038,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -9051,7 +9051,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -9070,7 +9070,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -9083,7 +9083,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -9106,7 +9106,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -9125,7 +9125,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -9148,7 +9148,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -9161,7 +9161,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -9174,7 +9174,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -9193,7 +9193,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -9206,7 +9206,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -9219,7 +9219,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -9238,7 +9238,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -9251,7 +9251,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -9264,7 +9264,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/china-icon.png'
+              src='./images/default/languageIcon/china-icon.png'
               className='language-icon'
               alt='[ 汉语版本试 ]'
             />
@@ -9283,7 +9283,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -9296,7 +9296,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -9309,7 +9309,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -9332,7 +9332,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -9351,7 +9351,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -9374,7 +9374,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -9393,7 +9393,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -9416,7 +9416,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -9429,7 +9429,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -9448,7 +9448,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -9461,7 +9461,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -9480,7 +9480,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -9493,7 +9493,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -9516,7 +9516,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -9535,7 +9535,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -9558,7 +9558,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -9577,7 +9577,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -9600,7 +9600,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -9613,7 +9613,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -9632,7 +9632,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -9645,7 +9645,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -9664,7 +9664,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -9677,7 +9677,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -9700,7 +9700,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -9719,7 +9719,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -9742,7 +9742,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -9755,7 +9755,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -9774,7 +9774,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -9787,7 +9787,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -9806,7 +9806,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -9819,7 +9819,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -9842,7 +9842,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -9861,7 +9861,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -9884,7 +9884,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -9903,7 +9903,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -9926,7 +9926,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -9945,7 +9945,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -9968,7 +9968,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -9987,7 +9987,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -10010,7 +10010,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -10029,7 +10029,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -10052,7 +10052,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -10071,7 +10071,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -10094,7 +10094,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -10113,7 +10113,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -10136,7 +10136,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -10155,7 +10155,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -10178,7 +10178,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -10197,7 +10197,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -10220,7 +10220,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -10239,7 +10239,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -10262,7 +10262,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -10281,7 +10281,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -10304,7 +10304,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -10323,7 +10323,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -10346,7 +10346,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -10365,7 +10365,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -10388,7 +10388,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -10407,7 +10407,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -10430,7 +10430,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -10443,7 +10443,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -10462,7 +10462,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -10475,7 +10475,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -10494,7 +10494,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -10507,7 +10507,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -10530,7 +10530,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -10549,7 +10549,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -10572,7 +10572,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -10591,7 +10591,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -10614,7 +10614,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -10633,7 +10633,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -10656,7 +10656,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -10675,7 +10675,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -10698,7 +10698,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -10717,7 +10717,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -10740,7 +10740,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -10759,7 +10759,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -10782,7 +10782,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -10801,7 +10801,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -10824,7 +10824,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -10843,7 +10843,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -10866,7 +10866,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -10885,7 +10885,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -10908,7 +10908,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -10927,7 +10927,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -10950,7 +10950,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -10969,7 +10969,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -10992,7 +10992,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -11011,7 +11011,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -11034,7 +11034,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -11053,7 +11053,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -11076,7 +11076,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -11095,7 +11095,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -11118,7 +11118,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -11137,7 +11137,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -11160,7 +11160,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -11179,7 +11179,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -11202,7 +11202,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -11221,7 +11221,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -11244,7 +11244,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -11263,7 +11263,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -11286,7 +11286,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -11305,7 +11305,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -11328,7 +11328,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -11347,7 +11347,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -11370,7 +11370,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -11389,7 +11389,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -11412,7 +11412,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -11431,7 +11431,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -11454,7 +11454,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -11473,7 +11473,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -11496,7 +11496,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -11515,7 +11515,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -11538,7 +11538,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -11557,7 +11557,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -11580,7 +11580,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -11599,7 +11599,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -11622,7 +11622,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -11641,7 +11641,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -11664,7 +11664,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -11683,7 +11683,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -11706,7 +11706,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -11725,7 +11725,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -11748,7 +11748,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -11767,7 +11767,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -11790,7 +11790,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -11803,7 +11803,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -11822,7 +11822,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -11835,7 +11835,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -11854,7 +11854,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -11867,7 +11867,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -11890,7 +11890,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -11909,7 +11909,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -11932,7 +11932,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -11951,7 +11951,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -11974,7 +11974,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -11987,7 +11987,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -12006,7 +12006,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -12019,7 +12019,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -12038,7 +12038,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -12051,7 +12051,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -12074,7 +12074,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -12087,7 +12087,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -12106,7 +12106,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -12119,7 +12119,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -12138,7 +12138,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -12151,7 +12151,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -12174,7 +12174,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -12187,7 +12187,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -12206,7 +12206,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -12219,7 +12219,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -12238,7 +12238,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -12251,7 +12251,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -12274,7 +12274,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -12293,7 +12293,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -12316,7 +12316,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -12335,7 +12335,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -12358,7 +12358,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -12377,7 +12377,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -12400,7 +12400,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -12419,7 +12419,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -12442,7 +12442,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -12461,7 +12461,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -12484,7 +12484,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -12503,7 +12503,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -12526,7 +12526,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -12545,7 +12545,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -12568,7 +12568,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -12587,7 +12587,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -12610,7 +12610,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -12629,7 +12629,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -12652,7 +12652,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -12671,7 +12671,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -12694,7 +12694,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -12713,7 +12713,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -12736,7 +12736,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -12749,7 +12749,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -12768,7 +12768,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -12781,7 +12781,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/japan-icon.png'
+              src='./images/default/languageIcon/japan-icon.png'
               className='language-icon'
               alt='[ 日本語バージョンをやりに行く。 ]'
             />
@@ -12800,7 +12800,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />
@@ -12813,7 +12813,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -12836,7 +12836,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/usa-icon.png'
+              src='./images/default/languageIcon/usa-icon.png'
               className='language-icon'
               alt='[ Go to the English version ]'
             />
@@ -12855,7 +12855,7 @@ export default function OtherLangIcons(props) {
           >
             <img
               loading='lazy'
-              src='/images/default/languageIcon/kor-icon.png'
+              src='./images/default/languageIcon/kor-icon.png'
               className='language-icon'
               alt='[ 한국어 버전으로 하러가기 ]'
             />

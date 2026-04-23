@@ -5,9 +5,9 @@ export const balanceTests = [
       subTitle: '애정 박살 주의!',
       mainUrl: 'loveBalance1',
       mainImage:
-        '/images/introImages/loveBalance1-intro.jpg',
+        './images/introImages/loveBalance1-intro.jpg',
       thumbImage:
-        '/images/main-thumbnail/loveBalance1-thumb.png',
+        './images/main-thumbnail/loveBalance1-thumb.png',
       lang: 'Kor',
       category: 'game',
     },
@@ -50,9 +50,9 @@ export const balanceTests = [
       subTitle: '애정 박살 주의!',
       mainUrl: 'loveBalance2',
       mainImage:
-        '/images/introImages/loveBalance2-intro.jpg',
+        './images/introImages/loveBalance2-intro.jpg',
       thumbImage:
-        '/images/main-thumbnail/loveBalance2-thumb.png',
+        './images/main-thumbnail/loveBalance2-thumb.png',
       lang: 'Kor',
       category: 'game',
     },
@@ -92,9 +92,9 @@ export const balanceTests = [
       subTitle: '애정 박살 주의!',
       mainUrl: 'loveBalance3',
       mainImage:
-        '/images/introImages/loveBalance3-intro.jpg',
+        './images/introImages/loveBalance3-intro.jpg',
       thumbImage:
-        '/images/main-thumbnail/loveBalance3-thumb.png',
+        './images/main-thumbnail/loveBalance3-thumb.png',
       lang: 'Kor',
       category: 'game',
     },
@@ -131,9 +131,9 @@ export const balanceTests = [
       subTitle: 'Beware of breaking up',
       mainUrl: 'loveBalance1Eng',
       mainImage:
-        '/images/introImages/loveBalance1Eng-intro.jpg',
+        './images/introImages/loveBalance1Eng-intro.jpg',
       thumbImage:
-        '/images/main-thumbnail/loveBalance1Eng-thumb.png',
+        './images/main-thumbnail/loveBalance1Eng-thumb.png',
       lang: 'Eng',
       category: 'game',
     },
@@ -176,9 +176,9 @@ export const balanceTests = [
       subTitle: 'Beware of breaking up',
       mainUrl: 'loveBalance2Eng',
       mainImage:
-        '/images/introImages/loveBalance2Eng-intro.jpg',
+        './images/introImages/loveBalance2Eng-intro.jpg',
       thumbImage:
-        '/images/main-thumbnail/loveBalance2Eng-thumb.png',
+        './images/main-thumbnail/loveBalance2Eng-thumb.png',
       lang: 'Eng',
       category: 'game',
     },

@@ -4,7 +4,7 @@ import { Helmet } from 'react-helmet-async';
 import { _eventSenderGA } from '../../../tools/tools';
 
 const Post2022 = ({ language }) => {
-  const introImgSrc = '/images/PostImg2022/Intro/Intro.png';
+  const introImgSrc = './images/PostImg2022/Intro/Intro.png';
 
   const metaTagRenderer = () => {
     let _PostMetaTag = (

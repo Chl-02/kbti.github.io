@@ -141,7 +141,7 @@ const LifeInterpreting = (props) => {
           <img
             loading='lazy'
             className='life-interpreting-intro-bg'
-            src='/images/meta/saju/lifeInterpreting-intro-input-bg.jpg'
+            src='./images/meta/saju/lifeInterpreting-intro-input-bg.jpg'
             alt='life-interpreting-intro-input'
           />
           <div className='life-interpreting-intro-date-picker-div'>
@@ -183,7 +183,7 @@ const LifeInterpreting = (props) => {
             <img
               loading='lazy'
               className='life-interpreting-intro-btn'
-              src='/images/meta/saju/lifeInterpreting-intro-submit-btn.jpg'
+              src='./images/meta/saju/lifeInterpreting-intro-submit-btn.jpg'
               alt='life-interpreting-intro-btn'
             />
           </div>

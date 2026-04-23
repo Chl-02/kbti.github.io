@@ -27,12 +27,12 @@ function PostPage(props) {
 
   const [upbarBtnImg, setUpbarBtnImg] = useState(``);
   const [mainTitleImg, setMainTitleImg] = useState(``);
-  const postBoxImg = '/images/PostImg/Object/Postbox.png';
+  const postBoxImg = './images/PostImg/Object/Postbox.png';
   const [sendMailImg, setSendMailImg] = useState(``);
   const [shareMyPostImg, setShareMyPostImg] = useState(``);
   const [goToMyPostImg, setGoToMyPostImg] = useState(``);
   const nickNameInput =
-    '/images/PostImg/MailForm/nickname-input.png';
+    './images/PostImg/MailForm/nickname-input.png';
 
   // about Coupang Button
   const [coupangCookies, setCoupangCookie] = useCookies(['coupang']);
@@ -82,7 +82,7 @@ function PostPage(props) {
   );
 
   const PageBackground = styled.div`
-    background-image: url('/images/PostImg/Background/background.png');
+    background-image: url('./images/PostImg/Background/background.png');
     justify-content: center;
     align-items: center;
     -webkit-background-size: cover;
@@ -180,7 +180,7 @@ function PostPage(props) {
         <meta property='og:description' content='나만의 퍼스널 우체통' />
         <meta
           property='og:image'
-          content='/images/meta/post2021/post2021-meta.png'
+          content='./images/meta/post2021/post2021-meta.png'
         />
         <meta property='og:image:alt' content='퍼스널 우체통 - 케이테스트' />
 
@@ -194,7 +194,7 @@ function PostPage(props) {
         <meta property='twitter:description' content='나만의 퍼스널 우체통' />
         <meta
           property='twitter:image'
-          content='/images/meta/post2021/post2021-meta.png'
+          content='./images/meta/post2021/post2021-meta.png'
         />
         <meta
           property='twitter:image:alt'
@@ -277,35 +277,35 @@ function PostPage(props) {
     getList();
     if (props.language === `Kor`) {
       setUpbarBtnImg(
-        '/images/PostImg/Background/up_bg_bar.png'
+        './images/PostImg/Background/up_bg_bar.png'
       );
       setMainTitleImg(
-        '/images/PostImg/Background/main_title_2022.png'
+        './images/PostImg/Background/main_title_2022.png'
       );
       setSendMailImg(
-        '/images/PostImg/Button/send-mail-btn.png'
+        './images/PostImg/Button/send-mail-btn.png'
       );
       setShareMyPostImg(
-        '/images/PostImg/Button/share-mypost-btn.png'
+        './images/PostImg/Button/share-mypost-btn.png'
       );
       setGoToMyPostImg(
-        '/images/PostImg/Button/go-to-mypost-btn.png'
+        './images/PostImg/Button/go-to-mypost-btn.png'
       );
     } else if (props.language === `Eng`) {
       setUpbarBtnImg(
-        '/images/PostImg/English/Button/up_bg_bar.png'
+        './images/PostImg/English/Button/up_bg_bar.png'
       );
       setMainTitleImg(
-        '/images/PostImg/English/Background/main_title.png'
+        './images/PostImg/English/Background/main_title.png'
       );
       setSendMailImg(
-        '/images/PostImg/English/Button/send-mail-btn.png'
+        './images/PostImg/English/Button/send-mail-btn.png'
       );
       setShareMyPostImg(
-        '/images/PostImg/English/Button/share-mypost-btn.png'
+        './images/PostImg/English/Button/share-mypost-btn.png'
       );
       setGoToMyPostImg(
-        '/images/PostImg/English/Button/go-to-mypost-btn.png'
+        './images/PostImg/English/Button/go-to-mypost-btn.png'
       );
     }
   }, [props, getList]);
@@ -408,7 +408,7 @@ function PostPage(props) {
           <img
             loading='lazy'
             src={
-              '/images/PostImg/Button/post-to-ktest-btn.jpeg'
+              './images/PostImg/Button/post-to-ktest-btn.jpeg'
             }
             alt='Go To Ktest >> '
             className='post-to-ktest-btn'
@@ -416,7 +416,7 @@ function PostPage(props) {
         </a>
         <img
           loading='lazy'
-          src={'/images/PostImg/Background/down_bg_bar.png'}
+          src={'./images/PostImg/Background/down_bg_bar.png'}
           alt='DOWNBAR'
           className='start-page-downbar'
         />
@@ -430,7 +430,7 @@ function PostPage(props) {
         <GlobalStyle />
         <img
           loading='lazy'
-          src={'/images/PostImg/Background/up_bg_bar.png'}
+          src={'./images/PostImg/Background/up_bg_bar.png'}
           alt='UPBAR'
           className='start-page-upbar'
         />
@@ -438,7 +438,7 @@ function PostPage(props) {
           <img
             loading='lazy'
             src={
-              '/images/PostImg/Background/main_title.png'
+              './images/PostImg/Background/main_title.png'
             }
             alt='당신에게 나는 어떤 사람이었나요?'
             className='post-page-maintitle'
@@ -541,7 +541,7 @@ function PostPage(props) {
           <img
             loading='lazy'
             src={
-              '/images/PostImg/Button/post-to-ktest-btn.jpeg'
+              './images/PostImg/Button/post-to-ktest-btn.jpeg'
             }
             alt='Go To Ktest >> '
             className='post-to-ktest-btn'
@@ -549,7 +549,7 @@ function PostPage(props) {
         </a>
         <img
           loading='lazy'
-          src={'/images/PostImg/Background/down_bg_bar.png'}
+          src={'./images/PostImg/Background/down_bg_bar.png'}
           alt='DOWNBAR'
           className='start-page-downbar'
         />

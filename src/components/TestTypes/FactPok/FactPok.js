@@ -42,7 +42,7 @@ const FactPok = () => {
         />
         <meta
           property='og:image'
-          content='/images/main-thumbnail/factPok-thumb.png'
+          content='./images/main-thumbnail/factPok-thumb.png'
         />
         <meta
           property='og:image:alt'
@@ -65,7 +65,7 @@ const FactPok = () => {
         />
         <meta
           property='twitter:image'
-          content='/images/main-thumbnail/factPok-thumb.png'
+          content='./images/main-thumbnail/factPok-thumb.png'
         />
         <meta
           property='twitter:image:alt'
@@ -77,7 +77,7 @@ const FactPok = () => {
           <img
             loading='lazy'
             className='factPok-intro-top-img'
-            src='/images/introImages/factPok-intro-top.jpg'
+            src='./images/introImages/factPok-intro-top.jpg'
             alt='factPok-top'
           />
         </div>
@@ -85,7 +85,7 @@ const FactPok = () => {
           <img
             loading='lazy'
             className='factPok-intro-middle-left-img'
-            src='/images/introImages/factPok-intro-middle-left.jpg'
+            src='./images/introImages/factPok-intro-middle-left.jpg'
             alt='MyfactPok'
           />
         </Link>
@@ -93,7 +93,7 @@ const FactPok = () => {
           <img
             loading='lazy'
             className='factPok-intro-middle-right-img'
-            src='/images/introImages/factPok-intro-middle-right.jpg'
+            src='./images/introImages/factPok-intro-middle-right.jpg'
             alt='YourfactPok'
           />
         </Link>
@@ -101,7 +101,7 @@ const FactPok = () => {
           <img
             loading='lazy'
             className='factPok-intro-bottom-img'
-            src='/images/introImages/factPok-intro-bottom.jpg'
+            src='./images/introImages/factPok-intro-bottom.jpg'
             alt='factPok-bottom'
           />
         </div>

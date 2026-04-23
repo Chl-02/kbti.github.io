@@ -279,7 +279,7 @@ const MainPage = ({ lang, category }) => {
         />
         <meta
           property='og:image'
-          content='/images/default/main-header-2023.png'
+          content='./images/default/main-header-2023.png'
         />
         <meta
           property='og:image:alt'
@@ -299,7 +299,7 @@ const MainPage = ({ lang, category }) => {
         />
         <meta
           property='twitter:image'
-          content='/images/default/main-header-2023.png'
+          content='./images/default/main-header-2023.png'
         />
         <meta
           property='twitter:image:alt'
@@ -333,7 +333,7 @@ const MainPage = ({ lang, category }) => {
         />
         <meta
           property='og:image'
-          content='/images/default/main-header-2023Eng.png'
+          content='./images/default/main-header-2023Eng.png'
         />
         <meta
           property='og:image:alt'
@@ -353,7 +353,7 @@ const MainPage = ({ lang, category }) => {
         />
         <meta
           property='twitter:image'
-          content='/images/default/main-header-2023Eng.png'
+          content='./images/default/main-header-2023Eng.png'
         />
         <meta
           property='twitter:image:alt'
@@ -393,7 +393,7 @@ const MainPage = ({ lang, category }) => {
         />
         <meta
           property='og:image'
-          content='/images/default/main-header-2023JP.png'
+          content='./images/default/main-header-2023JP.png'
         />
         <meta
           property='og:image:alt'
@@ -413,7 +413,7 @@ const MainPage = ({ lang, category }) => {
         />
         <meta
           property='twitter:image'
-          content='/images/default/main-header-2023JP.png'
+          content='./images/default/main-header-2023JP.png'
         />
         <meta
           property='twitter:image:alt'

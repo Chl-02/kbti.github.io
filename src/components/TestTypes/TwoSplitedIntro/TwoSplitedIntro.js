@@ -103,14 +103,14 @@ const TwoSplitedIntro = ({ test, lang, info }) => {
         <div className='loveCharacter-intro-images-container'>
           <Link to={`/${test}Female${lang === 'Kor' ? '' : lang}/`}>
             <img
-              src='/images/meta/loveCharacter/Eng/loveChar-button-woman.jpg'
+              src='./images/meta/loveCharacter/Eng/loveChar-button-woman.jpg'
               alt='loveChar-button-woman'
               style={{ width: '100%', cursor: 'pointer' }}
             />
           </Link>
           <Link to={`/${test}Male${lang === 'Kor' ? '' : lang}/`}>
             <img
-              src='/images/meta/loveCharacter/Eng/loveChar-button-man.jpg'
+              src='./images/meta/loveCharacter/Eng/loveChar-button-man.jpg'
               alt='loveChar-button-man'
               style={{ width: '100%', cursor: 'pointer' }}
             />

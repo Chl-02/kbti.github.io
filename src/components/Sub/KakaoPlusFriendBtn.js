@@ -11,7 +11,7 @@ const KakaoPlusFriendBtn = () => {
         >
           <img
             loading='lazy'
-            src='/images/default/kakao-plus-friends-btn.png'
+            src='./images/default/kakao-plus-friends-btn.png'
             alt='kakao-plusfriend-btn'
             className='kakao-plusfriend-btn-image'
           />

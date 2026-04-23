@@ -136,7 +136,7 @@ const LifetimeSaju = (props) => {
           <img
             loading='lazy'
             className='lifetime-saju-intro-bg'
-            src='/images/meta/saju/lifetimeSaju-intro-input-bg.jpg'
+            src='./images/meta/saju/lifetimeSaju-intro-input-bg.jpg'
             alt='lifetime-saju-intro-input'
           />
           <div className='lifetime-saju-intro-date-picker-div'>
@@ -175,7 +175,7 @@ const LifetimeSaju = (props) => {
             <img
               loading='lazy'
               className='lifetime-saju-intro-btn'
-              src='/images/meta/saju/lifetimeSaju-intro-submit-btn.jpg'
+              src='./images/meta/saju/lifetimeSaju-intro-submit-btn.jpg'
               alt='lifetime-saju-intro-btn'
             />
           </div>

@@ -9,7 +9,7 @@ export const shortAnswerQuizes = [
       mainImage:
         'https://web.archive.org/web/0im_/https://images.ktestone.com/introImages/culinaryClassWars-intro.png',
       thumbImage:
-        '/images/main-thumbnail/culinaryClassWars-thumb.png',
+        './images/main-thumbnail/culinaryClassWars-thumb.png',
       lang: 'Kor',
       category: 'game',
       length: 10,
@@ -937,7 +937,7 @@ export const shortAnswerQuizes = [
       mainImage:
         'https://web.archive.org/web/0im_/https://images.ktestone.com/introImages/culinaryClassWarsBlack-intro.png',
       thumbImage:
-        '/images/main-thumbnail/culinaryClassWarsBlack-thumb.png',
+        './images/main-thumbnail/culinaryClassWarsBlack-thumb.png',
       lang: 'Kor',
       category: 'game',
       length: 10,
@@ -1605,7 +1605,7 @@ export const shortAnswerQuizes = [
       mainImage:
         'https://web.archive.org/web/0im_/https://images.ktestone.com/introImages/culinaryClassWarsWhite-intro.png',
       thumbImage:
-        '/images/main-thumbnail/culinaryClassWarsWhite-thumb.png',
+        './images/main-thumbnail/culinaryClassWarsWhite-thumb.png',
       lang: 'Kor',
       category: 'game',
       length: 10,
@@ -1881,9 +1881,9 @@ export const shortAnswerQuizes = [
                 당신의 티니핑 맞추기 실력은?`,
       mainUrl: 'catchTeeniepingQuiz',
       mainImage:
-        '/images/introImages/catchTeeniepingQuiz-intro.png',
+        './images/introImages/catchTeeniepingQuiz-intro.png',
       thumbImage:
-        '/images/main-thumbnail/catchTeeniepingQuiz-thumb.png',
+        './images/main-thumbnail/catchTeeniepingQuiz-thumb.png',
       lang: 'Kor',
       category: 'game',
       length: 10,
@@ -2531,7 +2531,7 @@ export const shortAnswerQuizes = [
       mainImage:
         'https://web.archive.org/web/0im_/https://images.ktestone.com/introImages/catchTeeniepingQuiz2-intro.png',
       thumbImage:
-        '/images/main-thumbnail/catchTeeniepingQuiz2-thumb.png',
+        './images/main-thumbnail/catchTeeniepingQuiz2-thumb.png',
       lang: 'Kor',
       category: 'game',
       length: 20,
@@ -3179,7 +3179,7 @@ export const shortAnswerQuizes = [
       mainImage:
         'https://web.archive.org/web/0im_/https://images.ktestone.com/introImages/catchTeeniepingQuiz3-intro.png',
       thumbImage:
-        '/images/main-thumbnail/catchTeeniepingQuiz3-thumb.png',
+        './images/main-thumbnail/catchTeeniepingQuiz3-thumb.png',
       lang: 'Kor',
       category: 'game',
       length: 30,
@@ -3827,7 +3827,7 @@ export const shortAnswerQuizes = [
       mainImage:
         'https://web.archive.org/web/0im_/https://images.ktestone.com/introImages/catchTeeniepingQuiz4-intro.png',
       thumbImage:
-        '/images/main-thumbnail/catchTeeniepingQuiz4-thumb.png',
+        './images/main-thumbnail/catchTeeniepingQuiz4-thumb.png',
       lang: 'Kor',
       category: 'game',
       length: 40,
