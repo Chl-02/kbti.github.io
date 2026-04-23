@@ -29,3 +29,10 @@ package-lock.json
 dev.js
 
 NavBar
+
+# Recovered image cache from Wayback (~4.4GB) and recovery artifacts
+/public/images/
+/cdx_all.json
+/image_urls.txt
+/image_manifest.json
+/image_failures.txt

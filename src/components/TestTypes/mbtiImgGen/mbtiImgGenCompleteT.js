@@ -23,9 +23,9 @@ const MbtiImgGenComplete = ({ conceptType, lang }) => {
 
     return (
         <div className='mbtiImgGen-complete-div'>
-            <img className='mbtiImgGen-complete' src={`https://images.ktestone.com/meta/mbtiImgGen/mbtiImgGen${lang.route}-complete.jpg`} alt='mbtiImgGen-complete' />
+            <img className='mbtiImgGen-complete' src={`https://web.archive.org/web/0im_/https://images.ktestone.com/meta/mbtiImgGen/mbtiImgGen${lang.route}-complete.jpg`} alt='mbtiImgGen-complete' />
             <Link to={`/${lang.route}`}>
-                <img onClick={onGoToHomeClick} className='mbtiImgGen-complete-btn' src={`https://images.ktestone.com/meta/mbtiImgGen/mbtiImgGen${lang.route}-complete-btn.png`} alt='mbtiImgGen-complete-btn' />
+                <img onClick={onGoToHomeClick} className='mbtiImgGen-complete-btn' src={`https://web.archive.org/web/0im_/https://images.ktestone.com/meta/mbtiImgGen/mbtiImgGen${lang.route}-complete-btn.png`} alt='mbtiImgGen-complete-btn' />
             </Link>
         </div>
     );

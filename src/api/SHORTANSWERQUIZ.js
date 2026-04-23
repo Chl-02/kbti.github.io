@@ -7,9 +7,9 @@ export const shortAnswerQuizes = [
                             당신의 셰프 이름 맞추기 실력은?`,
       mainUrl: 'culinaryClassWars',
       mainImage:
-        'https://images.ktestone.com/introImages/culinaryClassWars-intro.png',
+        'https://web.archive.org/web/0im_/https://images.ktestone.com/introImages/culinaryClassWars-intro.png',
       thumbImage:
-        'https://images.ktestone.com/main-thumbnail/culinaryClassWars-thumb.png',
+        '/images/main-thumbnail/culinaryClassWars-thumb.png',
       lang: 'Kor',
       category: 'game',
       length: 10,
@@ -25,7 +25,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsWhite/1.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsWhite/1.jpg',
         answer: ['김도윤'],
       },
       {
@@ -38,7 +38,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsWhite/2.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsWhite/2.jpg',
         answer: ['김승민'],
       },
       {
@@ -51,7 +51,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsWhite/3.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsWhite/3.jpg',
         answer: ['남정석'],
       },
       {
@@ -64,7 +64,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsWhite/4.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsWhite/4.jpg',
         answer: ['박준우'],
       },
       {
@@ -77,7 +77,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsWhite/5.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsWhite/5.jpg',
         answer: ['방기수'],
       },
       {
@@ -90,7 +90,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsWhite/6.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsWhite/6.jpg',
         answer: ['선경 롱게스트', '선경'],
       },
       {
@@ -103,7 +103,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsWhite/7.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsWhite/7.jpg',
         answer: ['안유성'],
       },
       {
@@ -116,7 +116,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsWhite/8.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsWhite/8.jpg',
         answer: ['에드워드 리'],
       },
       {
@@ -129,7 +129,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsWhite/9.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsWhite/9.jpg',
         answer: ['여경래'],
       },
       {
@@ -142,7 +142,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsWhite/10.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsWhite/10.jpg',
         answer: ['오세득'],
       },
       {
@@ -155,7 +155,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsWhite/11.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsWhite/11.jpg',
         answer: ['이영숙'],
       },
       {
@@ -168,7 +168,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsWhite/12.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsWhite/12.jpg',
         answer: ['장호준'],
       },
       {
@@ -181,7 +181,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsWhite/13.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsWhite/13.jpg',
         answer: ['정지선'],
       },
       {
@@ -194,7 +194,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsWhite/14.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsWhite/14.jpg',
         answer: ['조셉 리저우드', '조셉'],
       },
       {
@@ -207,7 +207,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsWhite/15.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsWhite/15.jpg',
         answer: ['조은주'],
       },
       {
@@ -220,7 +220,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsWhite/16.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsWhite/16.jpg',
         answer: ['최강록'],
       },
       {
@@ -233,7 +233,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsWhite/17.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsWhite/17.jpg',
         answer: ['최지형'],
       },
       {
@@ -246,7 +246,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsWhite/18.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsWhite/18.jpg',
         answer: ['최현석'],
       },
       {
@@ -259,7 +259,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsWhite/19.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsWhite/19.jpg',
         answer: ['파브리치오 페라리', '파브리치오'],
       },
       {
@@ -272,7 +272,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsWhite/20.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsWhite/20.jpg',
         answer: ['황진선'],
       },
       {
@@ -285,7 +285,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/1.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/1.jpg',
         answer: ['간귀', '현상욱'],
       },
       {
@@ -298,7 +298,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/2.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/2.jpg',
         answer: ['고기 깡패', '고기깡패', '데이비드 리'],
       },
       {
@@ -311,7 +311,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/4.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/4.jpg',
         answer: ['골목식당 1호', '골목식당', '골목식당1호', '이창재'],
       },
       {
@@ -324,7 +324,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/6.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/6.jpg',
         answer: ['광속 요리사', '광속요리사', '우현일'],
       },
       {
@@ -337,7 +337,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/8.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/8.jpg',
         answer: ['급식 대가', '급식대가', '이미영'],
       },
       {
@@ -350,7 +350,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/9.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/9.jpg',
         answer: ['껌이지 형', '껌이지형', '챔보', '크리스 햄버수미언'],
       },
       {
@@ -363,7 +363,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/10.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/10.jpg',
         answer: ['나폴리 맛피아', '나폴리맛피아', '권성준'],
       },
       {
@@ -376,7 +376,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/11.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/11.jpg',
         answer: ['남극셰프', '남극 셰프', '강경갑'],
       },
       {
@@ -389,7 +389,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/14.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/14.jpg',
         answer: ['돌아온 소년', '돌아온소년', '채낙영'],
       },
       {
@@ -402,7 +402,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/16.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/16.jpg',
         answer: ['레시피 뱅크', '레시피뱅크', '심광섭'],
       },
       {
@@ -415,7 +415,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/17.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/17.jpg',
         answer: ['만찢남', '조광효'],
       },
       {
@@ -428,7 +428,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/19.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/19.jpg',
         answer: ['반찬 셰프', '반찬셰프', '송하슬람'],
       },
       {
@@ -441,7 +441,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/21.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/21.jpg',
         answer: [
           '본업도 잘하는 남자',
           '본업도잘하는남자',
@@ -459,7 +459,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/22.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/22.jpg',
         answer: ['봉주부', '김봉수'],
       },
       {
@@ -472,7 +472,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/23.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/23.jpg',
         answer: ['불꽃 남자', '불꽃남자', '박성우'],
       },
       {
@@ -485,7 +485,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/24.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/24.jpg',
         answer: ['뷔페집 둘째딸', '뷔페집둘째딸', '최서우'],
       },
       {
@@ -498,7 +498,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/25.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/25.jpg',
         answer: ['비빔대왕', '유비빔'],
       },
       {
@@ -511,7 +511,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/27.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/27.jpg',
         answer: ['셀럽의 셰프', '셀럽의셰프', '임희원'],
       },
       {
@@ -524,7 +524,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/28.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/28.jpg',
         answer: ['슈퍼 땅콩', '슈퍼땅콩', '정혜민'],
       },
       {
@@ -537,7 +537,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/30.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/30.jpg',
         answer: ['승우아빠', '목진화'],
       },
       {
@@ -550,7 +550,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/31.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/31.jpg',
         answer: ['시크릿 코스', '시크릿코스', '박준승'],
       },
       {
@@ -563,7 +563,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/32.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/32.jpg',
         answer: ['안산 백종원', '안산백종원', '강기복'],
       },
       {
@@ -576,7 +576,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/33.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/33.jpg',
         answer: ['야키토리왕', '김병묵'],
       },
       {
@@ -589,7 +589,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/34.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/34.jpg',
         answer: ['영탉', '오준탁'],
       },
       {
@@ -602,7 +602,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/36.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/36.jpg',
         answer: ['요리하는 돌아이', '윤남노'],
       },
       {
@@ -615,7 +615,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/38.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/38.jpg',
         answer: ['원투쓰리', '배경준'],
       },
       {
@@ -628,7 +628,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/39.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/39.jpg',
         answer: ['월클 레시피', '월클레시피', '최현목'],
       },
       {
@@ -641,7 +641,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/40.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/40.jpg',
         answer: ['은수저', '오창현'],
       },
       {
@@ -654,7 +654,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/41.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/41.jpg',
         answer: ['이모카세 1호', '이모카세', '이모카세 1호', '김미령'],
       },
       {
@@ -667,7 +667,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/42.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/42.jpg',
         answer: ['일식 타짜', '일식타짜', '박세진'],
       },
       {
@@ -680,7 +680,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/44.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/44.jpg',
         answer: ['장사천재 조사장', '장사천재조사장', '조서형'],
       },
       {
@@ -693,7 +693,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/45.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/45.jpg',
         answer: ['정육맨', '차원대'],
       },
       {
@@ -706,7 +706,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/46.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/46.jpg',
         answer: ['제빵 요리사', '제빵요리사', '코바야시 스스무'],
       },
       {
@@ -719,7 +719,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/47.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/47.jpg',
         answer: ['제주 게하 셰프', '제주게하셰프', '제주게하', '황태원'],
       },
       {
@@ -732,7 +732,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/48.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/48.jpg',
         answer: ['중식 여신', '중식여신', '박은영'],
       },
       {
@@ -745,7 +745,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/49.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/49.jpg',
         answer: ['짹짹이', '김지훈태'],
       },
       {
@@ -758,7 +758,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/51.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/51.jpg',
         answer: ['철가방 요리사', '철가방요리사', '임태훈'],
       },
       {
@@ -771,7 +771,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/52.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/52.jpg',
         answer: ['청와대 셰프', '청와대셰프', '장지수'],
       },
       {
@@ -784,7 +784,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/53.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/53.jpg',
         answer: ['치킨 대통령', '치킨대통령', '안병태'],
       },
       {
@@ -797,7 +797,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/58.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/58.jpg',
         answer: ['키친 갱스터', '키친갱스터', '박지영'],
       },
       {
@@ -810,7 +810,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/62.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/62.jpg',
         answer: ['트리플 스타', '트리플스타', '강승원'],
       },
       {
@@ -823,7 +823,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/63.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/63.jpg',
         answer: ['평가절하', '박정현'],
       },
       {
@@ -836,7 +836,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/64.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/64.jpg',
         answer: ['포커페이스', '김현빈'],
       },
       {
@@ -849,7 +849,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/66.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/66.jpg',
         answer: ['프렌치돌', '장한이'],
       },
       {
@@ -862,7 +862,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/68.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/68.jpg',
         answer: ['해피버스데이', '김원기'],
       },
       {
@@ -875,7 +875,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/74.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/74.jpg',
         answer: ['히든 천재', '히든천재', '김태성'],
       },
       {
@@ -888,7 +888,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/75.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/75.jpg',
         answer: [
           'B급 셰프',
           '비급셰프',
@@ -909,7 +909,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/78.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/78.jpg',
         answer: ['300억 반찬 CEO', '300억반찬CEO', '민요한'],
       },
       {
@@ -922,7 +922,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/80.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/80.jpg',
         answer: ['50억 초밥왕', '50억초밥왕', '이경재'],
       },
     ],
@@ -935,9 +935,9 @@ export const shortAnswerQuizes = [
                         당신의 셰프 이름 맞추기 실력은?`,
       mainUrl: 'culinaryClassWarsBlack',
       mainImage:
-        'https://images.ktestone.com/introImages/culinaryClassWarsBlack-intro.png',
+        'https://web.archive.org/web/0im_/https://images.ktestone.com/introImages/culinaryClassWarsBlack-intro.png',
       thumbImage:
-        'https://images.ktestone.com/main-thumbnail/culinaryClassWarsBlack-thumb.png',
+        '/images/main-thumbnail/culinaryClassWarsBlack-thumb.png',
       lang: 'Kor',
       category: 'game',
       length: 10,
@@ -953,7 +953,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/1.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/1.jpg',
         answer: ['간귀', '현상욱'],
       },
       {
@@ -966,7 +966,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/2.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/2.jpg',
         answer: ['고기 깡패', '고기깡패', '데이비드 리'],
       },
       {
@@ -979,7 +979,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/4.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/4.jpg',
         answer: ['골목식당 1호', '골목식당', '골목식당1호', '이창재'],
       },
       {
@@ -992,7 +992,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/6.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/6.jpg',
         answer: ['광속 요리사', '광속요리사', '우현일'],
       },
       {
@@ -1005,7 +1005,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/8.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/8.jpg',
         answer: ['급식 대가', '급식대가', '이미영'],
       },
       {
@@ -1018,7 +1018,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/9.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/9.jpg',
         answer: ['껌이지 형', '껌이지형', '챔보', '크리스 햄버수미언'],
       },
       {
@@ -1031,7 +1031,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/10.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/10.jpg',
         answer: ['나폴리 맛피아', '나폴리맛피아', '권성준'],
       },
       {
@@ -1044,7 +1044,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/11.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/11.jpg',
         answer: ['남극셰프', '남극 셰프', '강경갑'],
       },
       {
@@ -1057,7 +1057,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/14.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/14.jpg',
         answer: ['돌아온 소년', '돌아온소년', '채낙영'],
       },
       {
@@ -1070,7 +1070,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/16.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/16.jpg',
         answer: ['레시피 뱅크', '레시피뱅크', '심광섭'],
       },
       {
@@ -1083,7 +1083,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/17.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/17.jpg',
         answer: ['만찢남', '조광효'],
       },
       {
@@ -1096,7 +1096,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/19.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/19.jpg',
         answer: ['반찬 셰프', '반찬셰프', '송하슬람'],
       },
       {
@@ -1109,7 +1109,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/21.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/21.jpg',
         answer: [
           '본업도 잘하는 남자',
           '본업도잘하는남자',
@@ -1127,7 +1127,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/22.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/22.jpg',
         answer: ['봉주부', '김봉수'],
       },
       {
@@ -1140,7 +1140,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/23.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/23.jpg',
         answer: ['불꽃 남자', '불꽃남자', '박성우'],
       },
       {
@@ -1153,7 +1153,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/24.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/24.jpg',
         answer: ['뷔페집 둘째딸', '뷔페집둘째딸', '최서우'],
       },
       {
@@ -1166,7 +1166,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/25.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/25.jpg',
         answer: ['비빔대왕', '유비빔'],
       },
       {
@@ -1179,7 +1179,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/27.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/27.jpg',
         answer: ['셀럽의 셰프', '셀럽의셰프', '임희원'],
       },
       {
@@ -1192,7 +1192,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/28.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/28.jpg',
         answer: ['슈퍼 땅콩', '슈퍼땅콩', '정혜민'],
       },
       {
@@ -1205,7 +1205,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/30.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/30.jpg',
         answer: ['승우아빠', '목진화'],
       },
       {
@@ -1218,7 +1218,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/31.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/31.jpg',
         answer: ['시크릿 코스', '시크릿코스', '박준승'],
       },
       {
@@ -1231,7 +1231,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/32.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/32.jpg',
         answer: ['안산 백종원', '안산백종원', '강기복'],
       },
       {
@@ -1244,7 +1244,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/33.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/33.jpg',
         answer: ['야키토리왕', '김병묵'],
       },
       {
@@ -1257,7 +1257,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/34.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/34.jpg',
         answer: ['영탉', '오준탁'],
       },
       {
@@ -1270,7 +1270,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/36.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/36.jpg',
         answer: ['요리하는 돌아이', '윤남노'],
       },
       {
@@ -1283,7 +1283,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/38.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/38.jpg',
         answer: ['원투쓰리', '배경준'],
       },
       {
@@ -1296,7 +1296,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/39.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/39.jpg',
         answer: ['월클 레시피', '월클레시피', '최현목'],
       },
       {
@@ -1309,7 +1309,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/40.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/40.jpg',
         answer: ['은수저', '오창현'],
       },
       {
@@ -1322,7 +1322,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/41.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/41.jpg',
         answer: ['이모카세 1호', '이모카세', '이모카세 1호', '김미령'],
       },
       {
@@ -1335,7 +1335,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/42.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/42.jpg',
         answer: ['일식 타짜', '일식타짜', '박세진'],
       },
       {
@@ -1348,7 +1348,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/44.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/44.jpg',
         answer: ['장사천재 조사장', '장사천재조사장', '조서형'],
       },
       {
@@ -1361,7 +1361,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/45.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/45.jpg',
         answer: ['정육맨', '차원대'],
       },
       {
@@ -1374,7 +1374,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/46.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/46.jpg',
         answer: ['제빵 요리사', '제빵요리사', '코바야시 스스무'],
       },
       {
@@ -1387,7 +1387,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/47.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/47.jpg',
         answer: ['제주 게하 셰프', '제주게하셰프', '제주게하', '황태원'],
       },
       {
@@ -1400,7 +1400,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/48.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/48.jpg',
         answer: ['중식 여신', '중식여신', '박은영'],
       },
       {
@@ -1413,7 +1413,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/49.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/49.jpg',
         answer: ['짹짹이', '김지훈태'],
       },
       {
@@ -1426,7 +1426,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/51.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/51.jpg',
         answer: ['철가방 요리사', '철가방요리사', '임태훈'],
       },
       {
@@ -1439,7 +1439,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/52.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/52.jpg',
         answer: ['청와대 셰프', '청와대셰프', '장지수'],
       },
       {
@@ -1452,7 +1452,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/53.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/53.jpg',
         answer: ['치킨 대통령', '치킨대통령', '안병태'],
       },
       {
@@ -1465,7 +1465,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/58.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/58.jpg',
         answer: ['키친 갱스터', '키친갱스터', '박지영'],
       },
       {
@@ -1478,7 +1478,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/62.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/62.jpg',
         answer: ['트리플 스타', '트리플스타', '강승원'],
       },
       {
@@ -1491,7 +1491,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/63.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/63.jpg',
         answer: ['평가절하', '박정현'],
       },
       {
@@ -1504,7 +1504,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/64.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/64.jpg',
         answer: ['포커페이스', '김현빈'],
       },
       {
@@ -1517,7 +1517,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/66.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/66.jpg',
         answer: ['프렌치돌', '장한이'],
       },
       {
@@ -1530,7 +1530,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/68.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/68.jpg',
         answer: ['해피버스데이', '김원기'],
       },
       {
@@ -1543,7 +1543,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/74.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/74.jpg',
         answer: ['히든 천재', '히든천재', '김태성'],
       },
       {
@@ -1556,7 +1556,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/75.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/75.jpg',
         answer: [
           'B급 셰프',
           '비급셰프',
@@ -1577,7 +1577,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/78.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/78.jpg',
         answer: ['300억 반찬 CEO', '300억반찬CEO', '민요한'],
       },
       {
@@ -1590,7 +1590,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsBlack/80.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsBlack/80.jpg',
         answer: ['50억 초밥왕', '50억초밥왕', '이경재'],
       },
     ],
@@ -1603,9 +1603,9 @@ export const shortAnswerQuizes = [
                     당신의 셰프 이름 맞추기 실력은?`,
       mainUrl: 'culinaryClassWarsWhite',
       mainImage:
-        'https://images.ktestone.com/introImages/culinaryClassWarsWhite-intro.png',
+        'https://web.archive.org/web/0im_/https://images.ktestone.com/introImages/culinaryClassWarsWhite-intro.png',
       thumbImage:
-        'https://images.ktestone.com/main-thumbnail/culinaryClassWarsWhite-thumb.png',
+        '/images/main-thumbnail/culinaryClassWarsWhite-thumb.png',
       lang: 'Kor',
       category: 'game',
       length: 10,
@@ -1621,7 +1621,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsWhite/1.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsWhite/1.jpg',
         answer: ['김도윤'],
       },
       {
@@ -1634,7 +1634,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsWhite/2.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsWhite/2.jpg',
         answer: ['김승민'],
       },
       {
@@ -1647,7 +1647,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsWhite/3.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsWhite/3.jpg',
         answer: ['남정석'],
       },
       {
@@ -1660,7 +1660,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsWhite/4.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsWhite/4.jpg',
         answer: ['박준우'],
       },
       {
@@ -1673,7 +1673,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsWhite/5.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsWhite/5.jpg',
         answer: ['방기수'],
       },
       {
@@ -1686,7 +1686,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsWhite/6.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsWhite/6.jpg',
         answer: ['선경 롱게스트', '선경'],
       },
       {
@@ -1699,7 +1699,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsWhite/7.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsWhite/7.jpg',
         answer: ['안유성'],
       },
       {
@@ -1712,7 +1712,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsWhite/8.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsWhite/8.jpg',
         answer: ['에드워드 리'],
       },
       {
@@ -1725,7 +1725,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsWhite/9.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsWhite/9.jpg',
         answer: ['여경래'],
       },
       {
@@ -1738,7 +1738,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsWhite/10.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsWhite/10.jpg',
         answer: ['오세득'],
       },
       {
@@ -1751,7 +1751,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsWhite/11.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsWhite/11.jpg',
         answer: ['이영숙'],
       },
       {
@@ -1764,7 +1764,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsWhite/12.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsWhite/12.jpg',
         answer: ['장호준'],
       },
       {
@@ -1777,7 +1777,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsWhite/13.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsWhite/13.jpg',
         answer: ['정지선'],
       },
       {
@@ -1790,7 +1790,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsWhite/14.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsWhite/14.jpg',
         answer: ['조셉 리저우드', '조셉'],
       },
       {
@@ -1803,7 +1803,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsWhite/15.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsWhite/15.jpg',
         answer: ['조은주'],
       },
       {
@@ -1816,7 +1816,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsWhite/16.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsWhite/16.jpg',
         answer: ['최강록'],
       },
       {
@@ -1829,7 +1829,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsWhite/17.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsWhite/17.jpg',
         answer: ['최지형'],
       },
       {
@@ -1842,7 +1842,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsWhite/18.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsWhite/18.jpg',
         answer: ['최현석'],
       },
       {
@@ -1855,7 +1855,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsWhite/19.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsWhite/19.jpg',
         answer: ['파브리치오 페라리', '파브리치오'],
       },
       {
@@ -1868,7 +1868,7 @@ export const shortAnswerQuizes = [
             content: ``,
           },
         ],
-        image: 'https://images.ktestone.com/meta/culinaryClassWarsWhite/20.jpg',
+        image: 'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/culinaryClassWarsWhite/20.jpg',
         answer: ['황진선'],
       },
     ],
@@ -1881,9 +1881,9 @@ export const shortAnswerQuizes = [
                 당신의 티니핑 맞추기 실력은?`,
       mainUrl: 'catchTeeniepingQuiz',
       mainImage:
-        'https://images.ktestone.com/introImages/catchTeeniepingQuiz-intro.png',
+        '/images/introImages/catchTeeniepingQuiz-intro.png',
       thumbImage:
-        'https://images.ktestone.com/main-thumbnail/catchTeeniepingQuiz-thumb.png',
+        '/images/main-thumbnail/catchTeeniepingQuiz-thumb.png',
       lang: 'Kor',
       category: 'game',
       length: 10,
@@ -1900,7 +1900,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/achuPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/achuPing.png',
         answer: ['아츄핑'],
       },
       {
@@ -1914,7 +1914,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/aingPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/aingPing.png',
         answer: ['아잉핑'],
       },
       {
@@ -1928,7 +1928,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/akdongPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/akdongPing.png',
         answer: ['악동핑'],
       },
       {
@@ -1942,7 +1942,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/angdaePing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/angdaePing.png',
         answer: ['앙대핑'],
       },
       {
@@ -1956,7 +1956,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/azaPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/azaPing.png',
         answer: ['아자핑'],
       },
       {
@@ -1970,7 +1970,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/banePing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/banePing.png',
         answer: ['바네핑'],
       },
       {
@@ -1984,7 +1984,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/baroPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/baroPing.png',
         answer: ['바로핑'],
       },
       {
@@ -1998,7 +1998,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/bebePing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/bebePing.png',
         answer: ['베베핑'],
       },
       {
@@ -2012,7 +2012,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/bookkPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/bookkPing.png',
         answer: ['부끄핑'],
       },
       {
@@ -2026,7 +2026,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/bootooPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/bootooPing.png',
         answer: ['부투핑'],
       },
       {
@@ -2040,7 +2040,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/chachaPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/chachaPing.png',
         answer: ['차차핑'],
       },
       {
@@ -2054,7 +2054,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/chakePing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/chakePing.png',
         answer: ['차캐핑'],
       },
       {
@@ -2068,7 +2068,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/chanaPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/chanaPing.png',
         answer: ['차나핑'],
       },
       {
@@ -2082,7 +2082,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/cozaPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/cozaPing.png',
         answer: ['코자핑'],
       },
       {
@@ -2096,7 +2096,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/dajoPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/dajoPing.png',
         answer: ['다조핑'],
       },
       {
@@ -2110,7 +2110,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/ddakpoolPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/ddakpoolPing.png',
         answer: ['딱풀핑'],
       },
       {
@@ -2124,7 +2124,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/ddaraPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/ddaraPing.png',
         answer: ['따라핑'],
       },
       {
@@ -2138,7 +2138,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/ddiyongPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/ddiyongPing.png',
         answer: ['띠용핑'],
       },
       {
@@ -2152,7 +2152,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/ddokddokPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/ddokddokPing.png',
         answer: ['똑똑핑'],
       },
       {
@@ -2166,7 +2166,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/ddokkaPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/ddokkaPing.png',
         answer: ['또까핑'],
       },
       {
@@ -2180,7 +2180,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/ddubulPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/ddubulPing.png',
         answer: ['떠벌핑'],
       },
       {
@@ -2194,7 +2194,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/duldulPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/duldulPing.png',
         answer: ['덜덜핑'],
       },
       {
@@ -2208,7 +2208,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/ggambbakPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/ggambbakPing.png',
         answer: ['깜빡핑'],
       },
       {
@@ -2222,7 +2222,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/ggongggonPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/ggongggonPing.png',
         answer: ['꽁꽁핑'],
       },
       {
@@ -2236,7 +2236,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/gguggulPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/gguggulPing.png',
         answer: ['꺼꿀핑'],
       },
       {
@@ -2250,7 +2250,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/grimPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/grimPing.png',
         answer: ['그림핑'],
       },
       {
@@ -2264,7 +2264,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/haPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/haPing.png',
         answer: ['헤핑'],
       },
       {
@@ -2278,7 +2278,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/heartyouPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/heartyouPing.png',
         answer: ['하츄핑'],
       },
       {
@@ -2292,7 +2292,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/holoPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/holoPing.png',
         answer: ['홀로핑'],
       },
       {
@@ -2306,7 +2306,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/modaPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/modaPing.png',
         answer: ['모야핑'],
       },
       {
@@ -2320,7 +2320,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/hwanaPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/hwanaPing.png',
         answer: ['화나핑'],
       },
       {
@@ -2334,7 +2334,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/jjiritPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/jjiritPing.png',
         answer: ['찌릿핑'],
       },
       {
@@ -2348,7 +2348,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/kikiPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/kikiPing.png',
         answer: ['키키핑'],
       },
       {
@@ -2362,7 +2362,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/lalaPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/lalaPing.png',
         answer: ['라라핑'],
       },
       {
@@ -2376,7 +2376,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/modaPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/modaPing.png',
         answer: ['모야핑'],
       },
       {
@@ -2390,7 +2390,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/mooguPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/mooguPing.png',
         answer: ['무거핑'],
       },
       {
@@ -2404,7 +2404,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/mooshirPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/mooshirPing.png',
         answer: ['무셔핑'],
       },
       {
@@ -2418,7 +2418,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/narPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/narPing.png',
         answer: ['나르핑'],
       },
       {
@@ -2432,7 +2432,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/noraPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/noraPing.png',
         answer: ['노라핑'],
       },
       {
@@ -2446,7 +2446,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/noriPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/noriPing.png',
         answer: ['노리핑'],
       },
       {
@@ -2460,7 +2460,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/plaPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/plaPing.png',
         answer: ['플라핑'],
       },
       {
@@ -2474,7 +2474,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/sirorPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/sirorPing.png',
         answer: ['시러핑'],
       },
       {
@@ -2488,7 +2488,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/ssingssingPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/ssingssingPing.png',
         answer: ['씽씽핑'],
       },
       {
@@ -2502,7 +2502,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/toyPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/toyPing.png',
         answer: ['토이핑'],
       },
       {
@@ -2516,7 +2516,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/twotwoPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/twotwoPing.png',
         answer: ['투투핑'],
       },
     ],
@@ -2529,9 +2529,9 @@ export const shortAnswerQuizes = [
                 당신의 티니핑 맞추기 실력은?`,
       mainUrl: 'catchTeeniepingQuiz2',
       mainImage:
-        'https://images.ktestone.com/introImages/catchTeeniepingQuiz2-intro.png',
+        'https://web.archive.org/web/0im_/https://images.ktestone.com/introImages/catchTeeniepingQuiz2-intro.png',
       thumbImage:
-        'https://images.ktestone.com/main-thumbnail/catchTeeniepingQuiz2-thumb.png',
+        '/images/main-thumbnail/catchTeeniepingQuiz2-thumb.png',
       lang: 'Kor',
       category: 'game',
       length: 20,
@@ -2548,7 +2548,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/achuPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/achuPing.png',
         answer: ['아츄핑'],
       },
       {
@@ -2562,7 +2562,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/aingPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/aingPing.png',
         answer: ['아잉핑'],
       },
       {
@@ -2576,7 +2576,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/akdongPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/akdongPing.png',
         answer: ['악동핑'],
       },
       {
@@ -2590,7 +2590,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/angdaePing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/angdaePing.png',
         answer: ['앙대핑'],
       },
       {
@@ -2604,7 +2604,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/azaPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/azaPing.png',
         answer: ['아자핑'],
       },
       {
@@ -2618,7 +2618,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/banePing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/banePing.png',
         answer: ['바네핑'],
       },
       {
@@ -2632,7 +2632,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/baroPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/baroPing.png',
         answer: ['바로핑'],
       },
       {
@@ -2646,7 +2646,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/bebePing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/bebePing.png',
         answer: ['베베핑'],
       },
       {
@@ -2660,7 +2660,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/bookkPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/bookkPing.png',
         answer: ['부끄핑'],
       },
       {
@@ -2674,7 +2674,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/bootooPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/bootooPing.png',
         answer: ['부투핑'],
       },
       {
@@ -2688,7 +2688,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/chachaPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/chachaPing.png',
         answer: ['차차핑'],
       },
       {
@@ -2702,7 +2702,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/chakePing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/chakePing.png',
         answer: ['차캐핑'],
       },
       {
@@ -2716,7 +2716,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/chanaPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/chanaPing.png',
         answer: ['차나핑'],
       },
       {
@@ -2730,7 +2730,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/cozaPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/cozaPing.png',
         answer: ['코자핑'],
       },
       {
@@ -2744,7 +2744,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/dajoPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/dajoPing.png',
         answer: ['다조핑'],
       },
       {
@@ -2758,7 +2758,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/ddakpoolPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/ddakpoolPing.png',
         answer: ['딱풀핑'],
       },
       {
@@ -2772,7 +2772,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/ddaraPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/ddaraPing.png',
         answer: ['따라핑'],
       },
       {
@@ -2786,7 +2786,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/ddiyongPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/ddiyongPing.png',
         answer: ['띠용핑'],
       },
       {
@@ -2800,7 +2800,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/ddokddokPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/ddokddokPing.png',
         answer: ['똑똑핑'],
       },
       {
@@ -2814,7 +2814,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/ddokkaPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/ddokkaPing.png',
         answer: ['또까핑'],
       },
       {
@@ -2828,7 +2828,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/ddubulPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/ddubulPing.png',
         answer: ['떠벌핑'],
       },
       {
@@ -2842,7 +2842,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/duldulPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/duldulPing.png',
         answer: ['덜덜핑'],
       },
       {
@@ -2856,7 +2856,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/ggambbakPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/ggambbakPing.png',
         answer: ['깜빡핑'],
       },
       {
@@ -2870,7 +2870,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/ggongggonPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/ggongggonPing.png',
         answer: ['꽁꽁핑'],
       },
       {
@@ -2884,7 +2884,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/gguggulPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/gguggulPing.png',
         answer: ['꺼꿀핑'],
       },
       {
@@ -2898,7 +2898,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/grimPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/grimPing.png',
         answer: ['그림핑'],
       },
       {
@@ -2912,7 +2912,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/haPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/haPing.png',
         answer: ['헤핑'],
       },
       {
@@ -2926,7 +2926,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/heartyouPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/heartyouPing.png',
         answer: ['하츄핑'],
       },
       {
@@ -2940,7 +2940,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/holoPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/holoPing.png',
         answer: ['홀로핑'],
       },
       {
@@ -2954,7 +2954,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/modaPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/modaPing.png',
         answer: ['모야핑'],
       },
       {
@@ -2968,7 +2968,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/hwanaPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/hwanaPing.png',
         answer: ['화나핑'],
       },
       {
@@ -2982,7 +2982,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/jjiritPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/jjiritPing.png',
         answer: ['찌릿핑'],
       },
       {
@@ -2996,7 +2996,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/kikiPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/kikiPing.png',
         answer: ['키키핑'],
       },
       {
@@ -3010,7 +3010,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/lalaPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/lalaPing.png',
         answer: ['라라핑'],
       },
       {
@@ -3024,7 +3024,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/modaPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/modaPing.png',
         answer: ['모야핑'],
       },
       {
@@ -3038,7 +3038,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/mooguPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/mooguPing.png',
         answer: ['무거핑'],
       },
       {
@@ -3052,7 +3052,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/mooshirPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/mooshirPing.png',
         answer: ['무셔핑'],
       },
       {
@@ -3066,7 +3066,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/narPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/narPing.png',
         answer: ['나르핑'],
       },
       {
@@ -3080,7 +3080,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/noraPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/noraPing.png',
         answer: ['노라핑'],
       },
       {
@@ -3094,7 +3094,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/noriPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/noriPing.png',
         answer: ['노리핑'],
       },
       {
@@ -3108,7 +3108,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/plaPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/plaPing.png',
         answer: ['플라핑'],
       },
       {
@@ -3122,7 +3122,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/sirorPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/sirorPing.png',
         answer: ['시러핑'],
       },
       {
@@ -3136,7 +3136,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/ssingssingPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/ssingssingPing.png',
         answer: ['씽씽핑'],
       },
       {
@@ -3150,7 +3150,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/toyPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/toyPing.png',
         answer: ['토이핑'],
       },
       {
@@ -3164,7 +3164,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/twotwoPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/twotwoPing.png',
         answer: ['투투핑'],
       },
     ],
@@ -3177,9 +3177,9 @@ export const shortAnswerQuizes = [
                 당신의 티니핑 맞추기 실력은?`,
       mainUrl: 'catchTeeniepingQuiz3',
       mainImage:
-        'https://images.ktestone.com/introImages/catchTeeniepingQuiz3-intro.png',
+        'https://web.archive.org/web/0im_/https://images.ktestone.com/introImages/catchTeeniepingQuiz3-intro.png',
       thumbImage:
-        'https://images.ktestone.com/main-thumbnail/catchTeeniepingQuiz3-thumb.png',
+        '/images/main-thumbnail/catchTeeniepingQuiz3-thumb.png',
       lang: 'Kor',
       category: 'game',
       length: 30,
@@ -3196,7 +3196,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/achuPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/achuPing.png',
         answer: ['아츄핑'],
       },
       {
@@ -3210,7 +3210,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/aingPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/aingPing.png',
         answer: ['아잉핑'],
       },
       {
@@ -3224,7 +3224,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/akdongPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/akdongPing.png',
         answer: ['악동핑'],
       },
       {
@@ -3238,7 +3238,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/angdaePing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/angdaePing.png',
         answer: ['앙대핑'],
       },
       {
@@ -3252,7 +3252,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/azaPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/azaPing.png',
         answer: ['아자핑'],
       },
       {
@@ -3266,7 +3266,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/banePing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/banePing.png',
         answer: ['바네핑'],
       },
       {
@@ -3280,7 +3280,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/baroPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/baroPing.png',
         answer: ['바로핑'],
       },
       {
@@ -3294,7 +3294,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/bebePing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/bebePing.png',
         answer: ['베베핑'],
       },
       {
@@ -3308,7 +3308,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/bookkPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/bookkPing.png',
         answer: ['부끄핑'],
       },
       {
@@ -3322,7 +3322,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/bootooPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/bootooPing.png',
         answer: ['부투핑'],
       },
       {
@@ -3336,7 +3336,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/chachaPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/chachaPing.png',
         answer: ['차차핑'],
       },
       {
@@ -3350,7 +3350,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/chakePing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/chakePing.png',
         answer: ['차캐핑'],
       },
       {
@@ -3364,7 +3364,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/chanaPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/chanaPing.png',
         answer: ['차나핑'],
       },
       {
@@ -3378,7 +3378,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/cozaPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/cozaPing.png',
         answer: ['코자핑'],
       },
       {
@@ -3392,7 +3392,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/dajoPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/dajoPing.png',
         answer: ['다조핑'],
       },
       {
@@ -3406,7 +3406,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/ddakpoolPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/ddakpoolPing.png',
         answer: ['딱풀핑'],
       },
       {
@@ -3420,7 +3420,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/ddaraPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/ddaraPing.png',
         answer: ['따라핑'],
       },
       {
@@ -3434,7 +3434,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/ddiyongPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/ddiyongPing.png',
         answer: ['띠용핑'],
       },
       {
@@ -3448,7 +3448,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/ddokddokPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/ddokddokPing.png',
         answer: ['똑똑핑'],
       },
       {
@@ -3462,7 +3462,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/ddokkaPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/ddokkaPing.png',
         answer: ['또까핑'],
       },
       {
@@ -3476,7 +3476,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/ddubulPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/ddubulPing.png',
         answer: ['떠벌핑'],
       },
       {
@@ -3490,7 +3490,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/duldulPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/duldulPing.png',
         answer: ['덜덜핑'],
       },
       {
@@ -3504,7 +3504,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/ggambbakPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/ggambbakPing.png',
         answer: ['깜빡핑'],
       },
       {
@@ -3518,7 +3518,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/ggongggonPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/ggongggonPing.png',
         answer: ['꽁꽁핑'],
       },
       {
@@ -3532,7 +3532,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/gguggulPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/gguggulPing.png',
         answer: ['꺼꿀핑'],
       },
       {
@@ -3546,7 +3546,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/grimPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/grimPing.png',
         answer: ['그림핑'],
       },
       {
@@ -3560,7 +3560,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/haPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/haPing.png',
         answer: ['헤핑'],
       },
       {
@@ -3574,7 +3574,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/heartyouPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/heartyouPing.png',
         answer: ['하츄핑'],
       },
       {
@@ -3588,7 +3588,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/holoPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/holoPing.png',
         answer: ['홀로핑'],
       },
       {
@@ -3602,7 +3602,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/modaPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/modaPing.png',
         answer: ['모야핑'],
       },
       {
@@ -3616,7 +3616,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/hwanaPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/hwanaPing.png',
         answer: ['화나핑'],
       },
       {
@@ -3630,7 +3630,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/jjiritPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/jjiritPing.png',
         answer: ['찌릿핑'],
       },
       {
@@ -3644,7 +3644,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/kikiPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/kikiPing.png',
         answer: ['키키핑'],
       },
       {
@@ -3658,7 +3658,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/lalaPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/lalaPing.png',
         answer: ['라라핑'],
       },
       {
@@ -3672,7 +3672,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/modaPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/modaPing.png',
         answer: ['모야핑'],
       },
       {
@@ -3686,7 +3686,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/mooguPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/mooguPing.png',
         answer: ['무거핑'],
       },
       {
@@ -3700,7 +3700,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/mooshirPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/mooshirPing.png',
         answer: ['무셔핑'],
       },
       {
@@ -3714,7 +3714,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/narPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/narPing.png',
         answer: ['나르핑'],
       },
       {
@@ -3728,7 +3728,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/noraPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/noraPing.png',
         answer: ['노라핑'],
       },
       {
@@ -3742,7 +3742,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/noriPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/noriPing.png',
         answer: ['노리핑'],
       },
       {
@@ -3756,7 +3756,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/plaPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/plaPing.png',
         answer: ['플라핑'],
       },
       {
@@ -3770,7 +3770,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/sirorPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/sirorPing.png',
         answer: ['시러핑'],
       },
       {
@@ -3784,7 +3784,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/ssingssingPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/ssingssingPing.png',
         answer: ['씽씽핑'],
       },
       {
@@ -3798,7 +3798,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/toyPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/toyPing.png',
         answer: ['토이핑'],
       },
       {
@@ -3812,7 +3812,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/twotwoPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/twotwoPing.png',
         answer: ['투투핑'],
       },
     ],
@@ -3825,9 +3825,9 @@ export const shortAnswerQuizes = [
                 당신의 티니핑 맞추기 실력은?`,
       mainUrl: 'catchTeeniepingQuiz4',
       mainImage:
-        'https://images.ktestone.com/introImages/catchTeeniepingQuiz4-intro.png',
+        'https://web.archive.org/web/0im_/https://images.ktestone.com/introImages/catchTeeniepingQuiz4-intro.png',
       thumbImage:
-        'https://images.ktestone.com/main-thumbnail/catchTeeniepingQuiz4-thumb.png',
+        '/images/main-thumbnail/catchTeeniepingQuiz4-thumb.png',
       lang: 'Kor',
       category: 'game',
       length: 40,
@@ -3844,7 +3844,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/achuPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/achuPing.png',
         answer: ['아츄핑'],
       },
       {
@@ -3858,7 +3858,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/aingPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/aingPing.png',
         answer: ['아잉핑'],
       },
       {
@@ -3872,7 +3872,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/akdongPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/akdongPing.png',
         answer: ['악동핑'],
       },
       {
@@ -3886,7 +3886,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/angdaePing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/angdaePing.png',
         answer: ['앙대핑'],
       },
       {
@@ -3900,7 +3900,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/azaPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/azaPing.png',
         answer: ['아자핑'],
       },
       {
@@ -3914,7 +3914,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/banePing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/banePing.png',
         answer: ['바네핑'],
       },
       {
@@ -3928,7 +3928,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/baroPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/baroPing.png',
         answer: ['바로핑'],
       },
       {
@@ -3942,7 +3942,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/bebePing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/bebePing.png',
         answer: ['베베핑'],
       },
       {
@@ -3956,7 +3956,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/bookkPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/bookkPing.png',
         answer: ['부끄핑'],
       },
       {
@@ -3970,7 +3970,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/bootooPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/bootooPing.png',
         answer: ['부투핑'],
       },
       {
@@ -3984,7 +3984,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/chachaPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/chachaPing.png',
         answer: ['차차핑'],
       },
       {
@@ -3998,7 +3998,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/chakePing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/chakePing.png',
         answer: ['차캐핑'],
       },
       {
@@ -4012,7 +4012,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/chanaPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/chanaPing.png',
         answer: ['차나핑'],
       },
       {
@@ -4026,7 +4026,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/cozaPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/cozaPing.png',
         answer: ['코자핑'],
       },
       {
@@ -4040,7 +4040,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/dajoPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/dajoPing.png',
         answer: ['다조핑'],
       },
       {
@@ -4054,7 +4054,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/ddakpoolPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/ddakpoolPing.png',
         answer: ['딱풀핑'],
       },
       {
@@ -4068,7 +4068,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/ddaraPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/ddaraPing.png',
         answer: ['따라핑'],
       },
       {
@@ -4082,7 +4082,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/ddiyongPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/ddiyongPing.png',
         answer: ['띠용핑'],
       },
       {
@@ -4096,7 +4096,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/ddokddokPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/ddokddokPing.png',
         answer: ['똑똑핑'],
       },
       {
@@ -4110,7 +4110,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/ddokkaPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/ddokkaPing.png',
         answer: ['또까핑'],
       },
       {
@@ -4124,7 +4124,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/ddubulPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/ddubulPing.png',
         answer: ['떠벌핑'],
       },
       {
@@ -4138,7 +4138,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/duldulPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/duldulPing.png',
         answer: ['덜덜핑'],
       },
       {
@@ -4152,7 +4152,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/ggambbakPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/ggambbakPing.png',
         answer: ['깜빡핑'],
       },
       {
@@ -4166,7 +4166,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/ggongggonPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/ggongggonPing.png',
         answer: ['꽁꽁핑'],
       },
       {
@@ -4180,7 +4180,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/gguggulPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/gguggulPing.png',
         answer: ['꺼꿀핑'],
       },
       {
@@ -4194,7 +4194,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/grimPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/grimPing.png',
         answer: ['그림핑'],
       },
       {
@@ -4208,7 +4208,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/haPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/haPing.png',
         answer: ['헤핑'],
       },
       {
@@ -4222,7 +4222,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/heartyouPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/heartyouPing.png',
         answer: ['하츄핑'],
       },
       {
@@ -4236,7 +4236,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/holoPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/holoPing.png',
         answer: ['홀로핑'],
       },
       {
@@ -4250,7 +4250,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/modaPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/modaPing.png',
         answer: ['모야핑'],
       },
       {
@@ -4264,7 +4264,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/hwanaPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/hwanaPing.png',
         answer: ['화나핑'],
       },
       {
@@ -4278,7 +4278,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/jjiritPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/jjiritPing.png',
         answer: ['찌릿핑'],
       },
       {
@@ -4292,7 +4292,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/kikiPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/kikiPing.png',
         answer: ['키키핑'],
       },
       {
@@ -4306,7 +4306,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/lalaPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/lalaPing.png',
         answer: ['라라핑'],
       },
       {
@@ -4320,7 +4320,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/modaPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/modaPing.png',
         answer: ['모야핑'],
       },
       {
@@ -4334,7 +4334,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/mooguPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/mooguPing.png',
         answer: ['무거핑'],
       },
       {
@@ -4348,7 +4348,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/mooshirPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/mooshirPing.png',
         answer: ['무셔핑'],
       },
       {
@@ -4362,7 +4362,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/narPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/narPing.png',
         answer: ['나르핑'],
       },
       {
@@ -4376,7 +4376,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/noraPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/noraPing.png',
         answer: ['노라핑'],
       },
       {
@@ -4390,7 +4390,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/noriPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/noriPing.png',
         answer: ['노리핑'],
       },
       {
@@ -4404,7 +4404,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/plaPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/plaPing.png',
         answer: ['플라핑'],
       },
       {
@@ -4418,7 +4418,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/sirorPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/sirorPing.png',
         answer: ['시러핑'],
       },
       {
@@ -4432,7 +4432,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/ssingssingPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/ssingssingPing.png',
         answer: ['씽씽핑'],
       },
       {
@@ -4446,7 +4446,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/toyPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/toyPing.png',
         answer: ['토이핑'],
       },
       {
@@ -4460,7 +4460,7 @@ export const shortAnswerQuizes = [
           },
         ],
         image:
-          'https://images.ktestone.com/meta/catchTeeniepingQuiz/twotwoPing.png',
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/catchTeeniepingQuiz/twotwoPing.png',
         answer: ['투투핑'],
       },
     ],

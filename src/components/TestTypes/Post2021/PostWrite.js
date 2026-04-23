@@ -18,9 +18,9 @@ function PostWrite(props) {
   const [completeToPostbox, setCompleteToPostbox] = useState(``);
   const [completeToClose, setCompleteToClose] = useState(``);
   const nickNameInput =
-    'https://images.ktestone.com/PostImg/MailForm/nickname-input.png';
+    '/images/PostImg/MailForm/nickname-input.png';
   const letterForm =
-    'https://images.ktestone.com/PostImg/MailForm/letter-1.png';
+    '/images/PostImg/MailForm/letter-1.png';
   const instance = axios.create({
     headers: {
       'Content-Type': 'application/json',
@@ -53,35 +53,35 @@ function PostWrite(props) {
     getUserNickname();
     if (props.language === `Kor`) {
       setUpbarBtnImg(
-        'https://images.ktestone.com/PostImg/Background/up_bg_bar.png'
+        '/images/PostImg/Background/up_bg_bar.png'
       );
       setSendMailBtnImg(
-        'https://images.ktestone.com/PostImg/Button/direct-send-mail-btn.png'
+        '/images/PostImg/Button/direct-send-mail-btn.png'
       );
       setCompleteToPostbox(
-        'https://images.ktestone.com/PostImg/Button/complete-to-postbox-btn.png'
+        '/images/PostImg/Button/complete-to-postbox-btn.png'
       );
       setCompleteToClose(
-        'https://images.ktestone.com/PostImg/Button/complete-close-btn.png'
+        '/images/PostImg/Button/complete-close-btn.png'
       );
       setCompletePopupBg(
-        'https://images.ktestone.com/PostImg/Object/complete_send_mail.png'
+        '/images/PostImg/Object/complete_send_mail.png'
       );
     } else if (props.language === `Eng`) {
       setUpbarBtnImg(
-        'https://images.ktestone.com/PostImg/English/Button/up_bg_bar.png'
+        '/images/PostImg/English/Button/up_bg_bar.png'
       );
       setSendMailBtnImg(
-        'https://images.ktestone.com/PostImg/English/Button/send-mail-btn.png'
+        '/images/PostImg/English/Button/send-mail-btn.png'
       );
       setCompleteToPostbox(
-        'https://images.ktestone.com/PostImg/English/Button/complete-to-postbox-btn.png'
+        '/images/PostImg/English/Button/complete-to-postbox-btn.png'
       );
       setCompleteToClose(
-        'https://images.ktestone.com/PostImg/English/Button/complete-close-btn.png'
+        '/images/PostImg/English/Button/complete-close-btn.png'
       );
       setCompletePopupBg(
-        'https://images.ktestone.com/PostImg/English/Object/complete_send_mail.png'
+        '/images/PostImg/English/Object/complete_send_mail.png'
       );
     }
   }, [getUserNickname, props]);
@@ -256,7 +256,7 @@ function PostWrite(props) {
         <div className='popup-div'>{ShowPopup ? completePopup : null}</div>
         <img
           loading='lazy'
-          src={'https://images.ktestone.com/PostImg/Background/down_bg_bar.png'}
+          src={'/images/PostImg/Background/down_bg_bar.png'}
           alt='DOWNBAR'
           className='start-page-downbar'
         />

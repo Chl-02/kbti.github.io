@@ -21,7 +21,7 @@ const UserProfileFloatingBtn = ({ user }) => {
       onClick={user ? onMyPageClick : onSignInClick}
     >
       <img
-        src={`https://images.ktestone.com/default/${user ? 'logged' : 'log'}-in-btn.png`}
+        src={`https://web.archive.org/web/0im_/https://images.ktestone.com/default/${user ? 'logged' : 'log'}-in-btn.png`}
         alt='LogIn Icons'
       />
     </div>

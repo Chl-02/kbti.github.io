@@ -34,7 +34,7 @@ const BingoMain = ({ title }) => {
         />
         <meta
           property='og:image'
-          content={`https://images.ktestone.com/main-thumbnail/${title}-thumb.png`}
+          content={`https://web.archive.org/web/0im_/https://images.ktestone.com/main-thumbnail/${title}-thumb.png`}
         />
         <meta property='og:image:alt' content={'이상형 빙고판 - 케이테스트'} />
 
@@ -53,7 +53,7 @@ const BingoMain = ({ title }) => {
         />
         <meta
           property='twitter:image'
-          content={`https://images.ktestone.com/main-thumbnail/${title}-thumb.png`}
+          content={`https://web.archive.org/web/0im_/https://images.ktestone.com/main-thumbnail/${title}-thumb.png`}
         />
         <meta
           property='twitter:image:alt'

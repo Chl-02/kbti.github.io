@@ -49,7 +49,7 @@ const LanguageSettingBtn = ({
           type='primary'
           icon={
             <img
-              src={`https://images.ktestone.com/default/languageIcon/${languageMapper[currentLanguage]}-icon.png`}
+              src={`https://web.archive.org/web/0im_/https://images.ktestone.com/default/languageIcon/${languageMapper[currentLanguage]}-icon.png`}
               alt='Korean Flag'
               style={{ width: '100%' }}
             />
@@ -66,7 +66,7 @@ const LanguageSettingBtn = ({
               key={lang}
               icon={
                 <img
-                  src={`https://images.ktestone.com/default/languageIcon/${languageMapper[lang]}-icon.png`}
+                  src={`https://web.archive.org/web/0im_/https://images.ktestone.com/default/languageIcon/${languageMapper[lang]}-icon.png`}
                   alt={`${lang} Flag`}
                   style={{ width: '100%' }}
                 />

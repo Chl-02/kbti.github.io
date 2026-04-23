@@ -66,7 +66,7 @@ const ProfileButtonGroup = ({
       >
         <div>
           <img
-            src={`https://images.ktestone.com/auth/medal/${level}.avif`}
+            src={`https://web.archive.org/web/0im_/https://images.ktestone.com/auth/medal/${level}.avif`}
             alt='level'
             style={{ width: '3rem' }}
           />

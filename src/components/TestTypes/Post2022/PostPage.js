@@ -30,7 +30,7 @@ const PostPage = (props) => {
     'blue',
   ];
   const api_url = 'https://api.ktestone.com';
-  const introImgSrc = 'https://images.ktestone.com/PostImg2022/Intro/Intro.png';
+  const introImgSrc = '/images/PostImg2022/Intro/Intro.png';
   const [ShowPopup, setShowPopup] = useState(false);
 
   const [postListBackgroundImg, setPostListBackgroundImg] = useState('');
@@ -140,7 +140,7 @@ const PostPage = (props) => {
         >
           <img
             loading='lazy'
-            src={`https://images.ktestone.com/PostImg2022/PostList/${letterOrder[ix]}Post.png`}
+            src={`https://web.archive.org/web/0im_/https://images.ktestone.com/PostImg2022/PostList/${letterOrder[ix]}Post.png`}
             alt={`Envelop${ix}`}
             key={`envelop-img-div-${mail.id}`}
             className='post2022-page-envelop'
@@ -223,22 +223,22 @@ const PostPage = (props) => {
   useEffect(() => {
     getList();
     setPostListBackgroundImg(
-      'https://images.ktestone.com/PostImg2022/PostList/postList_bg_long.png'
+      '/images/PostImg2022/PostList/postList_bg_long.png'
     );
     setAlertBellImg(
-      'https://images.ktestone.com/PostImg2022/PostList/postList_bell.png'
+      '/images/PostImg2022/PostList/postList_bell.png'
     );
     setSendButtonImg(
-      'https://images.ktestone.com/PostImg2022/PostList/postList_send_button.png'
+      '/images/PostImg2022/PostList/postList_send_button.png'
     );
     setCreateBoxButtonImg(
-      'https://images.ktestone.com/PostImg2022/PostList/postList_create_button.png'
+      '/images/PostImg2022/PostList/postList_create_button.png'
     );
     setPopupImg(
-      'https://images.ktestone.com/PostImg2022/PostList/postList_popup_.png'
+      '/images/PostImg2022/PostList/postList_popup_.png'
     );
     setShareMyBox(
-      'https://images.ktestone.com/PostImg2022/PostList/postList_share_my_box_btn.png'
+      '/images/PostImg2022/PostList/postList_share_my_box_btn.png'
     );
   }, [props, getList]);
 

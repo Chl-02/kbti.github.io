@@ -57,7 +57,7 @@ const CompatibilityResult = () => {
               margin: '3rem auto 0',
               borderRadius: '1rem',
             }}
-            src='https://images.ktestone.com/meta/compatibility/compatibility-result-banner.jpg'
+            src='https://web.archive.org/web/0im_/https://images.ktestone.com/meta/compatibility/compatibility-result-banner.jpg'
             alt='result-desc-banner'
           />
           <CompatibilityDesc result={result} />

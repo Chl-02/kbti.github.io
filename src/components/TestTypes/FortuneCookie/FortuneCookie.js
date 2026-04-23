@@ -128,7 +128,7 @@ const FortuneCookie = () => {
                 {' '}
                 <img
                   loading='lazy'
-                  src={`https://images.ktestone.com/main-thumbnail/${test}-thumb.png`}
+                  src={`https://web.archive.org/web/0im_/https://images.ktestone.com/main-thumbnail/${test}-thumb.png`}
                   className='ppl-banner-img'
                   alt={test}
                   onClick={_onPPLBannerClick}
@@ -185,7 +185,7 @@ const FortuneCookie = () => {
           />
           <meta
             property='og:image'
-            content={`https://images.ktestone.com/introImages/fortuneCookie-intro.png`}
+            content={`https://web.archive.org/web/0im_/https://images.ktestone.com/introImages/fortuneCookie-intro.png`}
           />
           <meta property='og:image:width' content='800' />
           <meta property='og:image:height' content='400' />
@@ -212,7 +212,7 @@ const FortuneCookie = () => {
           />
           <meta
             property='twitter:image'
-            content={`https://images.ktestone.com/introImages/fortuneCookie-intro.png`}
+            content={`https://web.archive.org/web/0im_/https://images.ktestone.com/introImages/fortuneCookie-intro.png`}
           />
           <meta property='og:image:width' content='800' />
           <meta property='og:image:height' content='400' />
@@ -225,7 +225,7 @@ const FortuneCookie = () => {
           loading='lazy'
           className='intro-main-img'
           style={{ cursor: 'pointer' }}
-          src={`https://images.ktestone.com/introImages/fortuneCookie-intro.png`}
+          src={`https://web.archive.org/web/0im_/https://images.ktestone.com/introImages/fortuneCookie-intro.png`}
           alt='FORTUNE-COOKIE'
           onClick={onFortuneClick}
         />
@@ -304,7 +304,7 @@ const FortuneCookie = () => {
           />
           <meta
             property='og:image'
-            content={`https://images.ktestone.com/introImages/fortuneCookie-intro.png`}
+            content={`https://web.archive.org/web/0im_/https://images.ktestone.com/introImages/fortuneCookie-intro.png`}
           />
           <meta property='og:image:width' content='800' />
           <meta property='og:image:height' content='400' />
@@ -331,7 +331,7 @@ const FortuneCookie = () => {
           />
           <meta
             property='twitter:image'
-            content={`https://images.ktestone.com/introImages/fortuneCookie-intro.png`}
+            content={`https://web.archive.org/web/0im_/https://images.ktestone.com/introImages/fortuneCookie-intro.png`}
           />
           <meta property='og:image:width' content='800' />
           <meta property='og:image:height' content='400' />
@@ -343,7 +343,7 @@ const FortuneCookie = () => {
         <ResultDiv>
           <img
             loading='lazy'
-            src={`https://images.ktestone.com/meta/fortuneCookie/fortuneCookie-result.png`}
+            src={`https://web.archive.org/web/0im_/https://images.ktestone.com/meta/fortuneCookie/fortuneCookie-result.png`}
             className='result-img'
             alt=''
           />

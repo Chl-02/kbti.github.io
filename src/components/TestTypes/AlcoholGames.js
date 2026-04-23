@@ -33,7 +33,7 @@ const AlcoholGames = () => {
         />
         <meta
           property='og:image'
-          content='https://images.ktestone.com/default/alcoholGames-main-header.png'
+          content='/images/default/alcoholGames-main-header.png'
         />
         <meta
           property='og:image:alt'
@@ -56,7 +56,7 @@ const AlcoholGames = () => {
         />
         <meta
           property='twitter:image'
-          content='https://images.ktestone.com/default/alcoholGames-main-header.png'
+          content='/images/default/alcoholGames-main-header.png'
         />
         <meta
           property='twitter:image:alt'
@@ -73,7 +73,7 @@ const AlcoholGames = () => {
         loading='lazy'
         className='test-main-img'
         style={{ cursor: 'default' }}
-        src={`https://images.ktestone.com/default/alcoholGames-main-header.png`}
+        src={`https://web.archive.org/web/0im_/https://images.ktestone.com/default/alcoholGames-main-header.png`}
         alt='alcoholGames'
       />
       {randomGamesRoutes.map((route, idx) => (
@@ -83,7 +83,7 @@ const AlcoholGames = () => {
               style={{ border: '1px solid lightgrey', borderRadius: '2rem' }}
               loading='lazy'
               className='test-main-img'
-              src={`https://images.ktestone.com/main-thumbnail/${route}-thumb.png`}
+              src={`https://web.archive.org/web/0im_/https://images.ktestone.com/main-thumbnail/${route}-thumb.png`}
               alt={`${route}-thumb-img`}
             />
           </Link>

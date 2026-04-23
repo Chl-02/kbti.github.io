@@ -63,7 +63,7 @@ function LandingPage() {
         <meta property='og:description' content='메타버스 놀이터 메타팡' />
         <meta
           property='og:image'
-          content={`https://images.ktestone.com/MetaPang/Apply/MetaPangMetatagImg.png`}
+          content={`https://web.archive.org/web/0im_/https://images.ktestone.com/MetaPang/Apply/MetaPangMetatagImg.png`}
         />
         <meta property='og:image:alt' content='메타팡 응모하기 - 케이테스트' />
 
@@ -77,7 +77,7 @@ function LandingPage() {
         <meta property='twitter:description' content='메타버스 놀이터 메타팡' />
         <meta
           property='twitter:image'
-          content={`https://images.ktestone.com/MetaPang/Apply/MetaPangMetatagImg.png`}
+          content={`https://web.archive.org/web/0im_/https://images.ktestone.com/MetaPang/Apply/MetaPangMetatagImg.png`}
         />
         <meta
           property='twitter:image:alt'
@@ -96,7 +96,7 @@ function LandingPage() {
     } else if (mode === 'logined') {
       return (
         <ContentImg
-          src={`https://images.ktestone.com/MetaPang/Apply/MetaPangApply_Btn.png`}
+          src={`https://web.archive.org/web/0im_/https://images.ktestone.com/MetaPang/Apply/MetaPangApply_Btn.png`}
           alt='APPLYBTN'
           onClick={applyBtnHandler}
           style={{ cursor: 'pointer' }}
@@ -109,19 +109,19 @@ function LandingPage() {
     <BackgroundDiv>
       {metaTagRenderer()}
       <ContentImg
-        src={`https://images.ktestone.com/MetaPang/Apply/MetaPangApply_01.png`}
+        src={`https://web.archive.org/web/0im_/https://images.ktestone.com/MetaPang/Apply/MetaPangApply_01.png`}
         alt='BG1'
       />
       <ContentImg
-        src={`https://images.ktestone.com/MetaPang/Apply/MetaPangApply_02.png`}
+        src={`https://web.archive.org/web/0im_/https://images.ktestone.com/MetaPang/Apply/MetaPangApply_02.png`}
         alt='BG1'
       />
       <ContentImg
-        src={`https://images.ktestone.com/MetaPang/Apply/MetaPangApply_03.png`}
+        src={`https://web.archive.org/web/0im_/https://images.ktestone.com/MetaPang/Apply/MetaPangApply_03.png`}
         alt='BG1'
       />
       <ContentImg
-        src={`https://images.ktestone.com/MetaPang/Apply/MetaPangApply_04.png`}
+        src={`https://web.archive.org/web/0im_/https://images.ktestone.com/MetaPang/Apply/MetaPangApply_04.png`}
         alt='BG1'
       />
       <div>

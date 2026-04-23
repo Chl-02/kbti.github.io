@@ -84,7 +84,7 @@ const SocialSignUp = () => {
       <h2>Sign In</h2>
       <img
         className={styles.signInLogo}
-        src='https://images.ktestone.com/auth/signInPage/signInLogo.avif'
+        src='/images/auth/signInPage/signInLogo.avif'
         alt='signInLogo'
       />
       {loading ? (
@@ -109,7 +109,7 @@ const SocialSignUp = () => {
       )}
       <img
         className={styles.signInBanner}
-        src='https://images.ktestone.com/auth/signInPage/signInBanner.avif'
+        src='/images/auth/signInPage/signInBanner.avif'
         alt='signInBanner'
       />
       {loading && <p>Loading...</p>}

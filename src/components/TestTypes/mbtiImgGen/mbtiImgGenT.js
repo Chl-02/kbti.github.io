@@ -60,7 +60,7 @@ const MbtiImgGen = ({ conceptType, lang }) => {
         <a href={`https://ktestone.com/kapable.github.io/${conceptType}/`}>
           <img
             loading='lazy'
-            src='https://images.ktestone.com/default/languageIcon/kor-icon.png'
+            src='/images/default/languageIcon/kor-icon.png'
             style={{
               width: '2rem',
               display: 'inline',
@@ -73,7 +73,7 @@ const MbtiImgGen = ({ conceptType, lang }) => {
         <a href={`https://ktestone.com/kapable.github.io/${conceptType}Eng/`}>
           <img
             loading='lazy'
-            src='https://images.ktestone.com/default/languageIcon/usa-icon.png'
+            src='/images/default/languageIcon/usa-icon.png'
             style={{
               width: '2rem',
               display: 'inline',
@@ -86,7 +86,7 @@ const MbtiImgGen = ({ conceptType, lang }) => {
         <a href={`https://ktestone.com/kapable.github.io/${conceptType}JP/`}>
           <img
             loading='lazy'
-            src='https://images.ktestone.com/default/languageIcon/japan-icon.png'
+            src='/images/default/languageIcon/japan-icon.png'
             style={{
               width: '2rem',
               display: 'inline',
@@ -119,7 +119,7 @@ const MbtiImgGen = ({ conceptType, lang }) => {
         <meta property='og:description' content={lang.desc} />
         <meta
           property='og:image'
-          content={`https://images.ktestone.com/main-thumbnail/${conceptType}${lang.route}-thumb.png`}
+          content={`https://web.archive.org/web/0im_/https://images.ktestone.com/main-thumbnail/${conceptType}${lang.route}-thumb.png`}
         />
         <meta property='og:image:alt' content={lang.title} />
 
@@ -133,7 +133,7 @@ const MbtiImgGen = ({ conceptType, lang }) => {
         <meta property='twitter:description' content={lang.desc} />
         <meta
           property='twitter:image'
-          content={`https://images.ktestone.com/main-thumbnail/${conceptType}${lang.route}-thumb.png`}
+          content={`https://web.archive.org/web/0im_/https://images.ktestone.com/main-thumbnail/${conceptType}${lang.route}-thumb.png`}
         />
         <meta property='twitter:image:alt' content={lang.title} />
       </Helmet>
@@ -160,7 +160,7 @@ const MbtiImgGen = ({ conceptType, lang }) => {
           {languageIconRenderer()}
           <img
             className='mbtiImgGen-intro'
-            src={`https://images.ktestone.com/introImages/${conceptType}${lang.route}-intro.jpg`}
+            src={`https://web.archive.org/web/0im_/https://images.ktestone.com/introImages/${conceptType}${lang.route}-intro.jpg`}
             alt='mbtiImgGen-intro'
           />
           <div
@@ -170,7 +170,7 @@ const MbtiImgGen = ({ conceptType, lang }) => {
             <img
               onClick={onIntroBtnClick}
               className='mbtiImgGen-intro-btn'
-              src={`https://images.ktestone.com/meta/mbtiImgGen/${conceptType}/${conceptType}${lang.route}-intro-btn.png`}
+              src={`https://web.archive.org/web/0im_/https://images.ktestone.com/meta/mbtiImgGen/${conceptType}/${conceptType}${lang.route}-intro-btn.png`}
               alt='mbtiImgGen-intro-btn'
             />
           </div>
@@ -208,7 +208,7 @@ const MbtiImgGen = ({ conceptType, lang }) => {
           {languageIconRenderer()}
           <img
             className='mbtiImgGen-guide'
-            src={`https://images.ktestone.com/meta/mbtiImgGen/mbtiImgGen${lang.route}-guide.jpg`}
+            src={`https://web.archive.org/web/0im_/https://images.ktestone.com/meta/mbtiImgGen/mbtiImgGen${lang.route}-guide.jpg`}
             alt='mbtiImgGen-guide'
           />
           <Link to={`/${conceptType}${lang.route}/upload`}>
@@ -219,7 +219,7 @@ const MbtiImgGen = ({ conceptType, lang }) => {
               <img
                 onClick={onGoToUploadClick}
                 className='mbtiImgGen-guide-btn'
-                src={`https://images.ktestone.com/meta/mbtiImgGen/mbtiImgGen${lang.route}-guide-btn.png`}
+                src={`https://web.archive.org/web/0im_/https://images.ktestone.com/meta/mbtiImgGen/mbtiImgGen${lang.route}-guide-btn.png`}
                 alt='mbtiImgGen-guide-btn'
               />
             </div>

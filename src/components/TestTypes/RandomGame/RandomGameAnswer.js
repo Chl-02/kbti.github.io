@@ -45,7 +45,7 @@ const RandomGameAnswer = ({ testTitle }) => {
     <div className='result'>
       <div>
         <img
-          src={`https://images.ktestone.com/meta/randomGames/${currentTest.category}/${currentTest.title}-upper-banner.jpg`}
+          src={`https://web.archive.org/web/0im_/https://images.ktestone.com/meta/randomGames/${currentTest.category}/${currentTest.title}-upper-banner.jpg`}
           alt='randomGame-upper-banner'
           className='result-img'
         />

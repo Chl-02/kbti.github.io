@@ -120,7 +120,7 @@ const ColorPicking = ({ difficulty, lang }) => {
           />
           <meta
             property='og:image'
-            content={`https://images.ktestone.com/main-thumbnail/colorPicker-${difficulty}-thumb.png`}
+            content={`https://web.archive.org/web/0im_/https://images.ktestone.com/main-thumbnail/colorPicker-${difficulty}-thumb.png`}
           />
           <meta
             property='og:image:alt'
@@ -143,7 +143,7 @@ const ColorPicking = ({ difficulty, lang }) => {
           />
           <meta
             property='twitter:image'
-            content={`https://images.ktestone.com/main-thumbnail/colorPicker-${difficulty}-thumb.png`}
+            content={`https://web.archive.org/web/0im_/https://images.ktestone.com/main-thumbnail/colorPicker-${difficulty}-thumb.png`}
           />
           <meta
             property='twitter:image:alt'
@@ -189,7 +189,7 @@ const ColorPicking = ({ difficulty, lang }) => {
           />
           <meta
             property='og:image'
-            content={`https://images.ktestone.com/main-thumbnail/colorPicker-${difficulty}-thumb.png`}
+            content={`https://web.archive.org/web/0im_/https://images.ktestone.com/main-thumbnail/colorPicker-${difficulty}-thumb.png`}
           />
           <meta
             property='og:image:alt'
@@ -212,7 +212,7 @@ const ColorPicking = ({ difficulty, lang }) => {
           />
           <meta
             property='twitter:image'
-            content={`https://images.ktestone.com/main-thumbnail/colorPicker-${difficulty}-thumb.png`}
+            content={`https://web.archive.org/web/0im_/https://images.ktestone.com/main-thumbnail/colorPicker-${difficulty}-thumb.png`}
           />
           <meta
             property='twitter:image:alt'
@@ -239,7 +239,7 @@ const ColorPicking = ({ difficulty, lang }) => {
         <img
           ref={mainImgRef}
           className='result-img'
-          src={`https://images.ktestone.com/introImages/colorPicker-${difficulty}-intro.jpg`}
+          src={`https://web.archive.org/web/0im_/https://images.ktestone.com/introImages/colorPicker-${difficulty}-intro.jpg`}
           alt='colorPicker-intro'
         />
         <p>{langComments[0]}</p>

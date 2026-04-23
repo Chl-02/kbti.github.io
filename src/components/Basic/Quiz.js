@@ -154,7 +154,7 @@ class Quiz extends Component {
           >
             <img
               loading='lazy'
-              src={`https://images.ktestone.com/meta/labelStickerSKT/labelStickerSKT-question-img.jpg`}
+              src={`https://web.archive.org/web/0im_/https://images.ktestone.com/meta/labelStickerSKT/labelStickerSKT-question-img.jpg`}
               className='answer-option-img'
               alt={'labelStickerSKT'}
             />
@@ -171,7 +171,7 @@ class Quiz extends Component {
           >
             <img
               loading='lazy'
-              src={`https://images.ktestone.com/meta/fatecharmtest/fatecharmtest-question-img.jpg`}
+              src={`https://web.archive.org/web/0im_/https://images.ktestone.com/meta/fatecharmtest/fatecharmtest-question-img.jpg`}
               className='answer-option-img'
               alt={'labelStickerSKT'}
             />

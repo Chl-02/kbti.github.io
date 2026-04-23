@@ -42,7 +42,7 @@ const TwoSplitedIntro = ({ test, lang, info }) => {
         <meta property='og:description' content={`${info?.subTitle}`} />
         <meta
           property='og:image'
-          content={`https://images.ktestone.com/main-thumbnail/${test}${lang === 'Kor' ? '' : lang}-thumb.png`}
+          content={`https://web.archive.org/web/0im_/https://images.ktestone.com/main-thumbnail/${test}${lang === 'Kor' ? '' : lang}-thumb.png`}
         />
         <meta property='og:image:alt' content={`${info?.title}`} />
 
@@ -56,7 +56,7 @@ const TwoSplitedIntro = ({ test, lang, info }) => {
         <meta property='twitter:description' content={`${info?.subTitle}`} />
         <meta
           property='twitter:image'
-          content={`https://images.ktestone.com/main-thumbnail/${test}${lang === 'Kor' ? '' : lang}-thumb.png`}
+          content={`https://web.archive.org/web/0im_/https://images.ktestone.com/main-thumbnail/${test}${lang === 'Kor' ? '' : lang}-thumb.png`}
         />
         <meta property='twitter:image:alt' content={`${info?.title}`} />
       </Helmet>
@@ -69,7 +69,7 @@ const TwoSplitedIntro = ({ test, lang, info }) => {
         <img
           loading='lazy'
           className='intro-main-img'
-          src={`https://images.ktestone.com/introImages/${test}${lang}-intro.jpg`}
+          src={`https://web.archive.org/web/0im_/https://images.ktestone.com/introImages/${test}${lang}-intro.jpg`}
           alt={`${test}${lang}-start`}
         />
       );
@@ -80,7 +80,7 @@ const TwoSplitedIntro = ({ test, lang, info }) => {
             <img
               loading='lazy'
               className='loveCharacter-intro-left-img'
-              src={`https://images.ktestone.com/introImages/${test}${lang === 'Kor' ? '' : lang}-intro-left.jpg`}
+              src={`https://web.archive.org/web/0im_/https://images.ktestone.com/introImages/${test}${lang === 'Kor' ? '' : lang}-intro-left.jpg`}
               alt={`${test}Female`}
             />
           </Link>
@@ -88,7 +88,7 @@ const TwoSplitedIntro = ({ test, lang, info }) => {
             <img
               loading='lazy'
               className='loveCharacter-intro-right-img'
-              src={`https://images.ktestone.com/introImages/${test}${lang === 'Kor' ? '' : lang}-intro-right.jpg`}
+              src={`https://web.archive.org/web/0im_/https://images.ktestone.com/introImages/${test}${lang === 'Kor' ? '' : lang}-intro-right.jpg`}
               alt={`${test}Male`}
             />
           </Link>
@@ -103,14 +103,14 @@ const TwoSplitedIntro = ({ test, lang, info }) => {
         <div className='loveCharacter-intro-images-container'>
           <Link to={`/${test}Female${lang === 'Kor' ? '' : lang}/`}>
             <img
-              src='https://images.ktestone.com/meta/loveCharacter/Eng/loveChar-button-woman.jpg'
+              src='/images/meta/loveCharacter/Eng/loveChar-button-woman.jpg'
               alt='loveChar-button-woman'
               style={{ width: '100%', cursor: 'pointer' }}
             />
           </Link>
           <Link to={`/${test}Male${lang === 'Kor' ? '' : lang}/`}>
             <img
-              src='https://images.ktestone.com/meta/loveCharacter/Eng/loveChar-button-man.jpg'
+              src='/images/meta/loveCharacter/Eng/loveChar-button-man.jpg'
               alt='loveChar-button-man'
               style={{ width: '100%', cursor: 'pointer' }}
             />

@@ -12,7 +12,7 @@ const BingoView = ({ currentBingo }) => {
     <div className={styles.viewTopDiv}>
       <img
         ref={mainImgRef}
-        src={`https://images.ktestone.com/meta/bingo/${currentBingo.title}-upper-banner.jpg`}
+        src={`https://web.archive.org/web/0im_/https://images.ktestone.com/meta/bingo/${currentBingo.title}-upper-banner.jpg`}
         alt='bingo1-intro'
         className={styles.tableTopDiv}
         style={{ marginBottom: 0 }}

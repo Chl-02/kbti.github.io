@@ -429,7 +429,7 @@ class Result extends Component {
     ];
     if (this.state.current_test === 'personalColor') {
       let banner_img_src =
-        'https://images.ktestone.com/main-thumbnail/persoanlColorFactNew-thumb.png';
+        '/images/main-thumbnail/persoanlColorFactNew-thumb.png';
       let new_test_link =
         'https://ktestone.com/kapable.github.io/personalColorFact/';
       return (
@@ -451,7 +451,7 @@ class Result extends Component {
       );
     } else if (this.state.current_test === 'personalColorJP') {
       let banner_img_src =
-        'https://images.ktestone.com/main-thumbnail/personalColorFactEngNew-thumb.png';
+        '/images/main-thumbnail/personalColorFactEngNew-thumb.png';
       let new_test_link =
         'https://ktestone.com/kapable.github.io/personalColorFactEng/';
       return (
@@ -473,7 +473,7 @@ class Result extends Component {
       );
     } else if (this.state.current_test === 'personalColorInd') {
       let banner_img_src =
-        'https://images.ktestone.com/main-thumbnail/personalColorFactIndNew-thumb.png';
+        '/images/main-thumbnail/personalColorFactIndNew-thumb.png';
       let new_test_link =
         'https://ktestone.com/kapable.github.io/personalColorFactInd/';
       return (
@@ -495,7 +495,7 @@ class Result extends Component {
       );
     } else if (personalColorListGB.includes(this.state.current_test)) {
       let banner_img_src =
-        'https://images.ktestone.com/main-thumbnail/personalColorFactEngNew-thumb.png';
+        '/images/main-thumbnail/personalColorFactEngNew-thumb.png';
       let new_test_link =
         'https://ktestone.com/kapable.github.io/personalColorFactEng/';
       return (
@@ -526,7 +526,7 @@ class Result extends Component {
         'https://www.amazon.com/DUFT-DOFT-Refreshing-hydration-Feel-good/dp/B07MB55WVK';
       let oneOrZero = Math.random() >= 0.5 ? 1 : 0;
       const banner_img_src =
-        'https://images.ktestone.com/resultImages/personalIncense/duftdoft_amz_banner' +
+        'https://web.archive.org/web/0im_/https://images.ktestone.com/resultImages/personalIncense/duftdoft_amz_banner' +
         oneOrZero +
         '.jpeg';
       return (
@@ -552,7 +552,7 @@ class Result extends Component {
     } else if (this.state.current_test === 'personalIncense') {
       const duft_outlink = 'https://bit.ly/39OsQOu';
       const banner_img_src =
-        'https://images.ktestone.com/resultImages/personalIncense/duftdoft_korea_banner_2.jpeg';
+        '/images/resultImages/personalIncense/duftdoft_korea_banner_2.jpeg';
       return (
         <Fragment>
           <a
@@ -576,7 +576,7 @@ class Result extends Component {
     } else if (this.state.current_test === 'hanbokBTI') {
       const hanbokBTI_outlink = 'https://bit.ly/3nADdv4';
       const banner_img_src =
-        'https://images.ktestone.com/resultImages/hanbokBTI/hanbokBTI-bottom-banner.png';
+        '/images/resultImages/hanbokBTI/hanbokBTI-bottom-banner.png';
       return (
         <Fragment>
           <a
@@ -599,7 +599,7 @@ class Result extends Component {
     } else if (this.state.current_test === 'hanbokBTIEng') {
       const hanbokBTI_outlink = 'https://bit.ly/3nADdv4';
       const banner_img_src =
-        'https://images.ktestone.com/resultImages/hanbokBTIEng/hanbokBTIEng-bottom-banner.png';
+        '/images/resultImages/hanbokBTIEng/hanbokBTIEng-bottom-banner.png';
       return (
         <Fragment>
           <a
@@ -622,7 +622,7 @@ class Result extends Component {
     } else if (this.state.current_test === 'hanbokBTIJP') {
       const hanbokBTI_outlink = 'https://bit.ly/3nADdv4';
       const banner_img_src =
-        'https://images.ktestone.com/resultImages/hanbokBTIJP/hanbokBTIJP-bottom-banner.png';
+        '/images/resultImages/hanbokBTIJP/hanbokBTIJP-bottom-banner.png';
       return (
         <Fragment>
           <a
@@ -756,7 +756,7 @@ class Result extends Component {
               {coupang_link ? (
                 <img
                   style={{ height: '5rem', cursor: 'pointer' }}
-                  src={`https://images.ktestone.com/resultImages/${this.state.current_test}/${this.state.current_test}-result-coupang-button.png`}
+                  src={`https://web.archive.org/web/0im_/https://images.ktestone.com/resultImages/${this.state.current_test}/${this.state.current_test}-result-coupang-button.png`}
                   alt={this.state.current_test}
                 />
               ) : (
@@ -950,7 +950,7 @@ class Result extends Component {
       let tonymoly_list = ['factPok', 'MyFactPok', 'FriendFactPok'];
       if (foreignTest.includes(this.state.current_test)) {
         let og_img_url =
-          'https://images.ktestone.com/meta/' +
+          'https://web.archive.org/web/0im_/https://images.ktestone.com/meta/' +
           this.state.current_test +
           '/' +
           this.state.current_result +
@@ -1225,7 +1225,7 @@ class Result extends Component {
             >
               <img
                 loading='lazy'
-                src='https://images.ktestone.com/jelling/comment-for-jelling.png'
+                src='/images/jelling/comment-for-jelling.png'
                 className='result-img'
                 alt={final_type}
               />
@@ -1237,7 +1237,7 @@ class Result extends Component {
             >
               <img
                 loading='lazy'
-                src='https://images.ktestone.com/jelling/fruitBoxRun-banner.png'
+                src='/images/jelling/fruitBoxRun-banner.png'
                 className='result-img'
                 alt={final_type}
               />
@@ -1249,7 +1249,7 @@ class Result extends Component {
             >
               <img
                 loading='lazy'
-                src='https://images.ktestone.com/jelling/fruitsLine-banner.png'
+                src='/images/jelling/fruitsLine-banner.png'
                 className='result-img'
                 alt={final_type}
               />
@@ -1261,7 +1261,7 @@ class Result extends Component {
             >
               <img
                 loading='lazy'
-                src='https://images.ktestone.com/jelling/goToHome-banner.png'
+                src='/images/jelling/goToHome-banner.png'
                 className='result-img'
                 alt={final_type}
               />
@@ -1391,7 +1391,7 @@ class Result extends Component {
               >
                 <img
                   loading='lazy'
-                  src={`https://images.ktestone.com/meta/factPok/factPok-bottom-banner-left.jpg`}
+                  src={`https://web.archive.org/web/0im_/https://images.ktestone.com/meta/factPok/factPok-bottom-banner-left.jpg`}
                   className='result-factPok-bottom-banner-left'
                   alt='result-factPok-bottom-banner-left'
                 />
@@ -1411,7 +1411,7 @@ class Result extends Component {
               >
                 <img
                   loading='lazy'
-                  src={`https://images.ktestone.com/meta/factPok/factPok-bottom-banner-right.jpg`}
+                  src={`https://web.archive.org/web/0im_/https://images.ktestone.com/meta/factPok/factPok-bottom-banner-right.jpg`}
                   className='result-factPok-bottom-banner-right'
                   alt='result-factPok-bottom-banner-right'
                 />
@@ -1596,7 +1596,7 @@ class Result extends Component {
               {' '}
               <img
                 loading='lazy'
-                src={`https://images.ktestone.com/meta/HmallTest.jpg`}
+                src={`https://web.archive.org/web/0im_/https://images.ktestone.com/meta/HmallTest.jpg`}
                 className='ppl-banner-img'
                 alt={this.state.current_result}
                 onClick={this._onPPLBannerClick}
@@ -1710,7 +1710,7 @@ class Result extends Component {
             <img
               loading='lazy'
               style={{ maxWidth: '16.5rem' }}
-              src='https://images.ktestone.com/meta/hmall/hmall-go-to-result-btn.png'
+              src='/images/meta/hmall/hmall-go-to-result-btn.png'
               alt='Hmall로 결과 보러가기'
               onClick={_eventSenderGA(
                 'Paging',
@@ -1774,7 +1774,7 @@ class Result extends Component {
                     }
                   >
                     <img
-                      src='https://images.ktestone.com/meta/labelStickerSKT/SKT-go-to-result-button.jpeg'
+                      src='/images/meta/labelStickerSKT/SKT-go-to-result-button.jpeg'
                       alt='SKT-go-to-result'
                       style={{ cursor: 'pointer', width: '15rem' }}
                     />
@@ -1851,7 +1851,7 @@ class Result extends Component {
             </Helmet>
             <img
               loading='lazy'
-              src={`https://images.ktestone.com/meta/MALINGOETZ/MALINGOETZ-${
+              src={`https://web.archive.org/web/0im_/https://images.ktestone.com/meta/MALINGOETZ/MALINGOETZ-${
                 MALINGOETZ_type_obj[this.state.current_test_result?.type]
               }-banner.jpg`}
               className='result-img'
@@ -1956,7 +1956,7 @@ class Result extends Component {
                     <img
                       loading='lazy'
                       className='result-to-blog-banner'
-                      src={`https://images.ktestone.com/default/to-test-blog-banner.jpg`}
+                      src={`https://web.archive.org/web/0im_/https://images.ktestone.com/default/to-test-blog-banner.jpg`}
                       alt='to-test-blog-banner'
                     />
                   </a>
@@ -2208,7 +2208,7 @@ class Result extends Component {
       this.state.current_test === 'facialExpressionAnalyzerCN'
     ) {
       let test_title_img_url =
-        'https://images.ktestone.com/bigDataTestImages/' +
+        'https://web.archive.org/web/0im_/https://images.ktestone.com/bigDataTestImages/' +
         this.state.current_test +
         '/' +
         this.state.current_test +
@@ -2278,7 +2278,7 @@ class Result extends Component {
               <img
                 loading='lazy'
                 src={
-                  'https://images.ktestone.com/resultImages/sinjoer2022/sinjoer2022-wrong.png'
+                  '/images/resultImages/sinjoer2022/sinjoer2022-wrong.png'
                 }
                 className='result-img'
                 alt={final_type}
@@ -2347,7 +2347,7 @@ class Result extends Component {
             {' '}
             <img
               loading='lazy'
-              src={`https://images.ktestone.com/meta/labelSticker/toLabelStickerFriendship-banner.jpeg`}
+              src={`https://web.archive.org/web/0im_/https://images.ktestone.com/meta/labelSticker/toLabelStickerFriendship-banner.jpeg`}
               className='ppl-banner-img'
               alt={'labelStickerFriendship'}
               onClick={this._onPPLBannerClick}
@@ -2362,7 +2362,7 @@ class Result extends Component {
             {' '}
             <img
               loading='lazy'
-              src={`https://images.ktestone.com/meta/labelSticker/toLabelStickerLove-banner.jpeg`}
+              src={`https://web.archive.org/web/0im_/https://images.ktestone.com/meta/labelSticker/toLabelStickerLove-banner.jpeg`}
               className='ppl-banner-img'
               alt={'labelStickerLove'}
               onClick={this._onPPLBannerClick}
@@ -2382,7 +2382,7 @@ class Result extends Component {
             {' '}
             <img
               loading='lazy'
-              src={`https://images.ktestone.com/meta/labelSticker/toLabelStickerFriendship-banner.jpeg`}
+              src={`https://web.archive.org/web/0im_/https://images.ktestone.com/meta/labelSticker/toLabelStickerFriendship-banner.jpeg`}
               className='ppl-banner-img'
               alt={'labelStickerFriendship'}
               onClick={this._onPPLBannerClick}
@@ -2397,7 +2397,7 @@ class Result extends Component {
             {' '}
             <img
               loading='lazy'
-              src={`https://images.ktestone.com/meta/labelSticker/toLabelSticker-banner.jpeg`}
+              src={`https://web.archive.org/web/0im_/https://images.ktestone.com/meta/labelSticker/toLabelSticker-banner.jpeg`}
               className='ppl-banner-img'
               alt={'labelSticker'}
               onClick={this._onPPLBannerClick}
@@ -2417,7 +2417,7 @@ class Result extends Component {
             {' '}
             <img
               loading='lazy'
-              src={`https://images.ktestone.com/meta/labelSticker/toLabelStickerLove-banner.jpeg`}
+              src={`https://web.archive.org/web/0im_/https://images.ktestone.com/meta/labelSticker/toLabelStickerLove-banner.jpeg`}
               className='ppl-banner-img'
               alt={'labelStickerLove'}
               onClick={this._onPPLBannerClick}
@@ -2432,7 +2432,7 @@ class Result extends Component {
             {' '}
             <img
               loading='lazy'
-              src={`https://images.ktestone.com/meta/labelSticker/toLabelSticker-banner.jpeg`}
+              src={`https://web.archive.org/web/0im_/https://images.ktestone.com/meta/labelSticker/toLabelSticker-banner.jpeg`}
               className='ppl-banner-img'
               alt={'labelSticker'}
               onClick={this._onPPLBannerClick}
@@ -2508,7 +2508,7 @@ class Result extends Component {
           >
             <img
               style={{ width: '100%' }}
-              src={`https://images.ktestone.com/auth/banner/go_to_myreport_${
+              src={`https://web.archive.org/web/0im_/https://images.ktestone.com/auth/banner/go_to_myreport_${
                 ['Kor', 'Eng', 'CN', 'JP'].includes(
                   this.state.current_test_contents?.info?.lang
                 )
@@ -2532,7 +2532,7 @@ class Result extends Component {
               {' '}
               <img
                 loading='lazy'
-                src={`https://images.ktestone.com/meta/labelSticker/toLabelSticker-goods-banner.jpg`}
+                src={`https://web.archive.org/web/0im_/https://images.ktestone.com/meta/labelSticker/toLabelSticker-goods-banner.jpg`}
                 className='ppl-banner-img'
                 alt={'toLabelSticker-goods'}
                 onClick={this._onPPLBannerClick}

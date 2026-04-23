@@ -26,7 +26,7 @@ const BingoResult = () => {
     <div className={styles.viewTopDiv}>
       <img
         ref={mainImgRef}
-        src={`https://images.ktestone.com/meta/bingo/${title}-result-upper-banner.jpeg`}
+        src={`https://web.archive.org/web/0im_/https://images.ktestone.com/meta/bingo/${title}-result-upper-banner.jpeg`}
         alt='bingo1-intro'
         className={styles.tableTopDiv}
         style={{ marginBottom: 0 }}

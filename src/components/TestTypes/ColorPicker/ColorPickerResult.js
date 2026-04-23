@@ -109,7 +109,7 @@ const ColorPickerResult = () => {
           />
           <meta
             property='og:image'
-            content={`https://images.ktestone.com/main-thumbnail/colorPicker-Easy-thumb.png`}
+            content={`https://web.archive.org/web/0im_/https://images.ktestone.com/main-thumbnail/colorPicker-Easy-thumb.png`}
           />
           <meta
             property='og:image:alt'
@@ -132,7 +132,7 @@ const ColorPickerResult = () => {
           />
           <meta
             property='twitter:image'
-            content={`https://images.ktestone.com/main-thumbnail/colorPicker-Easy-thumb.png`}
+            content={`https://web.archive.org/web/0im_/https://images.ktestone.com/main-thumbnail/colorPicker-Easy-thumb.png`}
           />
           <meta
             property='twitter:image:alt'
@@ -177,7 +177,7 @@ const ColorPickerResult = () => {
           />
           <meta
             property='og:image'
-            content={`https://images.ktestone.com/main-thumbnail/colorPicker-EasyEng-thumb.png`}
+            content={`https://web.archive.org/web/0im_/https://images.ktestone.com/main-thumbnail/colorPicker-EasyEng-thumb.png`}
           />
           <meta
             property='og:image:alt'
@@ -200,7 +200,7 @@ const ColorPickerResult = () => {
           />
           <meta
             property='twitter:image'
-            content={`https://images.ktestone.com/main-thumbnail/colorPicker-EasyEng-thumb.png`}
+            content={`https://web.archive.org/web/0im_/https://images.ktestone.com/main-thumbnail/colorPicker-EasyEng-thumb.png`}
           />
           <meta
             property='twitter:image:alt'
@@ -219,7 +219,7 @@ const ColorPickerResult = () => {
       </p>
       <img
         className='result-img'
-        src={`https://images.ktestone.com/resultImages/colorPicker/colorPicker-${location.state.difficulty}-result-banner.jpeg`}
+        src={`https://web.archive.org/web/0im_/https://images.ktestone.com/resultImages/colorPicker/colorPicker-${location.state.difficulty}-result-banner.jpeg`}
         alt='colorPicker-result-banner'
       />
       <div className='picker-result-info-div'>

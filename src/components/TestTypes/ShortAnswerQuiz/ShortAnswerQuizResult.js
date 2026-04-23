@@ -123,7 +123,7 @@ const ShortAnswerQuizResult = () => {
             {' '}
             <img
               loading='lazy'
-              src={`https://images.ktestone.com/main-thumbnail/${otherTitle}-thumb.png`}
+              src={`https://web.archive.org/web/0im_/https://images.ktestone.com/main-thumbnail/${otherTitle}-thumb.png`}
               className='ppl-banner-img'
               alt={`${otherTitle}-thumb`}
               onClick={() =>

@@ -10,9 +10,9 @@ const LoginPage = (props) => {
   const [password, setPassword] = useState('');
   const api_url = 'https://api.ktestone.com';
   const bgImgSrc =
-    'https://images.ktestone.com/PostImg2022/Sign/sign_background.png';
+    '/images/PostImg2022/Sign/sign_background.png';
   const buttonImgSrc =
-    'https://images.ktestone.com/PostImg2022/Sign/signIn_button.png';
+    '/images/PostImg2022/Sign/signIn_button.png';
 
   const onIDHandler = useCallback((e) => {
     setID(e.target.value);

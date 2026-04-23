@@ -75,7 +75,7 @@ const MBTICompatibility = () => {
         />
         <meta
           property='og:image'
-          content='https://images.ktestone.com/introImages/compatibility-intro.jpg'
+          content='/images/introImages/compatibility-intro.jpg'
         />
         <meta
           property='og:image:alt'
@@ -98,7 +98,7 @@ const MBTICompatibility = () => {
         />
         <meta
           property='twitter:image'
-          content='https://images.ktestone.com/introImages/compatibility-intro.jpg'
+          content='/images/introImages/compatibility-intro.jpg'
         />
         <meta
           property='twitter:image:alt'
@@ -113,7 +113,7 @@ const MBTICompatibility = () => {
     <div style={{ width: '100%', maxWidth: '25rem', margin: '0 auto' }}>
       {mainMetaTagRenderer()}
       <img
-        src='https://images.ktestone.com/introImages/compatibility-intro.jpg'
+        src='/images/introImages/compatibility-intro.jpg'
         alt='MBTI 성격유형 궁합'
         style={{ width: '100%', borderRadius: '1rem' }}
       />

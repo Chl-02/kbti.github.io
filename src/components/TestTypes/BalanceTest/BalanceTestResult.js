@@ -40,7 +40,7 @@ const BalanceTestResult = ({ title }) => {
     <div className='result-div'>
       <img
         className='result-upper-banner'
-        src={`https://images.ktestone.com/meta/balanceTest/${title}-upper-banner.jpg`}
+        src={`https://web.archive.org/web/0im_/https://images.ktestone.com/meta/balanceTest/${title}-upper-banner.jpg`}
         alt={`${title}-upper-banner`}
       />
       <div className='result-contents-div'>

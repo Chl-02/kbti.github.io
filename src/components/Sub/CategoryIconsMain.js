@@ -25,7 +25,7 @@ function CategoryIconsMain({ lang }) {
           >
             <img
               loading='lazy'
-              src={`https://images.ktestone.com/default/categoryIcon/category-btn-${cat}.png`}
+              src={`https://web.archive.org/web/0im_/https://images.ktestone.com/default/categoryIcon/category-btn-${cat}.png`}
               className='category-icon'
               alt={`${cat}-category`}
             />
@@ -49,8 +49,8 @@ function CategoryIconsMain({ lang }) {
               loading='lazy'
               src={
                 lang === 'Eng' || lang === 'JP' || lang === 'CN'
-                  ? `https://images.ktestone.com/default/categoryIcon/category-btn-${cat}${lang}.png`
-                  : `https://images.ktestone.com/default/categoryIcon/category-btn-${cat}Eng.png`
+                  ? `https://web.archive.org/web/0im_/https://images.ktestone.com/default/categoryIcon/category-btn-${cat}${lang}.png`
+                  : `https://web.archive.org/web/0im_/https://images.ktestone.com/default/categoryIcon/category-btn-${cat}Eng.png`
               }
               className='category-icon'
               alt={`${cat}-category`}

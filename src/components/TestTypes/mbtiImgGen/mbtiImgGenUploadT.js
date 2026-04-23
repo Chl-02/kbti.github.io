@@ -206,7 +206,7 @@ const MbtiImgGenUpload = ({ conceptType, lang }) => {
     if(mode === 'upload') {
         return (
             <>
-                <img className='mbtiImgGen-upload-upper-banner' src={`https://images.ktestone.com/meta/mbtiImgGen/mbtiImgGen${lang.route}-upload-upper-banner.png`} alt='mbtiImgGen-upload-upper-banner' />
+                <img className='mbtiImgGen-upload-upper-banner' src={`https://web.archive.org/web/0im_/https://images.ktestone.com/meta/mbtiImgGen/mbtiImgGen${lang.route}-upload-upper-banner.png`} alt='mbtiImgGen-upload-upper-banner' />
                 <div>
                     <Radio.Group
                         options={genderOptions}
@@ -218,7 +218,7 @@ const MbtiImgGenUpload = ({ conceptType, lang }) => {
                     />
                 </div>
                 <div className='mbtiImgGen-upload-btn-div' onClick={() => onClickUpload()}>
-                    <img onClick={onImgUploadClick} className='mbtiImgGen-upload-btn' src={`https://images.ktestone.com/meta/mbtiImgGen/mbtiImgGen${lang.route}-upload-btn.png`} alt='mbtiImgGen-upload-btn' />
+                    <img onClick={onImgUploadClick} className='mbtiImgGen-upload-btn' src={`https://web.archive.org/web/0im_/https://images.ktestone.com/meta/mbtiImgGen/mbtiImgGen${lang.route}-upload-btn.png`} alt='mbtiImgGen-upload-btn' />
                 </div>
                 {paymentComment(lang)}
                 <div style={{ maxWidth: "30rem", margin: "0 auto" }}>
@@ -259,7 +259,7 @@ const MbtiImgGenUpload = ({ conceptType, lang }) => {
             <>
             {/* upload count progress bar */}
             <div className='mbtiImgGen-email-logo-div'>
-                <img className='mbtiImgGen-email-logo' src={`https://images.ktestone.com/meta/mbtiImgGen/mbtiImgGen-email-logo.png`} alt='mbtiImgGen-email-logo' />
+                <img className='mbtiImgGen-email-logo' src={`https://web.archive.org/web/0im_/https://images.ktestone.com/meta/mbtiImgGen/mbtiImgGen-email-logo.png`} alt='mbtiImgGen-email-logo' />
             </div>
             <input
                 onChange={onEmailHandler}

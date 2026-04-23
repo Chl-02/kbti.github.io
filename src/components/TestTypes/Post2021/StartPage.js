@@ -11,23 +11,23 @@ function Post2021(props) {
   useEffect(() => {
     if (props.language === `Kor`) {
       setUpbarBtnImg(
-        'https://images.ktestone.com/PostImg/Background/up_bg_bar.png'
+        '/images/PostImg/Background/up_bg_bar.png'
       );
       setPostBoxBtnImg(
-        'https://images.ktestone.com/PostImg/Object/Postbox_startpg.png'
+        '/images/PostImg/Object/Postbox_startpg.png'
       );
       setStartBtnImg(
-        'https://images.ktestone.com/PostImg/Background/Start_btn.png'
+        '/images/PostImg/Background/Start_btn.png'
       );
     } else if (props.language === `Eng`) {
       setUpbarBtnImg(
-        'https://images.ktestone.com/PostImg/English/Button/up_bg_bar.png'
+        '/images/PostImg/English/Button/up_bg_bar.png'
       );
       setPostBoxBtnImg(
-        'https://images.ktestone.com/PostImg/English/Object/Postbox_startpg.png'
+        '/images/PostImg/English/Object/Postbox_startpg.png'
       );
       setStartBtnImg(
-        'https://images.ktestone.com/PostImg/English/Button/Start_btn.png'
+        '/images/PostImg/English/Button/Start_btn.png'
       );
     }
   }, [props]);
@@ -59,7 +59,7 @@ function Post2021(props) {
           <meta property='og:description' content='나만의 퍼스널 우체통' />
           <meta
             property='og:image'
-            content='https://images.ktestone.com/meta/post2021/post2021-meta.png'
+            content='/images/meta/post2021/post2021-meta.png'
           />
           <meta property='og:image:alt' content='퍼스널 우체통 - 케이테스트' />
 
@@ -73,7 +73,7 @@ function Post2021(props) {
           <meta property='twitter:description' content='나만의 퍼스널 우체통' />
           <meta
             property='twitter:image'
-            content='https://images.ktestone.com/meta/post2021/post2021-meta.png'
+            content='/images/meta/post2021/post2021-meta.png'
           />
           <meta
             property='twitter:image:alt'
@@ -108,7 +108,7 @@ function Post2021(props) {
           <meta property='og:description' content='My Persoanl Mailbox' />
           <meta
             property='og:image'
-            content='https://images.ktestone.com/meta/post2021/post2022Eng-meta.png'
+            content='/images/meta/post2021/post2022Eng-meta.png'
           />
           <meta property='og:image:alt' content='Persoanl Mailbox - K-test' />
 
@@ -122,7 +122,7 @@ function Post2021(props) {
           <meta property='twitter:description' content='My Persoanl Mailbox' />
           <meta
             property='twitter:image'
-            content='https://images.ktestone.com/meta/post2021/post2022Eng-meta.png'
+            content='/images/meta/post2021/post2022Eng-meta.png'
           />
           <meta
             property='twitter:image:alt'
@@ -174,7 +174,7 @@ function Post2021(props) {
         </Link>
         <img
           loading='lazy'
-          src={'https://images.ktestone.com/PostImg/Background/down_bg_bar.png'}
+          src={'/images/PostImg/Background/down_bg_bar.png'}
           alt='DOWNBAR'
           className='start-page-downbar'
         />

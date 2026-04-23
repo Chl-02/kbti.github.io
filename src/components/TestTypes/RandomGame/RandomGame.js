@@ -85,7 +85,7 @@ const RandomGame = ({ testTitle }) => {
         />
         <meta
           property='og:image'
-          content={`https://images.ktestone.com/main-thumbnail/${currentTest.title}-thumb.png`}
+          content={`https://web.archive.org/web/0im_/https://images.ktestone.com/main-thumbnail/${currentTest.title}-thumb.png`}
         />
         <meta
           property='og:image:alt'
@@ -108,7 +108,7 @@ const RandomGame = ({ testTitle }) => {
         />
         <meta
           property='twitter:image'
-          content={`https://images.ktestone.com/main-thumbnail/${currentTest.title}-thumb.png`}
+          content={`https://web.archive.org/web/0im_/https://images.ktestone.com/main-thumbnail/${currentTest.title}-thumb.png`}
         />
         <meta
           property='twitter:image:alt'
@@ -130,7 +130,7 @@ const RandomGame = ({ testTitle }) => {
       return (
         <div>
           <img
-            src={`https://images.ktestone.com/meta/randomGames/${currentTest.category}/${currentTest.title}-upper-banner.jpg`}
+            src={`https://web.archive.org/web/0im_/https://images.ktestone.com/meta/randomGames/${currentTest.category}/${currentTest.title}-upper-banner.jpg`}
             alt='randomGames-upper-banner'
             className='result-img'
           />
@@ -143,7 +143,7 @@ const RandomGame = ({ testTitle }) => {
           {metaTagRenderer()}
           <div>
             <img
-              src={`https://images.ktestone.com/meta/randomGames/${currentTest.category}/${currentTest.title}-upper-banner.jpg`}
+              src={`https://web.archive.org/web/0im_/https://images.ktestone.com/meta/randomGames/${currentTest.category}/${currentTest.title}-upper-banner.jpg`}
               alt='randomGames-upper-banner'
               className='result-img'
             />
@@ -162,7 +162,7 @@ const RandomGame = ({ testTitle }) => {
             <div onClick={onStopButtonClick}>
               <img
                 style={{ cursor: 'pointer', width: '15rem' }}
-                src='https://images.ktestone.com/meta/randomGames/stop-button.jpg'
+                src='/images/meta/randomGames/stop-button.jpg'
                 alt='randomGames-stop-button'
                 className='result-img'
               />
@@ -171,7 +171,7 @@ const RandomGame = ({ testTitle }) => {
             <div onClick={onStopButtonClick}>
               <img
                 style={{ cursor: 'pointer', width: '15rem' }}
-                src='https://images.ktestone.com/meta/randomGames/redo-button.jpg'
+                src='/images/meta/randomGames/redo-button.jpg'
                 alt='randomGames-redo-button'
                 className='result-img'
               />
@@ -181,7 +181,7 @@ const RandomGame = ({ testTitle }) => {
             <div onClick={onResultButtonClick}>
               <img
                 style={{ cursor: 'pointer', margin: '2rem 0', width: '15rem' }}
-                src='https://images.ktestone.com/meta/randomGames/go-to-answer-button.jpg'
+                src='/images/meta/randomGames/go-to-answer-button.jpg'
                 alt='randomGames-go-to-answer-button'
                 className='result-img'
               />

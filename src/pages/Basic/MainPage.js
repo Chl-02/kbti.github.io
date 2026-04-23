@@ -78,7 +78,7 @@ const MainPage = ({ lang, category }) => {
               <img
                 loading='lazy'
                 className='test-main-img'
-                src={`https://images.ktestone.com/main-thumbnail/${elem.mainUrl}-thumb.png`}
+                src={`https://web.archive.org/web/0im_/https://images.ktestone.com/main-thumbnail/${elem.mainUrl}-thumb.png`}
                 alt={`${elem.mainUrl}-thumb-img`}
               />
             </Link>
@@ -106,7 +106,7 @@ const MainPage = ({ lang, category }) => {
               <img
                 loading='lazy'
                 className='test-main-img'
-                src={`https://images.ktestone.com/main-thumbnail/colorPicker-${elem.difficulty}-thumb.png`}
+                src={`https://web.archive.org/web/0im_/https://images.ktestone.com/main-thumbnail/colorPicker-${elem.difficulty}-thumb.png`}
                 alt={`colorPicker${elem.difficulty}-banner`}
               />
             </Link>
@@ -131,7 +131,7 @@ const MainPage = ({ lang, category }) => {
               <img
                 loading='lazy'
                 className='test-main-img'
-                src={`https://images.ktestone.com/main-thumbnail/colorPicker-${elem.difficulty}-thumb.png`}
+                src={`https://web.archive.org/web/0im_/https://images.ktestone.com/main-thumbnail/colorPicker-${elem.difficulty}-thumb.png`}
                 alt={`colorPicker${elem.difficulty}-banner`}
               />
             </Link>
@@ -158,7 +158,7 @@ const MainPage = ({ lang, category }) => {
               <img
                 loading='lazy'
                 className='test-main-img'
-                src={`https://images.ktestone.com/main-thumbnail/${elem.info.mainUrl}-thumb.png`}
+                src={`https://web.archive.org/web/0im_/https://images.ktestone.com/main-thumbnail/${elem.info.mainUrl}-thumb.png`}
                 alt={`${elem.info.mainUrl}-banner`}
               />
             </Link>
@@ -185,7 +185,7 @@ const MainPage = ({ lang, category }) => {
               <img
                 loading='lazy'
                 className='test-main-img'
-                src={`https://images.ktestone.com/main-thumbnail/${elem.title}-thumb.png`}
+                src={`https://web.archive.org/web/0im_/https://images.ktestone.com/main-thumbnail/${elem.title}-thumb.png`}
                 alt={`${elem.title}-banner`}
               />
             </Link>
@@ -212,7 +212,7 @@ const MainPage = ({ lang, category }) => {
                 <img
                   loading='lazy'
                   className='test-main-img'
-                  src={`https://images.ktestone.com/main-thumbnail/${elem.info.mainUrl}-thumb.png`}
+                  src={`https://web.archive.org/web/0im_/https://images.ktestone.com/main-thumbnail/${elem.info.mainUrl}-thumb.png`}
                   alt={`${elem.info.mainUrl}-banner`}
                 />
               </Link>
@@ -235,7 +235,7 @@ const MainPage = ({ lang, category }) => {
           <img
             loading='lazy'
             className='test-main-img'
-            src={`https://images.ktestone.com/main-thumbnail/compatibility-thumb.png`}
+            src={`https://web.archive.org/web/0im_/https://images.ktestone.com/main-thumbnail/compatibility-thumb.png`}
             alt={`compatibility-banner`}
           />
         </Link>
@@ -279,7 +279,7 @@ const MainPage = ({ lang, category }) => {
         />
         <meta
           property='og:image'
-          content='https://images.ktestone.com/default/main-header-2023.png'
+          content='/images/default/main-header-2023.png'
         />
         <meta
           property='og:image:alt'
@@ -299,7 +299,7 @@ const MainPage = ({ lang, category }) => {
         />
         <meta
           property='twitter:image'
-          content='https://images.ktestone.com/default/main-header-2023.png'
+          content='/images/default/main-header-2023.png'
         />
         <meta
           property='twitter:image:alt'
@@ -333,7 +333,7 @@ const MainPage = ({ lang, category }) => {
         />
         <meta
           property='og:image'
-          content='https://images.ktestone.com/default/main-header-2023Eng.png'
+          content='/images/default/main-header-2023Eng.png'
         />
         <meta
           property='og:image:alt'
@@ -353,7 +353,7 @@ const MainPage = ({ lang, category }) => {
         />
         <meta
           property='twitter:image'
-          content='https://images.ktestone.com/default/main-header-2023Eng.png'
+          content='/images/default/main-header-2023Eng.png'
         />
         <meta
           property='twitter:image:alt'
@@ -393,7 +393,7 @@ const MainPage = ({ lang, category }) => {
         />
         <meta
           property='og:image'
-          content='https://images.ktestone.com/default/main-header-2023JP.png'
+          content='/images/default/main-header-2023JP.png'
         />
         <meta
           property='og:image:alt'
@@ -413,7 +413,7 @@ const MainPage = ({ lang, category }) => {
         />
         <meta
           property='twitter:image'
-          content='https://images.ktestone.com/default/main-header-2023JP.png'
+          content='/images/default/main-header-2023JP.png'
         />
         <meta
           property='twitter:image:alt'
@@ -444,8 +444,8 @@ const MainPage = ({ lang, category }) => {
             className='main-header'
             src={
               lang === 'Eng' || lang === 'JP' || lang === 'CN'
-                ? `https://images.ktestone.com/default/main-header-2023${lang}.png`
-                : `https://images.ktestone.com/default/main-header-2023${
+                ? `https://web.archive.org/web/0im_/https://images.ktestone.com/default/main-header-2023${lang}.png`
+                : `https://web.archive.org/web/0im_/https://images.ktestone.com/default/main-header-2023${
                     lang === 'Kor' || !lang ? '' : 'Eng'
                   }.png`
             }
@@ -501,7 +501,7 @@ const MainPage = ({ lang, category }) => {
           <img
             loading='lazy'
             className='test-main-img'
-            src={`https://images.ktestone.com/main-thumbnail/alcoholGame-thumb.png`}
+            src={`https://web.archive.org/web/0im_/https://images.ktestone.com/main-thumbnail/alcoholGame-thumb.png`}
             alt='alcoholGames'
           />
         </Link>

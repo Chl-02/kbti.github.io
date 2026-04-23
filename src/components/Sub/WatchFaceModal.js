@@ -86,7 +86,7 @@ const WatchFaceModal = ({ testTitle, testResultContents, testLang }) => {
       >
         <div>
           <img
-            src={`https://images.ktestone.com/resultImages/${testTitle}/${testTitle}-modal-header.jpg`}
+            src={`https://web.archive.org/web/0im_/https://images.ktestone.com/resultImages/${testTitle}/${testTitle}-modal-header.jpg`}
             alt={`${testTitle}`}
             className='result-img'
             onClick={showModal}
@@ -131,7 +131,7 @@ const WatchFaceModal = ({ testTitle, testResultContents, testLang }) => {
               </Button>
             </a>
             <img
-              src={`https://images.ktestone.com/resultImages/${testTitle}/watchFaceImage/${testResultContents?.type}.png`}
+              src={`https://web.archive.org/web/0im_/https://images.ktestone.com/resultImages/${testTitle}/watchFaceImage/${testResultContents?.type}.png`}
               alt='sample'
               width={'100%'}
             />

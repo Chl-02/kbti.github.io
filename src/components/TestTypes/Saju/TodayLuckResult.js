@@ -109,7 +109,7 @@ const TodayLuckResult = (props) => {
       <img
         loading='lazy'
         className='todayLuck-top-banner-sample'
-        src='https://images.ktestone.com/meta/saju/todayLuck-top-banner-sample.png'
+        src='/images/meta/saju/todayLuck-top-banner-sample.png'
         alt='todayLuck-top-banner-sample'
       />
       {isOpened || coupangCookies?.coupang ? (

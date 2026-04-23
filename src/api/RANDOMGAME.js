@@ -93,7 +93,7 @@ export const randomGames = [
     ],
     answers: Array.from(
       { length: 12 },
-      (_, i) => `https://images.ktestone.com/resultImages/dadJoke1/${i + 1}.jpg`
+      (_, i) => `https://web.archive.org/web/0im_/https://images.ktestone.com/resultImages/dadJoke1/${i + 1}.jpg`
     ),
   },
   {
@@ -139,7 +139,7 @@ export const randomGames = [
     answers: Array.from(
       { length: 5 },
       (_, i) =>
-        `https://images.ktestone.com/resultImages/songTitle1/${i + 1}.jpg`
+        `https://web.archive.org/web/0im_/https://images.ktestone.com/resultImages/songTitle1/${i + 1}.jpg`
     ),
   },
   {
@@ -267,7 +267,7 @@ export const randomGames = [
     answers: Array.from(
       { length: 5 },
       (_, i) =>
-        `https://images.ktestone.com/resultImages/randomAlcohol1/${i + 1}.jpg`
+        `https://web.archive.org/web/0im_/https://images.ktestone.com/resultImages/randomAlcohol1/${i + 1}.jpg`
     ),
   },
 ];

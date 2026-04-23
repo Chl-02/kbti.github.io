@@ -16,7 +16,7 @@ const RandomGameIntro = ({ setMode, currentTest }) => {
         <h4 style={{ color: 'grey' }}>케이테스트 x 술자리 게임</h4>
       </div>
       <img
-        src={`https://images.ktestone.com/introImages/${currentTest.title}-intro.jpg`}
+        src={`https://web.archive.org/web/0im_/https://images.ktestone.com/introImages/${currentTest.title}-intro.jpg`}
         alt='randomGame-upper-banner'
         style={{ width: '100%', maxWidth: '456px', margin: '0 auto' }}
       />

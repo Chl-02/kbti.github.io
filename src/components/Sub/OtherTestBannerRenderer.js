@@ -39,7 +39,7 @@ const OtherTestBannerRenderer = ({ lang, mainUrl }) => {
                   {' '}
                   <img
                     loading='lazy'
-                    src={`https://images.ktestone.com/main-thumbnail/${test.title}-thumb.png`}
+                    src={`https://web.archive.org/web/0im_/https://images.ktestone.com/main-thumbnail/${test.title}-thumb.png`}
                     className='ppl-banner-img'
                     alt={`${test.title}-thumb`}
                     onClick={() =>
@@ -111,7 +111,7 @@ const OtherTestBannerRenderer = ({ lang, mainUrl }) => {
               <img
                 loading='lazy'
                 src={
-                  'https://images.ktestone.com/main-thumbnail/compatibility-thumb.png'
+                  '/images/main-thumbnail/compatibility-thumb.png'
                 }
                 className='ppl-banner-img'
                 alt={`compatibility-thumb`}
@@ -175,7 +175,7 @@ const OtherTestBannerRenderer = ({ lang, mainUrl }) => {
                   {' '}
                   <img
                     loading='lazy'
-                    src={`https://images.ktestone.com/main-thumbnail/${test.title}-thumb.png`}
+                    src={`https://web.archive.org/web/0im_/https://images.ktestone.com/main-thumbnail/${test.title}-thumb.png`}
                     className='ppl-banner-img'
                     alt={`${test.title}-thumb`}
                     onClick={() =>
@@ -211,7 +211,7 @@ const OtherTestBannerRenderer = ({ lang, mainUrl }) => {
             {' '}
             <img
               loading='lazy'
-              src={`https://images.ktestone.com/main-thumbnail/${elem.info.mainUrl}-thumb.png`}
+              src={`https://web.archive.org/web/0im_/https://images.ktestone.com/main-thumbnail/${elem.info.mainUrl}-thumb.png`}
               className='ppl-banner-img'
               alt={'balanceTest'}
               onClick={() =>
@@ -242,7 +242,7 @@ const OtherTestBannerRenderer = ({ lang, mainUrl }) => {
           {' '}
           <img
             loading='lazy'
-            src={`https://images.ktestone.com/main-thumbnail/maleFemaleChar${lang === 'Kor' ? '' : lang}-thumb.png`}
+            src={`https://web.archive.org/web/0im_/https://images.ktestone.com/main-thumbnail/maleFemaleChar${lang === 'Kor' ? '' : lang}-thumb.png`}
             className='ppl-banner-img'
             alt={'maleFemaleChar'}
             onClick={() =>
@@ -273,7 +273,7 @@ const OtherTestBannerRenderer = ({ lang, mainUrl }) => {
             {' '}
             <img
               loading='lazy'
-              src={`https://images.ktestone.com/main-thumbnail/colorPicker-${elem.difficulty}-thumb.png`}
+              src={`https://web.archive.org/web/0im_/https://images.ktestone.com/main-thumbnail/colorPicker-${elem.difficulty}-thumb.png`}
               className='ppl-banner-img'
               alt={'colorPicker'}
               onClick={() =>

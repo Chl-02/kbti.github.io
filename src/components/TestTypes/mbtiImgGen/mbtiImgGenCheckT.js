@@ -54,7 +54,7 @@ const MbtiImgGenCheckT = ({ conceptType }) => {
         <img
           onClick={() => setLang('Kor')}
           loading='lazy'
-          src='https://images.ktestone.com/default/languageIcon/kor-icon.png'
+          src='/images/default/languageIcon/kor-icon.png'
           style={{
             width: '2rem',
             display: 'inline',
@@ -66,7 +66,7 @@ const MbtiImgGenCheckT = ({ conceptType }) => {
         <img
           onClick={() => setLang('Eng')}
           loading='lazy'
-          src='https://images.ktestone.com/default/languageIcon/usa-icon.png'
+          src='/images/default/languageIcon/usa-icon.png'
           style={{
             width: '2rem',
             display: 'inline',
@@ -78,7 +78,7 @@ const MbtiImgGenCheckT = ({ conceptType }) => {
         <img
           onClick={() => setLang('JP')}
           loading='lazy'
-          src='https://images.ktestone.com/default/languageIcon/japan-icon.png'
+          src='/images/default/languageIcon/japan-icon.png'
           style={{
             width: '2rem',
             display: 'inline',
@@ -337,7 +337,7 @@ const MbtiImgGenCheckT = ({ conceptType }) => {
       <div>
         <img
           style={{ width: '100%', maxWidth: '25rem', margin: '0 auto' }}
-          src='https://images.ktestone.com/aiImgGen/resultCheck/upper-banner.png'
+          src='/images/aiImgGen/resultCheck/upper-banner.png'
           alt='upper-side-img'
         />
       </div>
@@ -352,12 +352,12 @@ const MbtiImgGenCheckT = ({ conceptType }) => {
             >
               <img
                 style={{ width: '2rem' }}
-                src='https://images.ktestone.com/aiImgGen/resultCheck/left-banner.png'
+                src='/images/aiImgGen/resultCheck/left-banner.png'
                 alt='left-side-img'
               />
               <img
                 style={{ width: '2rem' }}
-                src='https://images.ktestone.com/aiImgGen/resultCheck/left-banner.png'
+                src='/images/aiImgGen/resultCheck/left-banner.png'
                 alt='left-side-img'
               />
             </div>
@@ -431,12 +431,12 @@ const MbtiImgGenCheckT = ({ conceptType }) => {
             >
               <img
                 style={{ width: '2rem' }}
-                src='https://images.ktestone.com/aiImgGen/resultCheck/right-banner.png'
+                src='/images/aiImgGen/resultCheck/right-banner.png'
                 alt='right-side-img'
               />
               <img
                 style={{ width: '2rem' }}
-                src='https://images.ktestone.com/aiImgGen/resultCheck/right-banner.png'
+                src='/images/aiImgGen/resultCheck/right-banner.png'
                 alt='right-side-img'
               />
             </div>

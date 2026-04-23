@@ -13,15 +13,15 @@ const PostWrite = (props) => {
   const [ShowPopup, setShowPopup] = useState(false);
   const [userNickname, setUserNickname] = useState('');
   const letterForm =
-    'https://images.ktestone.com/PostImg2022/postPaper/postPaper_background_.png';
+    '/images/PostImg2022/postPaper/postPaper_background_.png';
   const completeToClose =
-    'https://images.ktestone.com/PostImg2022/postPaper/close_button.png';
+    '/images/PostImg2022/postPaper/close_button.png';
   const completePopupBg =
-    'https://images.ktestone.com/PostImg2022/postPaper/complete_background.png';
+    '/images/PostImg2022/postPaper/complete_background.png';
   const completeToPostbox =
-    'https://images.ktestone.com/PostImg2022/PostList/postList_create_button.png';
+    '/images/PostImg2022/PostList/postList_create_button.png';
   const sendMailBtnImg =
-    'https://images.ktestone.com/PostImg2022/PostList/postList_send_button.png';
+    '/images/PostImg2022/PostList/postList_send_button.png';
   const instance = axios.create({
     headers: {
       'Content-Type': 'application/json',

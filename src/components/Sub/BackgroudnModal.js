@@ -78,7 +78,7 @@ const BackgroundModal = ({ testTitle, testResultContents, testLang }) => {
       >
         <div>
           <img
-            src={`https://images.ktestone.com/resultImages/${testTitle}/${testTitle}-modal-header.jpg`}
+            src={`https://web.archive.org/web/0im_/https://images.ktestone.com/resultImages/${testTitle}/${testTitle}-modal-header.jpg`}
             alt={`${testTitle}`}
             className='result-img'
             onClick={showModal}
@@ -126,7 +126,7 @@ const BackgroundModal = ({ testTitle, testResultContents, testLang }) => {
               </a>
             ) : null}
             <img
-              src={`https://images.ktestone.com/resultImages/${testTitle}/backgroundImage/${testResultContents?.type}.png`}
+              src={`https://web.archive.org/web/0im_/https://images.ktestone.com/resultImages/${testTitle}/backgroundImage/${testResultContents?.type}.png`}
               alt='sample'
               width={'100%'}
             />

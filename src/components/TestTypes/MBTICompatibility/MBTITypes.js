@@ -6,7 +6,7 @@ const MBTITypes = ({ myType, yourType }) => {
     <div>
       <img
         style={{ width: '100%', borderRadius: '1rem' }}
-        src='https://images.ktestone.com/meta/compatibility/compatibility-result-top.jpg'
+        src='https://web.archive.org/web/0im_/https://images.ktestone.com/meta/compatibility/compatibility-result-top.jpg'
         alt='result-top'
       />
       <Row

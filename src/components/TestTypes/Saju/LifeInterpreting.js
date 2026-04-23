@@ -107,7 +107,7 @@ const LifeInterpreting = (props) => {
           />
           <meta
             property='og:image'
-            content={`https://images.ktestone.com/main-thumbnail/lifeInterpreting-thumb.png`}
+            content={`https://web.archive.org/web/0im_/https://images.ktestone.com/main-thumbnail/lifeInterpreting-thumb.png`}
           />
           <meta
             property='og:image:alt'
@@ -130,7 +130,7 @@ const LifeInterpreting = (props) => {
           />
           <meta
             property='twitter:image'
-            content={`https://images.ktestone.com/main-thumbnail/lifeInterpreting-thumb.png`}
+            content={`https://web.archive.org/web/0im_/https://images.ktestone.com/main-thumbnail/lifeInterpreting-thumb.png`}
           />
           <meta
             property='twitter:image:alt'
@@ -141,7 +141,7 @@ const LifeInterpreting = (props) => {
           <img
             loading='lazy'
             className='life-interpreting-intro-bg'
-            src='https://images.ktestone.com/meta/saju/lifeInterpreting-intro-input-bg.jpg'
+            src='/images/meta/saju/lifeInterpreting-intro-input-bg.jpg'
             alt='life-interpreting-intro-input'
           />
           <div className='life-interpreting-intro-date-picker-div'>
@@ -183,7 +183,7 @@ const LifeInterpreting = (props) => {
             <img
               loading='lazy'
               className='life-interpreting-intro-btn'
-              src='https://images.ktestone.com/meta/saju/lifeInterpreting-intro-submit-btn.jpg'
+              src='/images/meta/saju/lifeInterpreting-intro-submit-btn.jpg'
               alt='life-interpreting-intro-btn'
             />
           </div>

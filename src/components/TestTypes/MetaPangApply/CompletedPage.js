@@ -30,7 +30,7 @@ function CompletedPage(props) {
   return (
     <div>
       <ContentImg
-        src={`https://images.ktestone.com/MetaPang/Apply/MetaPangApplyCompleted_01.png`}
+        src={`https://web.archive.org/web/0im_/https://images.ktestone.com/MetaPang/Apply/MetaPangApplyCompleted_01.png`}
         alt='BG1'
       />
       <a
@@ -46,13 +46,13 @@ function CompletedPage(props) {
         }}
       >
         <ContentImg
-          src={`https://images.ktestone.com/MetaPang/Apply/MetaPangApplyCompleted_02.png`}
+          src={`https://web.archive.org/web/0im_/https://images.ktestone.com/MetaPang/Apply/MetaPangApplyCompleted_02.png`}
           alt='BG2'
           className='metapang-apply-complete-kakao-plusfriend-banner'
         />
       </a>
       <ContentImg
-        src={`https://images.ktestone.com/MetaPang/Apply/MetaPangApplyCompleted_03.png`}
+        src={`https://web.archive.org/web/0im_/https://images.ktestone.com/MetaPang/Apply/MetaPangApplyCompleted_03.png`}
         alt='BG3'
       />
       {/* {AdplusAdvertiser()} */}

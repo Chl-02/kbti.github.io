@@ -105,7 +105,7 @@ const LifetimeSajuResult = (props) => {
       <img
         loading='lazy'
         className='todayLuck-top-banner-sample'
-        src='https://images.ktestone.com/meta/saju/lifetimeSaju-top-banner.jpg'
+        src='/images/meta/saju/lifetimeSaju-top-banner.jpg'
         alt='todayLuck-top-banner-sample'
       />
       {isOpened || coupangCookies?.coupang ? (

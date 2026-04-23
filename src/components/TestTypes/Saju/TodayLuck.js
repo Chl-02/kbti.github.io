@@ -105,7 +105,7 @@ const TodayLuck = (props) => {
           />
           <meta
             property='og:image'
-            content={`https://images.ktestone.com/main-thumbnail/todayLuck-thumb.png`}
+            content={`https://web.archive.org/web/0im_/https://images.ktestone.com/main-thumbnail/todayLuck-thumb.png`}
           />
           <meta
             property='og:image:alt'
@@ -128,7 +128,7 @@ const TodayLuck = (props) => {
           />
           <meta
             property='twitter:image'
-            content={`https://images.ktestone.com/main-thumbnail/todayLuck-thumb.png`}
+            content={`https://web.archive.org/web/0im_/https://images.ktestone.com/main-thumbnail/todayLuck-thumb.png`}
           />
           <meta
             property='twitter:image:alt'
@@ -139,7 +139,7 @@ const TodayLuck = (props) => {
           <img
             loading='lazy'
             className='todayLuck-intro-bg'
-            src='https://images.ktestone.com/meta/saju/todayLuck-intro-bg.jpg'
+            src='/images/meta/saju/todayLuck-intro-bg.jpg'
             alt='todayLuck-intro-input'
           />
           <div className='todayLuck-intro-date-picker-div'>
@@ -154,7 +154,7 @@ const TodayLuck = (props) => {
             <img
               loading='lazy'
               className='todayLuck-intro-btn'
-              src='https://images.ktestone.com/meta/saju/todayLuck-intro-submit-btn.jpg'
+              src='/images/meta/saju/todayLuck-intro-submit-btn.jpg'
               alt='todayLuck-intro-btn'
             />
           </div>

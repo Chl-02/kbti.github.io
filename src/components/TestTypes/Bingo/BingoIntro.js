@@ -42,7 +42,7 @@ const BingoIntro = ({
       </div>
       <img
         ref={mainImgRef}
-        src={`https://images.ktestone.com/introImages/${title}-intro.jpg`}
+        src={`https://web.archive.org/web/0im_/https://images.ktestone.com/introImages/${title}-intro.jpg`}
         alt='bingo1-intro'
         className='result-img'
       />
